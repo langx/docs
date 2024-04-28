@@ -35,18 +35,58 @@ layout:
 
 > Language learning with LangX can be a fun and **rewarding process!**
 
-## Features
+## A New and Simple Language Exchange App
 
-- **Connect with language learners**: Find and connect with people who are eager to learn and teach languages.
-- **Language Exchange Community**: Join a community of language learners and share your learning experiences.
-- **Teach and Learn**: Teach your native language and learn a new one in return.
+We're excited to announce the launch of LangX, a 100% free and open sourced language exchange app, best alternative of Tandem. The app is designed to help language learners connect with native speakers of the language they're learning.
 
-## How it Works
+## How It Works
+
+LangX is simple and straightforward to use. After signing up, you'll be asked to select your native language and the language you're learning. You'll then be matched with native speakers of your target language who are learning your native language.
 
 1. **Sign Up**: Create your account and list the languages you can teach and those you want to learn.
 2. **Find Partners**: Browse through our community of language learners and find your perfect match.
 3. **Start Exchanging**: Start your language exchange journey by teaching your native language and learning a new one.
 
-## Contributing
+- **Connect with language learners**: Find and connect with people who are eager to learn and teach languages.
+- **Language Exchange Community**: Join a community of language learners and share your learning experiences.
+- **Teach and Learn**: Teach your native language and learn a new one in return.
 
-We welcome contributions from the community. Please read our contributing guidelines for more information.
+> LangX is a great way to practice a new language with native speakers!
+
+## Features
+
+We offer a range of features to help you get the most out of your language learning experience:
+
+- **⚙️ Fine Tune Your Connections** : Customize your connection preferences to find the perfect language exchange partners by filtering options.
+
+- **🔍 Profile Insights** : Get insights into your language learning progress and habits directly from your profile.
+
+- **💬 Just Chat** : Experience our user-friendly chat interface. Learning a language has never been this fun and easy.
+
+- **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.
+
+- **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
+
+- **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
+
+- **🏅 Badge** : Earn badges for your achievements and display them on your profile.
+
+- **💰 Zero Cost** : Experience our comprehensive language learning features at zero cost. Absolutely no hidden charges or in-app purchases.
+
+- **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
+
+And, The Most Exciting one is that
+
+- **🤖 Learn with AI** : Harness the power of AI to accelerate your language learning journey. Get personalized feedback. It is going to be your private language copilot, it feedbacks you when you are practicing with a real person in a room. You are going to be so excited what it can speed up your actively language learning process. It's of course powered by AI. Stay tuned! _coming-soon_
+
+## Be a Contributor
+
+We're always looking for contributors to help improve LangX. If you're interested in contributing, join our <a href="https://discord.gg/CpDZ3kg2rJ" target="_blank">Discord server</a> and check out the project on <a href="https://github.com/langx/langx" target="_blank">GitHub</a>.
+
+>  Whatever you can contribute, whether it's code, design, or translations, marketing, and so on, we'd love to have you on board.
+
+Additionally, we're looking for language exchange partners to help test the app. To get started, simply sign up and create a profile. You'll then be able to start connecting with language exchange partners.
+
+## Conclusion
+
+We're excited to launch LangX and look forward to helping language learners connect with native speakers. To stay updated on the latest LangX news and updates, be sure to follow us on [Discord](https://discord.gg/CpDZ3kg2rJ).

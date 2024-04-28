@@ -33,4 +33,4 @@ Also there are one-time bonuses for referred friends of the daily maximum amount
 4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](staking.md).
 5. Last but not least; you can withdraw the tokens to your own [wallet](wallet.md) and buy more or sell them for fiat money/
 
-_**Okay, interesting, so, what is a token now?**_ If you want to know more about [blockchain](blockchain.md), tokens, [Web 3.0](web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.
+_**Okay, interesting, so, what is a token now?**_ If you want to know more about [blockchain](technology/blockchain.md), tokens, [Web 3.0](technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.

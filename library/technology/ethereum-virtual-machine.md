@@ -1,4 +1,4 @@
-# Ethereum Virtual Machine
+# 🎛️ Ethereum Virtual Machine
 
 ### Ethereum Virtual Machine
 

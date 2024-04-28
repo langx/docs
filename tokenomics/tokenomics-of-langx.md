@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/site-preview.png
+cover: ../.gitbook/assets/site-preview.png
 coverY: 0
 ---
 
-# Tokenomics of LangX
+# 🪙 LangX Token
 
 ### Tokenomics of LangX
 
@@ -27,10 +27,10 @@ The badges work as multiplicand for the before calculated amount. This percentag
 
 Also there are one-time bonuses for referred friends of the daily maximum amount of possible message and activity contribution (0.0000001% of remaining daily supply). The calculation is made by the following formula: `(images*200+audios*100+messages*10)*(onlinetime/120) = Baseamount/3000 Baseamount*(streak/10)*badgesbonus = Distribution` as an example, to have an easier understanding: If you have sent 1 picture-messages, 3 voice-messages and 80 text-messages in about 1 hour of activity, it is your 10th day of the streak of coming online and you are an Early adopter, the calculation would be: (1\*200+3\*100+80\*10)\*60/120 = (200+300+800)\*0.5 = 1300 \* 0.5 = 750/3000 = 0,25 This means you are eligible for 25% of the daily maximum of 0.0000001% of the daily supply. To this will be multiplied your activity and your badges: 0,25\*(10/10)\*1.5 = 0.375 This will lead to a total distribution of 37.5% of the maximum possible amount. _**And what for?**_
 
-1. The ultimate use of this token for sure is to enhance ones own experience and knowledge progress by our AI support for learning [**Copilot**](copilot.md). One will be able to not only communicate with real people, but also with an AI which will respond to one in real-time, just as if there was someone even if no one is actually available, basically a non-stop-way for one to improve whenever they want.
+1. The ultimate use of this token for sure is to enhance ones own experience and knowledge progress by our AI support for learning [**Copilot**](../library/copilot.md). One will be able to not only communicate with real people, but also with an AI which will respond to one in real-time, just as if there was someone even if no one is actually available, basically a non-stop-way for one to improve whenever they want.
 2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.
 3. Eventually we will implement a marketplace for platform-exclusive emoticons and expressions which only eligible currency this token will be.
-4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](staking.md).
-5. Last but not least; you can withdraw the tokens to your own [wallet](wallet.md) and buy more or sell them for fiat money/
+4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
+5. Last but not least; you can withdraw the tokens to your own [wallet](../learn-2-earn/wallet.md) and buy more or sell them for fiat money/
 
-_**Okay, interesting, so, what is a token now?**_ If you want to know more about [blockchain](technology/blockchain.md), tokens, [Web 3.0](technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.
+_**Okay, interesting, so, what is a token now?**_ If you want to know more about [blockchain](../library/technology/blockchain.md), tokens, [Web 3.0](../library/technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.

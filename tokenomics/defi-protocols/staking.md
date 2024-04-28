@@ -1,4 +1,4 @@
-# Staking
+# 🔐 Staking
 
 ### Staking
 

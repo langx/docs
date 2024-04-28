@@ -27,7 +27,7 @@ layout:
 | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
 | [![](assets/ios.png)](https://apps.apple.com/app/languagexchange/id6474187141) | [![](assets/android.png)](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [![](assets/pwa.png)](https://app.langx.io) |
 
-![Featured Image](assets/featured-image.png)
+![Start Today Practice, Learn, Succeed with Langx](assets/featured-image.png)
 
 > Words are the keys that unlock, a world of connections.
 
@@ -41,12 +41,12 @@ layout:
 - **Language Exchange Community**: Join a community of language learners and share your learning experiences.
 - **Teach and Learn**: Teach your native language and learn a new one in return.
 
-### How it Works
+## How it Works
 
 1. **Sign Up**: Create your account and list the languages you can teach and those you want to learn.
 2. **Find Partners**: Browse through our community of language learners and find your perfect match.
 3. **Start Exchanging**: Start your language exchange journey by teaching your native language and learning a new one.
 
-### Contributing
+## Contributing
 
 We welcome contributions from the community. Please read our contributing guidelines for more information.

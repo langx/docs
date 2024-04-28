@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/site-preview.png
+coverY: 0
+---
+
 # Tokenomics of LangX
 
 ### Tokenomics of LangX

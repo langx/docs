@@ -12,7 +12,3 @@ Here you can find anything you need to know about our very own token, as well as
   * [Ethereum Virtual Machine](ethereum-virtual-machine.md)
   * [Smart Contracts](smart-contracts.md)
 * [Copilot](copilot.md)
-
-[NextTokenomics of LangX](<.gitbook/assets/tokenomics of langx>)
-
-Last updated 9 days ago

@@ -1,9 +1,9 @@
 # Table of contents
 
-## 🎉 Welcome to LangX Token
+## 🎉 Welcome
 
 * [🌎 Practice, Learn, Succeed!](README.md)
-* [🗂️ Litepaper Index](welcome-to-langx-token/litepaper-index.md)
+* [🗂️ Litepaper Index](welcome/litepaper-index.md)
 
 ## 📊 Tokenomics
 
@@ -20,7 +20,7 @@
 
 * [🤖 Copilot](library/copilot.md)
 * [🖥️ Technology](library/technology/README.md)
-  * [3️⃣ WEB 3.0](library/technology/web-3.0.md)
+  * [3️⃣ 3️⃣ WEB 3.0](library/technology/web-3.0.md)
   * [⛓️ Blockchain](library/technology/blockchain.md)
   * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)
   * [📔 Smart Contracts](library/technology/smart-contracts.md)

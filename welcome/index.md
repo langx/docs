@@ -1,4 +1,8 @@
-# Table of contents
+# 🗂️ Table of Contents
+
+### Table of Contents
+
+Here you can find anything you need to know about our very own token, as well as some general base knowledge for crypto-currencies and anything related.
 
 ## 🎉 Welcome
 

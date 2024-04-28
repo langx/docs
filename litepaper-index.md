@@ -7,7 +7,7 @@ Here you can find anything you need to know about our very own token, as well as
 * [Tokenomics](tokenomics-of-langx.md)
 * [Wallet](wallet.md)
 * [Staking](staking.md)
-* Technology and background-knowledge
+* [Technology](technology.md)
   * [Blockchain](blockchain.md)
   * [Ethereum Virtual Machine](ethereum-virtual-machine.md)
   * [Smart Contracts](smart-contracts.md)

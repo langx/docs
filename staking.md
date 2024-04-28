@@ -23,9 +23,3 @@ Let’s delve into the world of staking in the crypto space. Staking is a fascin
    * Popular staking tokens include **Ethereum**, **Tezos**, **Cosmos**, **Solana**, and **LangX**.
 
 Remember that staking involves unique risks, so always do your research and understand the specifics of each blockchain before participating. Happy staking! 🚀
-
-credits to [COPILOT](broken-reference), 8th April 2024
-
-[PreviousWallet](broken-reference)[NextTechnology](broken-reference)
-
-Last updated 10 days ago

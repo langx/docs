@@ -29,9 +29,3 @@ Let’s unravel the mystery of smart contracts:
    * Test it in a safe environment, and when ready, deploy it to the blockchain.
 
 Smart contracts are like digital wizards—making promises and keeping them!
-
-credits to [COPILOT](broken-reference), 8th April 2024
-
-[PreviousEthereum Virtual Machine](broken-reference)[NextCopilot](broken-reference)
-
-Last updated 17 days ago

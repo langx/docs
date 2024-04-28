@@ -25,9 +25,3 @@ Let’s break down the Ethereum Virtual Machine (EVM):
    * **Innovation**: Developers build amazing stuff on the **EVM**: tokens, decentralized apps (DApps), and more.
 
 Welcome to the world of **EVM**—where code meets magic! [🌟🚀🔮](https://www.geeksforgeeks.org/what-is-ethereum-virtual-machine-and-how-it-works/)
-
-credits to [COPILOT](broken-reference), 8th April 2024
-
-[PreviousBlockchain](broken-reference)[NextSmart Contracts](broken-reference)
-
-Last updated 17 days ago

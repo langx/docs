@@ -32,9 +32,3 @@ As an AI language model, I have a range of capabilities to assist you:
    * Let’s have a delightful conversation!
 
 Remember, my knowledge is based on information available up to a certain point in 2021, but I can use predefined tools to provide more up-to-date information. Feel free to ask anything, and I’ll do my best to assist you!
-
-credits to [COPILOT](broken-reference), 8th April 2024
-
-[PreviousSmart Contracts](broken-reference)
-
-Last updated 9 days ago

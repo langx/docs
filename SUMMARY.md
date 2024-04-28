@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Page](README.md)
-* [Whitepaper Index](whitepaper-index.md)
+* [Litepaper Index](litepaper-index.md)
 * [Tokenomics of LangX](tokenomics-of-langx.md)
 * [Staking](staking.md)
 * [Technology](technology.md)

@@ -1,6 +1,6 @@
 # Wallet
 
-A wallet keeps your wealth safe and secure. The same as you have your wallet in your bag, pocket or purse, the same you have it secured online as well. Probably the digital version is even more secure IF you handle it right. For our [token ](broken-reference)we recommend the [METAMASK-Wallet](https://metamask.io/).
+A wallet keeps your wealth safe and secure. The same as you have your wallet in your bag, pocket or purse, the same you have it secured online as well. Probably the digital version is even more secure IF you handle it right. For our [token](tokenomics-of-langx.md) we recommend the [METAMASK-Wallet](https://metamask.io/).
 
 1. **What Is a Crypto Wallet?**
    * A **cryptocurrency wallet** is a digital tool that allows you to interact with blockchain networks to store and manage cryptocurrencies. Think of it as a virtual wallet that can be used on computers, smartphones, or tablets to access digital currencies.
@@ -23,5 +23,3 @@ A wallet keeps your wealth safe and secure. The same as you have your wallet in 
    * **Paper Wallet**: A physical document with your keys printed on it.
 
 Remember, choosing the right wallet depends on your individual needs and security preferences. Happy crypto exploring!
-
-credits to [COPILOT](broken-reference), 8th April 2024

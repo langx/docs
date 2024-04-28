@@ -22,5 +22,3 @@ Let’s break down **Web3**:
    * **Adventure**: **Web3** is uncharted territory. It’s like exploring a hidden cave full of treasures.
 
 So, my friend, get ready to put on your digital cape and dive into **Web3**. It’s a wild ride, and you’re invited! 🚀🌐🔥
-
-credits to [COPILOT](broken-reference), 8th April 2024

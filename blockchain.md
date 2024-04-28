@@ -24,9 +24,3 @@ Let’s break down Blockchain
    * It’s changing how we do business, share data, and even play with digital cats! 🌐🔒🚀
 
 Remember, you’re now part of the **Web3** generation!
-
-credits to [COPILOT](broken-reference), 8th April 2024
-
-[PreviousWEB 3.0](broken-reference)[NextEthereum Virtual Machine](broken-reference)
-
-Last updated 17 days ago

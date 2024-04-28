@@ -31,6 +31,6 @@ Also there are one-time bonuses for referred friends of the daily maximum amount
 2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.
 3. Eventually we will implement a marketplace for platform-exclusive emoticons and expressions which only eligible currency this token will be.
 4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
-5. Last but not least; you can withdraw the tokens to your own [wallet](../learn-2-earn/wallet.md) and buy more or sell them for fiat money/
+5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them for fiat money/
 
 _**Okay, interesting, so, what is a token now?**_ If you want to know more about [blockchain](../library/technology/blockchain.md), tokens, [Web 3.0](../library/technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.

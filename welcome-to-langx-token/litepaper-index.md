@@ -5,7 +5,7 @@
 Here you can find anything you need to know about our very own token, as well as some general base knowledge for crypto-currencies and anything related.
 
 * [Tokenomics](../tokenomics/tokenomics-of-langx.md)
-* [Wallet](../learn-2-earn/wallet.md)
+* [Wallet](../library/technology/wallet.md)
 * [Staking](../tokenomics/defi-protocols/staking.md)
 * [Technology](../library/technology/)
   * [Blockchain](../library/technology/blockchain.md)

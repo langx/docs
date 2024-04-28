@@ -15,12 +15,15 @@
 
 ## 💰 Learn 2 Earn
 
-* [💱 Wallet](learn-2-earn/wallet.md)
+* [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
+* [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
+* [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
 
 ## 📚 Library
 
 * [🤖 Copilot](library/copilot.md)
 * [🖥️ Technology](library/technology/README.md)
+  * [💸 Wallet](library/technology/wallet.md)
   * [3️⃣ 3️⃣ WEB 3.0](library/technology/web-3.0.md)
   * [⛓️ Blockchain](library/technology/blockchain.md)
   * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)

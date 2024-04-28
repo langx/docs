@@ -47,11 +47,11 @@ LangX is simple and straightforward to use. After signing up, you'll be asked to
 2. **Find Partners**: Browse through our community of language learners and find your perfect match.
 3. **Start Exchanging**: Start your language exchange journey by teaching your native language and learning a new one.
 
+> LangX is a great way to practice a new language with native speakers!
+
 - **Connect with language learners**: Find and connect with people who are eager to learn and teach languages.
 - **Language Exchange Community**: Join a community of language learners and share your learning experiences.
 - **Teach and Learn**: Teach your native language and learn a new one in return.
-
-> LangX is a great way to practice a new language with native speakers!
 
 ## Features
 
@@ -83,10 +83,10 @@ And, The Most Exciting one is that
 
 We're always looking for contributors to help improve LangX. If you're interested in contributing, join our <a href="https://discord.gg/CpDZ3kg2rJ" target="_blank">Discord server</a> and check out the project on <a href="https://github.com/langx/langx" target="_blank">GitHub</a>.
 
->  Whatever you can contribute, whether it's code, design, or translations, marketing, and so on, we'd love to have you on board.
+> Whatever you can contribute, whether it's code, design, or translations, marketing, and so on, we'd love to have you on board.
 
 Additionally, we're looking for language exchange partners to help test the app. To get started, simply sign up and create a profile. You'll then be able to start connecting with language exchange partners.
 
 ## Conclusion
 
-We're excited to launch LangX and look forward to helping language learners connect with native speakers. To stay updated on the latest LangX news and updates, be sure to follow us on [Discord](https://discord.gg/CpDZ3kg2rJ).
+We're excited to launch LangX and look forward to helping language learners connect with native speakers. To stay updated on the latest LangX news and updates, be sure to follow us on [X](https://x.com/langx_app) and [Bluesky](https://bsky.app/profile/langx.io).

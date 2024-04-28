@@ -1,2 +1,2 @@
-# docs
-Litepaper of LangX Token
+# Page
+

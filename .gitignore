@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# System files
+.DS_Store
+Thumbs.db

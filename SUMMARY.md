@@ -3,13 +3,14 @@
 ## 🎉 Welcome
 
 * [🌎 Practice, Learn, Succeed!](README.md)
-* [🗂️ Litepaper Index](welcome/litepaper-index.md)
+* [🗂️ Litepaper Index](welcome-to-langx-token/litepaper-index.md)
 
 ## 📊 Tokenomics
 
 * [🪙 LangX Token](tokenomics/tokenomics-of-langx.md)
 * [💎 DeFi Protocols](tokenomics/defi-protocols/README.md)
   * [🔐 Staking](tokenomics/defi-protocols/staking.md)
+  * [💱 Trading](tokenomics/defi-protocols/staking-1.md)
 * [🖼️ LangX NFT](tokenomics/langx-nft.md)
 
 ## 💰 Learn 2 Earn

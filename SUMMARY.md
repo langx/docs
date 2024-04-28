@@ -6,7 +6,7 @@
   * [📱 Get the App](https://get.langx.io)
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 Twitter (X)](https://x.com/langx\_app)
-* [🗂️ Litepaper Index](welcome-to-langx-token/litepaper-index.md)
+* [🗂️ Table of Contents](welcome-to-langx-token/litepaper-index.md)
 
 ## 📊 Tokenomics
 

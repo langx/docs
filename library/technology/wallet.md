@@ -1,3 +1,7 @@
+---
+description: A comprehensive guide to understanding digital wallets, their functionality, types, and how they interact with blockchain networks.
+---
+
 # 💸 Wallet
 
 A wallet keeps your wealth safe and secure. The same as you have your wallet in your bag, pocket or purse, the same you have it secured online as well. Probably the digital version is even more secure IF you handle it right. For our [token](../../langx-token/token/) we recommend the [METAMASK-Wallet](https://metamask.io/).

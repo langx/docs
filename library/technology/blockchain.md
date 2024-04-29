@@ -1,6 +1,8 @@
-# ⛓️ Blockchain
+---
+description: A beginner-friendly introduction to the concept of blockchain, its workings, benefits, and real-world applications.
+---
 
-### Blockchain
+# ⛓️ Blockchain
 
 Let’s break down Blockchain
 

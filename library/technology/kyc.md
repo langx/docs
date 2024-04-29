@@ -1,3 +1,7 @@
+---
+description: An in-depth guide to understanding KYC (Know Your Customer), its importance in regulatory compliance, key components, and its role in preventing financial crimes.
+---
+
 # 🛡️ KYC
 
 ## Understanding KYC (Know Your Customer) in Depth

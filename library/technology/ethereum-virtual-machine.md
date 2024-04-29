@@ -1,6 +1,8 @@
-# 🎛️ Ethereum Virtual Machine
+---
+description: A comprehensive guide to understanding the Ethereum Virtual Machine (EVM), its purpose, workings, key features, and why it matters.
+---
 
-### Ethereum Virtual Machine
+# 🎛️ Ethereum Virtual Machine
 
 Let’s break down the Ethereum Virtual Machine (EVM):
 

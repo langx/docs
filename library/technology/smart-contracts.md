@@ -1,6 +1,8 @@
-# 📔 Smart Contracts
+---
+description: An in-depth exploration of smart contracts, their functionality, benefits, real-world applications, and how to write one.
+---
 
-### Smart Contracts
+# 📔 Smart Contracts
 
 Let’s unravel the mystery of smart contracts:
 

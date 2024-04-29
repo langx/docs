@@ -131,6 +131,6 @@ This example leads to a total distribution of 1071 tokens due to your activity l
 4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
 5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them in a market.
 
-### _**What is a Token ?**_
+## _**What is a Token ?**_
 
 _**Okay, interesting, so, what is a token now basically?**_ If you want to know more about [blockchain](../library/technology/blockchain.md), tokens, [Web 3.0](../library/technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.

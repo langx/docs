@@ -10,7 +10,10 @@
 
 ## 🪙 LangX Token
 
-* [🪙 Token](langx-token/token.md)
+* [🪙 Token](langx-token/token/README.md)
+  * [📈 Distibution](langx-token/token/distibution/README.md)
+    * [💡 Example Scenario](langx-token/token/distibution/example-scenario.md)
+  * [😎 Utility](langx-token/token/utility.md)
 * [💎 DeFi Protocols](tokenomics/defi-protocols/README.md)
   * [🔐 Staking](tokenomics/defi-protocols/staking.md)
   * [💱 Trading](tokenomics/defi-protocols/trading.md)

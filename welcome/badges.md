@@ -10,19 +10,19 @@ The **Fundamental Badge** is awarded to users who make significant code contribu
 
 The **Sponsor Badge** is a special recognition given to those who support the project through Discord boosting or by becoming GitHub sponsor subscribers. This badge not only acknowledges the financial support that is crucial for the project's growth and sustainability, but it also comes with a multiplier effect of x2.0. This translates into a 100% bonus on top of the base amount, highlighting the significant value and appreciation for the sponsors' contributions. By boosting on Discord or subscribing on GitHub, sponsors play a key role in empowering the development team and ensuring the continuous improvement of the project.
 
-\[image]
+![Sponsor Badge](/.gitbook/assets/badges/sponsor.png)
 
 ## Early-Adopter Badge
 
 The **Early-Adopter Badge** is an exclusive honor awarded to the **first 5000 registered users** who have shown their unwavering support from the very beginning. This badge not only commemorates their pioneering spirit but also rewards them with a multiplier effect of x1.5, equating to a 50% bonus on the base amount. Early adopters are instrumental in shaping the project's direction and growth, and this badge is a token of recognition for their crucial contributions and faith in the project's potential.
 
-\[image]
+![Early-Adopter](/.gitbook/assets/badges/early-adopter.png)
 
 ## Pioneer Badge
 
 The **Pioneer Badge** is awarded to the **first 25,000 registered users** who joined the community in its early stages, following the initial trailblazers. This badge celebrates their keen foresight and contributions, enhancing their engagement with a **20% bonus** on the base amount, reflected as a x1.2 multiplier. Pioneers play a vital role in building and nurturing the project's ecosystem, offering valuable feedback and support as the platform evolves.
 
-\[image]
+![Pioneer Badge](/.gitbook/assets/badges/pioneer.png)
 
 ## Teacher Badge
 
@@ -32,15 +32,13 @@ Earning this badge signifies that an educator has been identified for their rele
 
 **To get this badge, please introduce yourself as a teacher to our** [**Discord**](https://discord.langx.io)**.** This step is essential for those seeking acknowledgment of their contribution and interested in joining a network of esteemed educators who make a difference every day.
 
-\[image]
+![Teacher Badge](/.gitbook/assets/badges/teacher.png)
 
 ## Creator Badge
 
 The **Creator Badge** is awarded to those who enrich our community with their creativity and original content. Whether you're crafting informative **blog posts, sharing insightful social media posts about us, creating engaging memes, or producing any form of creative contribution,** this badge is for you. Like the Teacher Badge, it comes with a **10% bonus** on base earnings, represented by a x1.1 multiplier to your standard remuneration, acknowledging and promoting your creative endeavors. To earn this badge, showcase your creations by contributing to our [Discord](https://discord.langx.io). This initiative is aimed at recognizing and rewarding the unique talents within our community, encouraging a vibrant tapestry of content that drives connection and growth among members.
 
-\[image]
-
-
+![Creator Badge](/.gitbook/assets/badges/creator.png)
 
 ## Bonus Percentages
 

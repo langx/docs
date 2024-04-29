@@ -2,7 +2,7 @@
 description: Step-by-step guide on how to connect your wallet to your account for seamless interaction with our services.
 ---
 
-# 2️⃣ Connect Wallet
+# 🔗 Connect Wallet
 
 ## Connecting Your Wallet to Your Account
 

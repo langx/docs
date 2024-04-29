@@ -21,9 +21,9 @@
 
 ## 🎓 Learn 2 Earn
 
-- [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
-- [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
-- [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
+- [📅 Daily Tokens](learn-2-earn/daily-tokens.md)
+- [🔗 Connect Wallet](learn-2-earn/connect-wallet.md)
+- [💰 Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
 
 ## 📚 Library
 

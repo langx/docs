@@ -4,7 +4,7 @@ description: >-
   and how to check your token allocation.
 ---
 
-# 1️⃣ 1️⃣ Daily Tokens
+# 📅 Daily Tokens
 
 ## Token Distribution
 

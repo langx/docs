@@ -8,13 +8,13 @@
   * [🐦 X (Twitter)](https://x.com/langx\_app)
 * [🗂️ Table of Contents](welcome/index.md)
 
-## 📊 Tokenomics
+## 🪙 LangX Token
 
-* [🪙 LangX Token](tokenomics/langx-token.md)
-* [💎 DeFi Protocols](tokenomics/defi-protocols/README.md)
-  * [🔐 Staking](tokenomics/defi-protocols/staking.md)
-  * [💱 Trading](tokenomics/defi-protocols/trading.md)
-* [🖼️ LangX NFT](tokenomics/langx-nft.md)
+* [🪙 LangX Token](langx-token/langx-token.md)
+* [💎 DeFi Protocols](langx-token/defi-protocols/README.md)
+  * [🔐 Staking](langx-token/defi-protocols/staking.md)
+  * [💱 Trading](langx-token/defi-protocols/trading.md)
+* [🖼️ LangX NFT](langx-token/langx-nft.md)
 
 ## 💰 Learn 2 Earn
 

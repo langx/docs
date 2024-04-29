@@ -6,7 +6,7 @@
   * [📱 the "App"](https://get.langx.io)
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 X (Twitter)](https://x.com/langx\_app)
-* [🗂️ Table of Contents](welcome/table-of-contents.md)
+* [🏆 Badges](welcome/badges.md)
 
 ## 🪙 Token
 
@@ -20,9 +20,9 @@
 
 ## 💰 Learn 2 Earn
 
-* [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
-* [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
-* [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
+* [1️⃣ 1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
+* [2️⃣ 2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
+* [3️⃣ 3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
 
 ## 📚 Library
 

@@ -1,14 +1,16 @@
 ---
-description: Detailed guide on how daily tokens are distributed based on user activities and how to check your token allocation.
+description: >-
+  Detailed guide on how daily tokens are distributed based on user activities
+  and how to check your token allocation.
 ---
 
-# 1️⃣ Daily Tokens
+# 1️⃣ 1️⃣ Daily Tokens
 
 ## Token Distribution
 
-In our system, users are allocated tokens based on their participation and in app activities. These tokens represent your contribution and can be used for various purposes within our ecosystem. For more information please take a look [Distrubition](../langx-token/token/distibution/) and an [example](langx-token/token/distibution/example.md).
+In our system, users are allocated tokens based on their participation and in app activities. These tokens represent your contribution and can be used for various purposes within our ecosystem. For more information please take a look [Distrubition](broken-reference) and an [example](langx-token/token/distibution/example.md).
 
-[Token distribution](../langx-token/token/distibution/) is calculated at the end of each day. This means all activities and contributions you've made will be accounted for, and tokens will be allocated accordingly after the day has concluded.
+[Token distribution](broken-reference) is calculated at the end of each day. This means all activities and contributions you've made will be accounted for, and tokens will be allocated accordingly after the day has concluded.
 
 ### How to Check Your Token Allocation
 

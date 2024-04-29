@@ -1,5 +1,8 @@
 ---
-description: An introduction to LangX Copilot, an AI-powered tool designed to enhance your language learning experience with personalized feedback and privacy-focused features.
+description: >-
+  An introduction to LangX Copilot, an AI-powered tool designed to enhance your
+  language learning experience with personalized feedback and privacy-focused
+  features.
 ---
 
 # 🤖 Language Copilot
@@ -10,9 +13,9 @@ Introducing LangX Copilot, an innovative AI-powered tool designed to revolutioni
 
 One of the standout features of LangX Copilot is the personalized feedback mechanism designed to elevate your language learning process. Here's how it works:
 
-- **Privacy by Design:** Situated in the top right corner of any chat room interface, you will find a discrete toggle button. This powerful feature activates the Copilot’s personalized feedback system.
-- **In-the-Moment Corrections:** While engaging in conversation with others, activating this toggle allows you to receive real-time, AI-driven feedback. This ensures that you can immediately learn from any mistakes or refine your language use without breaking the flow of your conversation.
-- **See Your Feedback, Privately:** The feedback provided through this system is meant only for your eyes. These color-coded messages pop up within the chat room, giving you a clear, visual cue of areas for improvement, all while keeping your learning journey confidential.
+* **Privacy by Design:** Situated in the top right corner of any chat room interface, you will find a discrete toggle button. This powerful feature activates the Copilot’s personalized feedback system.
+* **In-the-Moment Corrections:** While engaging in conversation with others, activating this toggle allows you to receive real-time, AI-driven feedback. This ensures that you can immediately learn from any mistakes or refine your language use without breaking the flow of your conversation.
+* **See Your Feedback, Privately:** The feedback provided through this system is meant only for your eyes. These color-coded messages pop up within the chat room, giving you a clear, visual cue of areas for improvement, all while keeping your learning journey confidential.
 
 This innovative approach ensures a supportive, non-intrusive, and highly personalized language learning experience with LangX Copilot.
 
@@ -30,10 +33,10 @@ LangX differentiates itself not just through its AI capabilities but also by emb
 
 ### Features
 
-- **Personalized AI Feedback:** Get instant, personalized feedback as you engage in real-time language practice with others.
-- **Privacy at the Forefront:** Feedback is delivered privately within chat rooms with a unique color code, ensuring only you can see it.
-- **Community-Driven Development:** As a 100% open-source project, LangX thrives on community contributions and feedback.
-- **Comprehensive Learning Experience:** Beyond AI feedback, LangX aims to offer a wide range of features designed to support your language learning journey in a holistic manner.
+* **Personalized AI Feedback:** Get instant, personalized feedback as you engage in real-time language practice with others.
+* **Privacy at the Forefront:** Feedback is delivered privately within chat rooms with a unique color code, ensuring only you can see it.
+* **Community-Driven Development:** As a 100% open-source project, LangX thrives on community contributions and feedback.
+* **Comprehensive Learning Experience:** Beyond AI feedback, LangX aims to offer a wide range of features designed to support your language learning journey in a holistic manner.
 
 ## Coming Soon
 
@@ -41,4 +44,4 @@ The LangX team is tirelessly working on introducing more features to support you
 
 Join the LangX community today to experience a new era of language learning powered by AI and shaped by a commitment to privacy and community involvement. Your journey towards mastering a new language starts here.
 
-**While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the** [**LangX Token.**](../langx-token/token/)
+**While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the** [**LangX Token.**](broken-reference)

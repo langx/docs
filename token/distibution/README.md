@@ -1,4 +1,4 @@
-# 📈 Distribution
+# 📊 Distribution
 
 ## Token Distribution
 

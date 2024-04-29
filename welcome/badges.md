@@ -1,4 +1,4 @@
-# 🏆 Badges
+# 🏅 Badges
 
 ## Fundamental Badge
 

@@ -1,2 +1,2 @@
-# 🔗 Day Streaks
+# 🏆 Day Streaks
 

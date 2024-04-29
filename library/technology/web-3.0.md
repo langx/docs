@@ -2,7 +2,7 @@
 description: A detailed guide to understanding Web 3.0, its evolution from Web 1.0 and 2.0, key features like decentralization and blockchain, and its impact on digital ownership and privacy.
 ---
 
-# 🔼 WEB 3.0
+# 🌐 WEB 3.0
 
 Let’s break down **Web3**:
 

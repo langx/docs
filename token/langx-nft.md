@@ -1,4 +1,4 @@
-# 🎇 LangX NFT
+# 🎨 LangX NFT
 
 ## Earning Badges as NFTs
 

@@ -7,6 +7,7 @@
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 X (Twitter)](https://x.com/langx\_app)
 * [🏆 Badges](welcome/badges.md)
+* [⛓️ Day Streaks](welcome/day-streaks.md)
 
 ## 🪙 Token
 

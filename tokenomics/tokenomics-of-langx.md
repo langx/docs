@@ -15,9 +15,9 @@ _**Introduction**_ [LangX](../) is the economy-token of the even-named, free, op
 
 We, as a community, have decided to develop an own token for multiple reasons.
 
-* Users can earn tokens and seamlessly transfer them to their wallets for trading, embracing a [learn-to-earn](broken-reference) model through [Web 3.0 ](../library/technology/web-3.0.md)and [blockchain](../library/technology/blockchain.md) technologies. Many platforms offer alternative or unique ecosystem tokens, but later restrict access through paywalls or limitations, eroding trust in the crypto market. Our mission is to restore faith in cryptocurrencies by providing a transparent and unrestricted token ecosystem.
-* To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
-* Currently, we are the only language exchange platform that utilizes an actual token system.
+- Users can earn tokens and seamlessly transfer them to their wallets for trading, embracing a [learn-to-earn](broken-reference) model through [Web 3.0 ](../library/technology/web-3.0.md)and [blockchain](../library/technology/blockchain.md) technologies. Many platforms offer alternative or unique ecosystem tokens, but later restrict access through paywalls or limitations, eroding trust in the crypto market. Our mission is to restore faith in cryptocurrencies by providing a transparent and unrestricted token ecosystem.
+- To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
+- Currently, we are the only language exchange platform that utilizes an actual token system.
 
 ### Token Distribution
 
@@ -27,18 +27,18 @@ Our platform operates a straightforward token distribution system that features 
 
 To be eligible for daily token distribution, members' activities are assessed using the following criteria:
 
-* Number of text, voice, and image messages sent
-* Daily active time on the platform
-* Login streak
-* Badges earned during membership
+- Number of text, voice, and image messages sent
+- Daily active time on the platform
+- Login streak
+- Badges earned during membership
 
 #### Distribution Calculation
 
 The number of tokens you receive daily is calculated as a percentage of the daily supply remaining. This calculation:
 
-* Incorporates the above activities.
-* Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
-* Each person can receive a very small percentage of the available daily supply.
+- Incorporates the above activities.
+- Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
+- Each person can receive a very small percentage of the available daily supply.
 
 #### Anti-Abuse Measures
 
@@ -46,19 +46,23 @@ To ensure fairness and prevent exploitation, specific caps have been implemented
 
 This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
 
-> **Text-messages: 100 messages/day** \
-> **Voice-messages: 10 messages/day** \
-> **Image-messages: 5 messages/day** \
-> **Daily activity time: 120 minutes/day**
+| Feature             | Limit            |
+| ------------------- | ---------------- |
+| Text-messages       | 100 messages/day |
+| Voice-messages      | 10 messages/day  |
+| Image-messages      | 5 messages/day   |
+| Daily activity time | 120 minutes/day  |
 
 The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of 440% of the base amount is possible for now.
 
-> **Fundamental Badge: x3.0 (200% bonus)**\
-> **Sponsor Badge: x2.0 (100% bonus)** \
-> **Early-Adopter Badge: x1.5 (50% bonus)** \
-> **Pioneer Badge: x1.2 (20% bonus)** \
-> **Teacher Badge: x1.1 (10% bonus)** \
-> **Creator Badge: x1.1 (10% bonus)**
+| Badge               | Multiplier | Bonus |
+| ------------------- | ---------- | ----- |
+| Fundamental Badge   | x3.0       | 200%  |
+| Sponsor Badge       | x2.0       | 100%  |
+| Early-Adopter Badge | x1.5       | 50%   |
+| Pioneer Badge       | x1.2       | 20%   |
+| Teacher Badge       | x1.1       | 10%   |
+| Creator Badge       | x1.1       | 10%   |
 
 #### Calculation Example for Daily Maximum Bonus Distribution
 
@@ -72,22 +76,23 @@ To understand the distribution of one-time bonuses for referred friends based on
 
 **Example:**
 
-* **Inputs:**
-  * Images sent: 1
-  * Audio messages sent: 3
-  * Text messages sent: 80
-  * Online time: 1 hour (60 minutes)
-  * Streak: 10 days
-  * Badges bonus (Early Adopter): 1.5
-*   **Calculation Steps:**
+- **Inputs:**
+  - Images sent: 1
+  - Audio messages sent: 3
+  - Text messages sent: 80
+  - Online time: 1 hour (60 minutes)
+  - Streak: 10 days
+  - Badges bonus (Early Adopter): 1.5
+- **Calculation Steps:**
 
-    1. \[ (1 \* 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
-    2. `[(1*200+3*100+80*10)*(60/120)] = (200+300+800)*0.5 = Baseamount = 650`&#x20;
-    3. `650*(10/10)*1.5 = Distribution = 975`
-    4. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
+  1. \[ (1 \* 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
+  2. `[(1*200+3*100+80*10)*(60/120)] = (200+300+800)*0.5 = Baseamount = 650`&#x20;
+  3. `650*(10/10)*1.5 = Distribution = 975`
+  4. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
 
-    This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
-* **Final Calculation:** \[ 0.1083 \times (10 / 10) \times 1.5 = 0.16245 ]
+  This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
+
+- **Final Calculation:** \[ 0.1083 \times (10 / 10) \times 1.5 = 0.16245 ]
 
 This example leads to a total distribution of 16.25% of the maximum possible amount due to your activity level and your "Early Adopter" badge bonus.
 

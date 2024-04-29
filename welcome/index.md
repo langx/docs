@@ -1,37 +1,40 @@
 # 🗂️ Table of Contents
 
-### Table of Contents
+## Table of contents
 
-Here you can find anything you need to know about our very own token, as well as some general base knowledge for crypto-currencies and anything related.
+The Table of Contents provides an organized overview of the key sections and features available in this document. It's designed to help you quickly navigate to the information most relevant to you, whether you're looking for details on the LangX Token, exploring Learn 2 Earn opportunities, or seeking to engage with the community through our Discord channel. Click on any of the links to jump directly to that section.
 
-## 🎉 Welcome
+### 🎉 Welcome
 
-* [🌎 Practice, Learn, Succeed!](./)
+* 🌎 Practice, Learn, Succeed!
   * [📱 the "App"](https://get.langx.io)
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 X (Twitter)](https://x.com/langx\_app)
-* [🗂️ Table of Contents](welcome/index.md)
+* 🗂️ Table of Contents
 
-## 📊 Tokenomics
+### 🪙 Token
 
-* [🪙 LangX Token](tokenomics/langx-token.md)
-* [💎 DeFi Protocols](tokenomics/defi-protocols/)
-  * [🔐 Staking](tokenomics/defi-protocols/staking.md)
-  * [💱 Trading](tokenomics/defi-protocols/trading.md)
-* [🖼️ LangX NFT](tokenomics/langx-nft.md)
+* 🪙 LangX Token
+* 📈 Distribution
+  * 💡 Example
+* 🔐 Staking
+* 💱 Trading
+* 💎 Utility
+* 🎇 LangX NFT
 
-## 💰 Learn 2 Earn
+### 💰 Learn 2 Earn
 
-* [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
-* [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
-* [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
+* 1️⃣ Daily Tokens
+* 2️⃣ Connect Wallet
+* 3️⃣ Claim Your Tokens
 
-## 📚 Library
+### 📚 Library
 
-* [🤖 Copilot](library/copilot.md)
-* [🖥️ Technology](library/technology/)
-  * [💸 Wallet](library/technology/wallet.md)
-  * [🔼 WEB 3.0](library/technology/web-3.0.md)
-  * [⛓️ Blockchain](library/technology/blockchain.md)
-  * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)
-  * [📔 Smart Contracts](library/technology/smart-contracts.md)
+* 🤖 AI Language Copilot
+* 🖥️ Technology
+  * 💸 Wallet
+  * 🔼 WEB 3.0
+  * ⛓️ Blockchain
+  * 🎛️ Ethereum Virtual Machine
+  * 📔 Smart Contracts
+  * 🛡️ KYC

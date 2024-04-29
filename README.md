@@ -1,4 +1,8 @@
 ---
+description: >-
+  An overview of LangX, a free and open-source language exchange app designed to
+  connect language learners with native speakers. This document covers the app's
+  features, how it works, and h
 cover: .gitbook/assets/featured-screenshots.jpeg
 coverY: 0
 layout:

@@ -53,8 +53,8 @@ This balanced approach ensures that our token distribution remains equitable and
 
 The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of 440% of the base amount is possible for now.
 
-> **Fundamental Badge: x3.0 (300% bonus)**\
-> **Sponsor Badge: x1.5 (150% bonus)** \
+> **Fundamental Badge: x3.0 (200% bonus)**\
+> **Sponsor Badge: x2.0 (100% bonus)** \
 > **Early-Adopter Badge: x1.5 (50% bonus)** \
 > **Pioneer Badge: x1.2 (20% bonus)** \
 > **Teacher Badge: x1.1 (10% bonus)** \
@@ -66,15 +66,15 @@ To understand the distribution of one-time bonuses for referred friends based on
 
 **Formula:**\
 \
-`[(images*200+audios*100+messages*10)*(onlinetime/120)]/3000 = Baseamount`&#x20;
+`Baseamount = (images*200+audios*100+messages*10)*(onlinetime/120)*(streak/10)*badgesbonus` &#x20;
 
-`Baseamount*(streak/10)*badgesbonus = Distribution`
+`Baseamount = Distribution`
 
 **Example:**
 
 * **Inputs:**
   * Images sent: 1
-  * Voice messages sent: 3
+  * Audio messages sent: 3
   * Text messages sent: 80
   * Online time: 1 hour (60 minutes)
   * Streak: 10 days
@@ -82,7 +82,9 @@ To understand the distribution of one-time bonuses for referred friends based on
 *   **Calculation Steps:**
 
     1. \[ (1 \* 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
-    2. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
+    2. `[(1*200+3*100+80*10)*(60/120)] = (200+300+800)*0.5 = Baseamount = 650`&#x20;
+    3. `650*(10/10)*1.5 = Distribution = 975`
+    4. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
 
     This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
 * **Final Calculation:** \[ 0.1083 \times (10 / 10) \times 1.5 = 0.16245 ]

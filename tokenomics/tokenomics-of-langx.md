@@ -23,11 +23,19 @@ We, as a community, have decided to develop an own token for multiple reasons.
 
 In general our system works pretty easy. We have a general limited AND a daily limited supply of tokens we give away depending on how rewarding ones activity is for the community. We will award a percentage of the remaining daily supply daily to anyone who becomes eligible The calculation of the amount you get daily (and makes you eligible) is generated out of the numbers of text-, voice-, and image messages you send, your daily active time, the login-streak and the badges you have earned while being with us. The perimeters of course are capped so we can prevent abuse. Anything exceeding the lower mentioned caps will just don't add to the calculation anymore, but are still very welcome. The maximum amount one can reach only by this is 0.0000001% of the actually remaining daily supply.
 
-> Text-messages: 100 messages/day Voice-messages: 10 messages/day Image-messages: 5 messages/day Daily activity time: 120 minutes/day
+> **Text-messages: 100 messages/day** \
+> **Voice-messages: 10 messages/day** \
+> **Image-messages: 5 messages/day** \
+> **Daily activity time: 120 minutes/day**
 
 The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of 440% of the base amount is possible for now.
 
-> Fundamentalbadge: x3.0 (300% bonus) Sponsorbadge: x1.5 (150% bonus) Early-Adopterbadge: x1.5 (50% bonus) Pioneerbadge: x1.2 (20% bonus) Teacherbadge: x1.1 (10% bonus) Creatorbadge: x1.1 (10% bonus)
+> **Fundamental Badge: x3.0 (300% bonus)**\
+> **Sponsor Badge: x1.5 (150% bonus)** \
+> **Early-Adopter Badge: x1.5 (50% bonus)** \
+> **Pioneer Badge: x1.2 (20% bonus)** \
+> **Teacher Badge: x1.1 (10% bonus)** \
+> **Creator Badge: x1.1 (10% bonus)**
 
 Also there are one-time bonuses for referred friends of the daily maximum amount of possible message and activity contribution (0.0000001% of remaining daily supply). The calculation is made by the following formula: `(images*200+audios*100+messages*10)*(onlinetime/120) = Baseamount/3000 Baseamount*(streak/10)*badgesbonus = Distribution` as an example, to have an easier understanding: If you have sent 1 picture-messages, 3 voice-messages and 80 text-messages in about 1 hour of activity, it is your 10th day of the streak of coming online and you are an Early adopter, the calculation would be: (1\*200+3\*100+80\*10)\*60/120 = (200+300+800)\*0.5 = 1300 \* 0.5 = 750/3000 = 0,25 This means you are eligible for 25% of the daily maximum of 0.0000001% of the daily supply. To this will be multiplied your activity and your badges: 0,25\*(10/10)\*1.5 = 0.375 This will lead to a total distribution of 37.5% of the maximum possible amount. _**And what for?**_
 
@@ -35,7 +43,7 @@ Also there are one-time bonuses for referred friends of the daily maximum amount
 2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.
 3. Eventually we will implement a marketplace for platform-exclusive emoticons and expressions which only eligible currency this token will be.
 4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
-5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them for fiat money/
+5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them in a market.
 
 ### _**What is a Token ?**_
 

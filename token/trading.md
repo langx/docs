@@ -1,4 +1,4 @@
-# 🔄 Trading
+# 🔁 Trading
 
 ## Trading the LangX Token
 

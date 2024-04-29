@@ -2,7 +2,7 @@
 description: Claiming daily amount of tokens to your wallet.
 ---
 
-# 💰 Claim Your Tokens
+# 🪙 Claim Your Tokens
 
 To complete the process on our claim website, follow these steps: First, **Connect Your Wallet** by connecting your wallet to the website. Second, verify your eligibility by clicking the **Check Eligibility** button. If eligible, you can then proceed to click the **Claim** button. Lastly, **Sign the Transaction** using your wallet to finalize the process.
 

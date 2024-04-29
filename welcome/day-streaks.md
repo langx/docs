@@ -20,4 +20,6 @@ Engagement and progression are also incentivized through a unique token calculat
 
 To inject an element of motivation and competition among learners, the app features a Global Leaderboard. This leaderboard ranks users based on the length of their day-streaks, providing a graphical comparison of dedication levels across the globe. Climbing the ranks of the Global Leaderboard or simply watching your progress can serve as a powerful motivator, pushing learners to maintain their daily engagement and extend their day-streaks further.
 
+To compare your progress with others, simply tap your day-streak in your profile to open the Global Leaderboard. This quick access offers a motivational glance at your worldwide ranking, encouraging you to maintain and extend your learning streak.
+
 In essence, the focus on maintaining day-streaks offers an effective method for building and sustaining the habit of language learning. Through its simple yet strict rules, it encourages daily dedication, rewards consistency, and fosters a competitive yet supportive community of language learners worldwide.

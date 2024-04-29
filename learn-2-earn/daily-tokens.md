@@ -8,9 +8,9 @@ description: >-
 
 ## Token Distribution
 
-In our system, users are allocated tokens based on their participation and in app activities. These tokens represent your contribution and can be used for various purposes within our ecosystem. For more information please take a look [Distrubition](broken-reference) and an [example](langx-token/token/distibution/example.md).
+In our system, users are allocated tokens based on their participation and in app activities. These tokens represent your contribution and can be used for various purposes within our ecosystem. For more information please take a look [Distrubition](../token/distibution/) and an [example](../token/distibution/example.md).
 
-[Token distribution](broken-reference) is calculated at the end of each day. This means all activities and contributions you've made will be accounted for, and tokens will be allocated accordingly after the day has concluded.
+T[oken distribution ](../token/distibution/)is calculated at the end of each day. This means all activities and contributions you've made will be accounted for, and tokens will be allocated accordingly after the day has concluded.
 
 ### How to Check Your Token Allocation
 

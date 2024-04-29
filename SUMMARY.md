@@ -32,6 +32,6 @@
   * [🔐 Wallet](library/technology/wallet.md)
   * [🌐 WEB 3.0](library/technology/web-3.0.md)
   * [⛓️ Blockchain](library/technology/blockchain.md)
-  * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)
   * [📜 Smart Contracts](library/technology/smart-contracts.md)
+  * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)
   * [🔎 KYC](library/technology/kyc.md)

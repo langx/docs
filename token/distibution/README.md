@@ -49,14 +49,14 @@ This means that the user is eligible for 10.83% of the total daily token distrib
 
 The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **350%** of the base amount is possible for now.
 
-| Badge               | Multiplier | Bonus |
-| ------------------- | ---------- | ----- |
-| Fundamental Badge   | x3.0       | 200%  |
-| Sponsor Badge       | x2.0       | 100%  |
-| Early-Adopter Badge | x1.5       | 50%   |
-| Pioneer Badge       | x1.2       | 20%   |
-| Teacher Badge       | x1.1       | 10%   |
-| Creator Badge       | x1.1       | 10%   |
+| Badge                                                              | Multiplier | Bonus |
+| ------------------------------------------------------------------ | ---------- | ----- |
+| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)     | x3.0       | 200%  |
+| [Sponsor Badge](../../welcome/badges.md#sponsor-badge)             | x2.0       | 100%  |
+| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge) | x1.5       | 50%   |
+| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)             | x1.2       | 20%   |
+| [Teacher Badge](../../welcome/badges.md#teacher-badge)             | x1.1       | 10%   |
+| [Creator Badge](../../welcome/badges.md#creator-badge)             | x1.1       | 10%   |
 
 ### Anti-Abuse Measures
 

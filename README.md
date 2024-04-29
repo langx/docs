@@ -25,8 +25,8 @@ layout:
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat\&logo=discord\&logoColor=white)](https://discord.com/invite/2D3jW2YDgS) [![chat on Discord](https://img.shields.io/discord/1211339989967970375?logo=discord)](https://discord.com/invite/2D3jW2YDgS) [![Join us on Discord](https://dcbadge.vercel.app/api/server/2D3jW2YDgS?style=flat)](https://discord.com/invite/2D3jW2YDgS)
 
-|                                       iOS                                      |                                                  Android                                                 |                   Web App                   |
-| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
+|                                           iOS                                           |                                                      Android                                                      |                        Web App                       |
+| :-------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
 | [![](.gitbook/assets/ios.png)](https://apps.apple.com/app/languagexchange/id6474187141) | [![](.gitbook/assets/android.png)](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [![](.gitbook/assets/pwa.png)](https://app.langx.io) |
 
 ![Start Today Practice, Learn, Succeed with Langx](.gitbook/assets/featured-image.png)
@@ -39,11 +39,11 @@ layout:
 
 ## A New and Simple Language Exchange App
 
-We're excited to announce the launch of LangX, a 100% free and open sourced language exchange app, best alternative of Tandem. The app is designed to help language learners connect with native speakers of the language they're learning.
+We're excited to announce the launch of [LangX](https://get.langx.io), a 100% free and open sourced language exchange app, best alternative of Tandem. The app is designed to help language learners connect with native speakers of the language they're learning.
 
 ## How It Works
 
-LangX is simple and straightforward to use. After signing up, you'll be asked to select your native language and the language you're learning. You'll then be matched with native speakers of your target language who are learning your native language.
+[LangX](https://get.langx.io) is simple and straightforward to use. After signing up, you'll be asked to select your native language and the language you're learning. You'll then be matched with native speakers of your target language who are learning your native language.
 
 1. **Sign Up**: Create your account and list the languages you can teach and those you want to learn.
 2. **Find Partners**: Browse through our community of language learners and find your perfect match.
@@ -71,7 +71,7 @@ We offer a range of features to help you get the most out of your language learn
 
 And, The Most Exciting one is that
 
-* **🤖 Learn with AI** : Harness the power of AI to accelerate your language learning journey. Get personalized feedback. It is going to be your private language copilot, it feedbacks you when you are practicing with a real person in a room. You are going to be so excited what it can speed up your actively language learning process. It's of course powered by AI. Stay tuned! _coming-soon_
+* **🤖 Learn with AI** : Harness the power of AI to accelerate your language learning journey. Get personalized feedback. It is going to be your private language copilot, it feedbacks you when you are practicing with a real person in a room. You are going to be so excited what it can speed up your actively language learning process. It's of course powered by AI. Stay tuned! For more info:  [Language Copilot](library/language-copilot.md)
 
 ## Be a Contributor
 

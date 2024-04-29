@@ -40,20 +40,25 @@ The number of tokens you receive daily is calculated as a percentage of the dail
 - Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
 - Each person can receive a very small percentage of the available daily supply.
 
-#### Anti-Abuse Measures
+#### Formula
 
-To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
+`Baseamount = (images*200+audios*100+messages*10)*(onlinetime/120)*(streak/10)*badgesbonus`
 
-This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
+`Baseamount = Distribution`
 
-| Feature             | Limit            |
-| ------------------- | ---------------- |
-| Text-messages       | 100 messages/day |
-| Voice-messages      | 10 messages/day  |
-| Image-messages      | 5 messages/day   |
-| Daily activity time | 120 minutes/day  |
+**Multiplier and Distribution Percentage:**
 
-The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of 440% of the base amount is possible for now.
+The `Multiplier` is a factor that adjusts the base amount for each user. It's calculated for all users' base amounts at the time of checkout end of the day. The `Multiplier` could be a constant or a variable depending on the system's design. It's used to control the overall distribution of tokens.
+
+The distribution percentage is the proportion of the total daily distribution that a user is eligible for. It's calculated by dividing the user's distribution by the total distribution for all users.
+
+For example, if the total distribution for all users is 9000 tokens and a user's distribution is 975 tokens, the distribution percentage for that user would be `975 / 9000 = 0.1083` or 10.83%.
+
+This means that the user is eligible for 10.83% of the total daily distribution.
+
+#### Bonus Percentages
+
+The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **350%** of the base amount is possible for now.
 
 | Badge               | Multiplier | Bonus |
 | ------------------- | ---------- | ----- |
@@ -64,15 +69,36 @@ The badges work as multiplicand for the before calculated amount. This percentag
 | Teacher Badge       | x1.1       | 10%   |
 | Creator Badge       | x1.1       | 10%   |
 
-#### Calculation Example for Daily Maximum Bonus Distribution
+#### Anti-Abuse Measures
+
+To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
+
+This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
+
+| Feature             | Limit            |
+| ------------------- | ---------------- |
+| Text-Messages       | 100 messages/day |
+| Voice-Messages      | 10 messages/day  |
+| Image-Messages      | 5 messages/day   |
+| Daily Online Time   | 120 minutes/day  |
+
+#### Calculation Example for Daily Distribution
 
 To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
 
-**Formula:**\
-\
-`Baseamount = (images*200+audios*100+messages*10)*(onlinetime/120)*(streak/10)*badgesbonus` &#x20;
+**Formula:**
 
-`Baseamount = Distribution`
+`Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
+
+`Distribution = Multiplier * Baseamount`
+
+In this formula:
+- `Image-Messages`, `Voice-Messages`, and `Text-Messages` are the number of each type of message the user has sent.
+- `Online-Time` is the amount of time the user has spent online, divided by 120 to normalize it.
+- `Streak` is the number of consecutive days the user has been active, divided by 10 to turn it into a multiplier.
+- `Badges-Bonus` is a multiplier based on the badges the user has earned.
+- `Multiplier` is a factor that is used to adjust the base amount.
+- `Distribution` is the final amount of tokens that the user will receive for their activity.
 
 **Example:**
 
@@ -83,12 +109,14 @@ To understand the distribution of one-time bonuses for referred friends based on
   - Online time: 1 hour (60 minutes)
   - Streak: 10 days
   - Badges bonus (Early Adopter): 1.5
+
 - **Calculation Steps:**
 
-  1. \[ (1 \* 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
-  2. `[(1*200+3*100+80*10)*(60/120)] = (200+300+800)*0.5 = Baseamount = 650`&#x20;
-  3. `650*(10/10)*1.5 = Distribution = 975`
-  4. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
+  1. `Baseamount = [(1*200+3*100+80*10)*(60/120)*(10/10)*1.5] = (200+300+800)*0.5*1*1.5 = 975`
+
+
+
+  2. `Distribution = 975*1 = 975`
 
   This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
 

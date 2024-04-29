@@ -70,3 +70,7 @@ This balanced approach ensures that our token distribution remains equitable and
 | Voice-Messages | 10 messages/day  |
 | Image-Messages | 5 messages/day   |
 | Online-Time    | 120 minutes/day  |
+
+In this section, you can find an example related to this distribution.
+
+* [Example](example.md)

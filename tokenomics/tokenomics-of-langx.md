@@ -129,8 +129,14 @@ This result signifies you are eligible for 10.71% of the daily token distributio
 
 This example leads to a total distribution of 1071 tokens due to your activity level and your "Early Adopter" badge bonus.
 
-1. The ultimate use of this token for sure is to enhance ones own experience and knowledge progress by our AI support for learning [**Copilot**](../library/copilot.md). One will be able to not only communicate with real people, but also with an AI which will respond to one in real-time, just as if there was someone even if no one is actually available, basically a non-stop-way for one to improve whenever they want.
-2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.
-3. Eventually we will implement a marketplace for platform-exclusive emoticons and expressions which only eligible currency this token will be.
-4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
-5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them in a market.
+## Utility of LangX Tokens
+
+1. The primary use of LangX tokens is to enhance one's learning experience and knowledge progression with our AI support tool, [**Copilot**](../library/copilot.md). Users can interact not only with real people but also with an AI that responds in real-time, providing a continuous learning opportunity, regardless of the availability of other users.
+
+2. LangX tokens can also be used as a reward system, allowing users to send tokens to each other as a form of appreciation for help or services provided during practice sessions.
+
+3. In the future, we plan to implement a marketplace for platform-exclusive emoticons and expressions, where LangX tokens will be the only accepted currency.
+
+4. Similar to traditional saving accounts, LangX tokens can be [staked](defi-protocols/staking.md) in the world of cryptocurrency.
+
+5. Lastly, users can withdraw their LangX tokens to their personal [wallet](../library/technology/wallet.md) and either purchase more tokens or sell them on the market.

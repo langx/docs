@@ -21,7 +21,7 @@ The [formula](../../langx-token/token/distibution/#formula) for the daily bonus 
   * Online time: 1 hour (60 minutes)
   * Streak: 10 days
   * Badges bonus (Early Adopter): 1.5
-  * Daily tokens to be distributed by the smart contract: 10,000 tokens
+  * Daily tokens to be allocated by the smart contract: 10,000 tokens
 * **Calculation Steps:**
   1. `Baseamount = [(1*200+3*100+80*10)*(60/120)*(10/10)*1.5] = (200+300+800)*0.5*1*1.5 = 750`
   2. Assume `Total-Baseamounts` (the sum of base amounts of all users) is 7000. Then, `Distribution Percentage = Baseamount / Total-Baseamounts = 750 / 7000 = 0.1071` or 10.71%

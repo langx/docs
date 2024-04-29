@@ -4,7 +4,7 @@
 
 Copilot is our AI-supported way of learning.
 
-While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the LangX [token](broken-reference). Get to know our new friend:
+While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the [LangX Token.](../tokenomics/tokenomics-of-langx.md) Get to know our new friend:
 
 As an AI language model, I have a range of capabilities to assist you:
 
@@ -30,5 +30,3 @@ As an AI language model, I have a range of capabilities to assist you:
 7. **General Conversations and Engagement**:
    * I’m here to chat, answer questions, and engage in friendly banter.
    * Let’s have a delightful conversation!
-
-Remember, my knowledge is based on information available up to a certain point in 2021, but I can use predefined tools to provide more up-to-date information. Feel free to ask anything, and I’ll do my best to assist you!

@@ -42,19 +42,27 @@ The number of tokens you receive daily is calculated as a percentage of the dail
 
 #### Formula
 
-`Baseamount = (images*200+audios*100+messages*10)*(onlinetime/120)*(streak/10)*badgesbonus`
+`Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
 
-`Baseamount = Distribution`
+`Distribution Percentage  = Baseamount / Total-Baseamounts`
 
-**Multiplier and Distribution Percentage:**
+In this formula:
 
-The `Multiplier` is a factor that adjusts the base amount for each user. It's calculated for all users' base amounts at the time of checkout end of the day. The `Multiplier` could be a constant or a variable depending on the system's design. It's used to control the overall distribution of tokens.
+- `Image-Messages`, `Voice-Messages`, and `Text-Messages` are the number of each type of message the user has sent. These are weighted differently, with image messages contributing the most to the base amount and text messages the least.
+- `Online-Time` is the amount of time the user has spent online. This is divided by 120 to normalize it, meaning it reduces the value to a more manageable number. The more time a user spends online, the higher their base amount.
+- `Streak` is the number of consecutive days the user has been active. This is divided by 10 to convert it into a multiplier. The longer the user's streak of activity, the higher their base amount.
+- `Badges-Bonus` is a multiplier based on the badges the user has earned. The more badges or achievements a user has, the higher their base amount.
+- `Baseamount` is the total score calculated based on the user's activity. It's used to determine the user's share of the total token distribution.
+- `Total-Baseamounts` is the sum of the base amounts of all users. It represents the total activity of all users in the system.
+- `Distribution Percentage` is the percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive.
 
-The distribution percentage is the proportion of the total daily distribution that a user is eligible for. It's calculated by dividing the user's distribution by the total distribution for all users.
+**Distribution Percentage:**
 
-For example, if the total distribution for all users is 9000 tokens and a user's distribution is 975 tokens, the distribution percentage for that user would be `975 / 9000 = 0.1083` or 10.83%.
+The distribution percentage is the proportion of the total daily token distribution that a user is eligible for. It's calculated by dividing the user's base amount by the total base amounts of all users.
 
-This means that the user is eligible for 10.83% of the total daily distribution.
+For example, if the total base amounts for all users is 9000 and a user's base amount is 975, the distribution percentage for that user would be `975 / 9000 = 0.1083` or 10.83%.
+
+This means that the user is eligible for 10.83% of the total daily token distribution.
 
 #### Bonus Percentages
 
@@ -75,12 +83,12 @@ To ensure fairness and prevent exploitation, specific caps have been implemented
 
 This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
 
-| Feature             | Limit            |
-| ------------------- | ---------------- |
-| Text-Messages       | 100 messages/day |
-| Voice-Messages      | 10 messages/day  |
-| Image-Messages      | 5 messages/day   |
-| Daily Online Time   | 120 minutes/day  |
+| Feature        | Limit            |
+| -------------- | ---------------- |
+| Text-Messages  | 100 messages/day |
+| Voice-Messages | 10 messages/day  |
+| Image-Messages | 5 messages/day   |
+| Online-Time    | 120 minutes/day  |
 
 #### Calculation Example for Daily Distribution
 
@@ -90,19 +98,12 @@ To understand the distribution of one-time bonuses for referred friends based on
 
 `Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
 
-`Distribution = Multiplier * Baseamount`
-
-In this formula:
-- `Image-Messages`, `Voice-Messages`, and `Text-Messages` are the number of each type of message the user has sent.
-- `Online-Time` is the amount of time the user has spent online, divided by 120 to normalize it.
-- `Streak` is the number of consecutive days the user has been active, divided by 10 to turn it into a multiplier.
-- `Badges-Bonus` is a multiplier based on the badges the user has earned.
-- `Multiplier` is a factor that is used to adjust the base amount.
-- `Distribution` is the final amount of tokens that the user will receive for their activity.
+`Distribution Percentage  = Baseamount / Total-Baseamounts`
 
 **Example:**
 
 - **Inputs:**
+
   - Images sent: 1
   - Audio messages sent: 3
   - Text messages sent: 80
@@ -110,19 +111,19 @@ In this formula:
   - Streak: 10 days
   - Badges bonus (Early Adopter): 1.5
 
+  - Daily tokens to be distributed by the smart contract: 10,000 tokens
+
 - **Calculation Steps:**
 
-  1. `Baseamount = [(1*200+3*100+80*10)*(60/120)*(10/10)*1.5] = (200+300+800)*0.5*1*1.5 = 975`
+  1. `Baseamount = [(1*200+3*100+80*10)*(60/120)*(10/10)*1.5] = (200+300+800)*0.5*1*1.5 = 750`
 
+  2. Assume `Total-Baseamounts` (the sum of base amounts of all users) is 7000. Then, `Distribution Percentage = Baseamount / Total-Baseamounts = 750 / 7000 = 0.1071` or 10.71%
 
+This result signifies you are eligible for 10.71% of the daily token distribution.
 
-  2. `Distribution = 975*1 = 975`
+- **Final Calculation:** `Distribution = Distribution Percentage * Daily tokens = 0.1071 * 10,000 = 1071 tokens`
 
-  This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
-
-- **Final Calculation:** \[ 0.1083 \times (10 / 10) \times 1.5 = 0.16245 ]
-
-This example leads to a total distribution of 16.25% of the maximum possible amount due to your activity level and your "Early Adopter" badge bonus.
+This example leads to a total distribution of 1071 tokens due to your activity level and your "Early Adopter" badge bonus.
 
 1. The ultimate use of this token for sure is to enhance ones own experience and knowledge progress by our AI support for learning [**Copilot**](../library/copilot.md). One will be able to not only communicate with real people, but also with an AI which will respond to one in real-time, just as if there was someone even if no one is actually available, basically a non-stop-way for one to improve whenever they want.
 2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.

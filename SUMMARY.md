@@ -10,7 +10,7 @@
 
 ## 📊 Tokenomics
 
-* [🪙 LangX Token](tokenomics/tokenomics-of-langx.md)
+* [🪙 LangX Token](tokenomics/langx-token.md)
 * [💎 DeFi Protocols](tokenomics/defi-protocols/README.md)
   * [🔐 Staking](tokenomics/defi-protocols/staking.md)
   * [💱 Trading](tokenomics/defi-protocols/trading.md)

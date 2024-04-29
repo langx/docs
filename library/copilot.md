@@ -4,7 +4,7 @@
 
 Copilot is our AI-supported way of learning.
 
-While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the [LangX Token.](../tokenomics/tokenomics-of-langx.md) Get to know our new friend:
+While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the [LangX Token.](../tokenomics/langx-token.md) Get to know our new friend:
 
 As an AI language model, I have a range of capabilities to assist you:
 

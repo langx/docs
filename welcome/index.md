@@ -14,7 +14,7 @@ Here you can find anything you need to know about our very own token, as well as
 
 ## 📊 Tokenomics
 
-* [🪙 LangX Token](tokenomics/tokenomics-of-langx.md)
+* [🪙 LangX Token](tokenomics/langx-token.md)
 * [💎 DeFi Protocols](tokenomics/defi-protocols/)
   * [🔐 Staking](tokenomics/defi-protocols/staking.md)
   * [💱 Trading](tokenomics/defi-protocols/trading.md)

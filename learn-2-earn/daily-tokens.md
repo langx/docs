@@ -1,2 +1,2 @@
-# 1️⃣ Daily Tokens
+# Daily Tokens
 

@@ -2,7 +2,7 @@
 description: Claiming daily amount of tokens to your wallet.
 ---
 
-# 3️⃣ Claim Your Tokens
+# Claim Your Tokens
 
 To complete the process on our claim website
 

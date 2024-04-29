@@ -1,2 +1,2 @@
-# 2️⃣ Connect Wallet
+# Connect Wallet
 

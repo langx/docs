@@ -18,9 +18,9 @@
 
 ## 💰 Learn 2 Earn
 
-* [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
-* [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
-* [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
+* [1️⃣ 1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
+* [2️⃣ 2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
+* [3️⃣ 3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
 
 ## 📚 Library
 
@@ -31,3 +31,4 @@
   * [⛓️ Blockchain](library/technology/blockchain.md)
   * [🎛️ Ethereum Virtual Machine](library/technology/ethereum-virtual-machine.md)
   * [📔 Smart Contracts](library/technology/smart-contracts.md)
+  * [🛡️ KYC](library/technology/kyc.md)

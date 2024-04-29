@@ -19,6 +19,10 @@ We, as a community, have decided to develop an own token for multiple reasons.
 - To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
 - Currently, we are the only language exchange platform that utilizes an actual token system.
 
+### _What is a Token ?_
+
+_**Okay, interesting, so, what is a token now basically?**_ If you want to know more about [blockchain](../library/technology/blockchain.md), tokens, [Web 3.0](../library/technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.
+
 ## Token Distribution
 
 Our platform operates a straightforward token distribution system that features both a general limit and a daily limit on the number of tokens allocated. These tokens are distributed based on a member's contribution to the community, measured through various activities.
@@ -130,7 +134,3 @@ This example leads to a total distribution of 1071 tokens due to your activity l
 3. Eventually we will implement a marketplace for platform-exclusive emoticons and expressions which only eligible currency this token will be.
 4. You know about saving-accounts for real money? In Crypto-terms that is [Staking](defi-protocols/staking.md).
 5. Last but not least; you can withdraw the tokens to your own [wallet](../library/technology/wallet.md) and buy more or sell them in a market.
-
-## _**What is a Token ?**_
-
-_**Okay, interesting, so, what is a token now basically?**_ If you want to know more about [blockchain](../library/technology/blockchain.md), tokens, [Web 3.0](../library/technology/web-3.0.md) and more just find our knowledge-base. You will find whatever you need to fully understand what you are getting in touch with here.

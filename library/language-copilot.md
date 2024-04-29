@@ -1,4 +1,4 @@
-# 🤖 Language Copilot
+# 🤖 AI Language Copilot
 
 ## AI Language Copilot with LangX
 

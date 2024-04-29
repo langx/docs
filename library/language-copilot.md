@@ -1,6 +1,6 @@
-# 🤖 AI Language Copilot
+# 🤖 Language Copilot
 
-## AI Language Copilot with LangX
+# Language Copilot with LangX
 
 \
 Introducing LangX Copilot, an innovative AI-powered tool designed to revolutionize your language learning journey. This feature-rich platform offers personalized feedback to enhance your skills as you practice in real-time with others. With LangX, your privacy is paramount, providing feedback directly to you in a distinct and confidential manner. as you converse with language partners. Built on the ethos of community-driven development and user privacy, LangX stands out as an open-source alternative that promises a unique and efficient language learning experience, powered by the advanced capabilities of AI. Join us as we delve into the exciting features of LangX Copilot, your 24/7 AI language learning companion.

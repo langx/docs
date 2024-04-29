@@ -139,4 +139,4 @@ This example leads to a total distribution of 1071 tokens due to your activity l
 
 4. Similar to traditional saving accounts, LangX tokens can be [staked](defi-protocols/staking.md) in the world of cryptocurrency.
 
-5. Lastly, users can withdraw their LangX tokens to their personal [wallet](../library/technology/wallet.md) and either purchase more tokens or sell them on the market.
+5. Lastly, users can withdraw their LangX tokens to their personal [wallet](../library/technology/wallet.md) and either purchase more tokens or sell them on the market while [trading](defi-protocols/trading.md).

@@ -129,7 +129,7 @@ This result signifies you are eligible for 10.71% of the daily token distributio
 
 This example leads to a total distribution of 1071 tokens due to your activity level and your "Early Adopter" badge bonus.
 
-## Utility of LangX Tokens
+## Utility of Tokens
 
 1. The primary use of LangX tokens is to enhance one's learning experience and knowledge progression with our AI support tool, [**Copilot**](../library/copilot.md). Users can interact not only with real people but also with an AI that responds in real-time, providing a continuous learning opportunity, regardless of the availability of other users.
 
@@ -137,6 +137,6 @@ This example leads to a total distribution of 1071 tokens due to your activity l
 
 3. In the future, we plan to implement a marketplace for platform-exclusive emoticons and expressions, where LangX tokens will be the only accepted currency.
 
-4. Similar to traditional saving accounts, LangX tokens can be [staked](defi-protocols/staking.md) in the world of cryptocurrency.
+4. Similar to traditional saving accounts, LangX Tokens can be [staked](defi-protocols/staking.md) in the world of cryptocurrency.
 
 5. Lastly, users can withdraw their LangX tokens to their personal [wallet](../library/technology/wallet.md) and either purchase more tokens or sell them on the market while [trading](defi-protocols/trading.md).

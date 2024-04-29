@@ -19,9 +19,32 @@ We, as a community, have decided to develop an own token for multiple reasons.
 * To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
 * Currently, we are the only language exchange platform that utilizes an actual token system.
 
-### _**How?**_
+### Token Distribution
 
-In general our system works pretty easy. We have a general limited AND a daily limited supply of tokens we give away depending on how rewarding ones activity is for the community. We will award a percentage of the remaining daily supply daily to anyone who becomes eligible The calculation of the amount you get daily (and makes you eligible) is generated out of the numbers of text-, voice-, and image messages you send, your daily active time, the login-streak and the badges you have earned while being with us. The perimeters of course are capped so we can prevent abuse. Anything exceeding the lower mentioned caps will just don't add to the calculation anymore, but are still very welcome. The maximum amount one can reach only by this is 0.0000001% of the actually remaining daily supply.
+Our platform operates a straightforward token distribution system that features both a general limit and a daily limit on the number of tokens allocated. These tokens are distributed based on a member's contribution to the community, measured through various activities.
+
+#### Eligibility for Daily Tokens
+
+To be eligible for daily token distribution, members' activities are assessed using the following criteria:
+
+* Number of text, voice, and image messages sent
+* Daily active time on the platform
+* Login streak
+* Badges earned during membership
+
+#### Distribution Calculation
+
+The number of tokens you receive daily is calculated as a percentage of the daily supply remaining. This calculation:
+
+* Incorporates the above activities.
+* Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
+* Each person can receive a very small percentage of the available daily supply.
+
+#### Anti-Abuse Measures
+
+To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
+
+This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
 
 > **Text-messages: 100 messages/day** \
 > **Voice-messages: 10 messages/day** \
@@ -37,7 +60,34 @@ The badges work as multiplicand for the before calculated amount. This percentag
 > **Teacher Badge: x1.1 (10% bonus)** \
 > **Creator Badge: x1.1 (10% bonus)**
 
-Also there are one-time bonuses for referred friends of the daily maximum amount of possible message and activity contribution (0.0000001% of remaining daily supply). The calculation is made by the following formula: `(images*200+audios*100+messages*10)*(onlinetime/120) = Baseamount/3000 Baseamount*(streak/10)*badgesbonus = Distribution` as an example, to have an easier understanding: If you have sent 1 picture-messages, 3 voice-messages and 80 text-messages in about 1 hour of activity, it is your 10th day of the streak of coming online and you are an Early adopter, the calculation would be: (1\*200+3\*100+80\*10)\*60/120 = (200+300+800)\*0.5 = 1300 \* 0.5 = 750/3000 = 0,25 This means you are eligible for 25% of the daily maximum of 0.0000001% of the daily supply. To this will be multiplied your activity and your badges: 0,25\*(10/10)\*1.5 = 0.375 This will lead to a total distribution of 37.5% of the maximum possible amount. _**And what for?**_
+#### Calculation Example for Daily Maximum Bonus Distribution
+
+To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
+
+**Formula:**
+
+\[ \text{Base Amount} = \frac{(\text{images} \times 200 + \text{audios} \times 100 + \text{messages} \times 10) \times (\text{online time} / 120)}{3000} ]
+
+\[ \text{Distribution} = \text{Base Amount} \times \left(\frac{\text{streak\}}{10}\right) \times \text{badges bonus} ]
+
+**Example:**
+
+* **Inputs:**
+  * Images sent: 1
+  * Voice messages sent: 3
+  * Text messages sent: 80
+  * Online time: 1 hour (60 minutes)
+  * Streak: 10 days
+  * Badges bonus (Early Adopter): 1.5
+*   **Calculation Steps:**
+
+    1. \[ (1 \times 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
+    2. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
+
+    This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.
+* **Final Calculation:** \[ 0.1083 \times (10 / 10) \times 1.5 = 0.16245 ]
+
+This example leads to a total distribution of 16.25% of the maximum possible amount due to your activity level and your "Early Adopter" badge bonus.
 
 1. The ultimate use of this token for sure is to enhance ones own experience and knowledge progress by our AI support for learning [**Copilot**](../library/copilot.md). One will be able to not only communicate with real people, but also with an AI which will respond to one in real-time, just as if there was someone even if no one is actually available, basically a non-stop-way for one to improve whenever they want.
 2. Another way of spending this token is by gifting someone some of these who did a really great job at helping and basically pay them for their services.

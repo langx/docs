@@ -1,3 +1,7 @@
+---
+description: Detailed guide on how daily tokens are distributed based on user activities and how to check your token allocation.
+---
+
 # 1️⃣ Daily Tokens
 
 ## Token Distribution

@@ -19,11 +19,11 @@ We, as a community, have decided to develop an own token for multiple reasons.
 - To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
 - Currently, we are the only language exchange platform that utilizes an actual token system.
 
-### Token Distribution
+## Token Distribution
 
 Our platform operates a straightforward token distribution system that features both a general limit and a daily limit on the number of tokens allocated. These tokens are distributed based on a member's contribution to the community, measured through various activities.
 
-#### Eligibility for Daily Tokens
+### Eligibility for Daily Tokens
 
 To be eligible for daily token distribution, members' activities are assessed using the following criteria:
 
@@ -32,7 +32,7 @@ To be eligible for daily token distribution, members' activities are assessed us
 - Login streak
 - Badges earned during membership
 
-#### Distribution Calculation
+### Distribution Calculation
 
 The number of tokens you receive daily is calculated as a percentage of the daily supply remaining. This calculation:
 
@@ -40,7 +40,7 @@ The number of tokens you receive daily is calculated as a percentage of the dail
 - Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
 - Each person can receive a very small percentage of the available daily supply.
 
-#### Formula
+### Formula
 
 `Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
 
@@ -64,7 +64,7 @@ For example, if the total base amounts for all users is 9000 and a user's base a
 
 This means that the user is eligible for 10.83% of the total daily token distribution.
 
-#### Bonus Percentages
+### Bonus Percentages
 
 The badges work as multiplicand for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **350%** of the base amount is possible for now.
 
@@ -77,7 +77,7 @@ The badges work as multiplicand for the before calculated amount. This percentag
 | Teacher Badge       | x1.1       | 10%   |
 | Creator Badge       | x1.1       | 10%   |
 
-#### Anti-Abuse Measures
+### Anti-Abuse Measures
 
 To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
 
@@ -90,7 +90,7 @@ This balanced approach ensures that our token distribution remains equitable and
 | Image-Messages | 5 messages/day   |
 | Online-Time    | 120 minutes/day  |
 
-#### Calculation Example for Daily Distribution
+## Example for Daily Distribution
 
 To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
 

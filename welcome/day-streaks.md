@@ -2,7 +2,7 @@
 
 Maintaining day-streaks is a cornerstone in the process of learning new languages. It utilizes the power of habit to ensure continuous progress and solidifies daily engagement with the language being learned.
 
-### How It Works
+## How It Works
 
 Here’s the breakdown of maintaining day-streaks effectively:
 
@@ -12,11 +12,11 @@ Here’s the breakdown of maintaining day-streaks effectively:
 
 This approach transforms the overwhelming task of learning a new language into manageable, daily investments of time and effort.
 
-### Token Calculation
+## Token Calculation
 
 Engagement and progression are also incentivized through a unique token calculation system. This system uses the length of your day-streak as a multiplier in a [formula](../token/distibution/#formula) that determines your token earnings. Therefore, maintaining a long day-streak not only signifies consistent learning but also rewards users with more tokens, enhancing the overall learning experience with tangible rewards.
 
-### Global Leaderboard 🏆
+## Global Leaderboard 🏆
 
 To inject an element of motivation and competition among learners, the app features a Global Leaderboard. This leaderboard ranks users based on the length of their day-streaks, providing a graphical comparison of dedication levels across the globe. Climbing the ranks of the Global Leaderboard or simply watching your progress can serve as a powerful motivator, pushing learners to maintain their daily engagement and extend their day-streaks further.
 

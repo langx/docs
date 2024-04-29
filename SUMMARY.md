@@ -3,7 +3,7 @@
 ## 🎉 Welcome
 
 * [🌎 Practice, Learn, Succeed!](README.md)
-  * [📱 the App](https://get.langx.io)
+  * [📱 the "App"](https://get.langx.io)
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 Twitter (X)](https://x.com/langx\_app)
 * [🗂️ Table of Contents](welcome/index.md)

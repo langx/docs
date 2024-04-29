@@ -26,7 +26,7 @@
 
 ## 📚 Library
 
-* [🤖 Copilot](library/copilot.md)
+* [🤖 Language Copilot](library/language-copilot.md)
 * [🖥️ Technology](library/technology/README.md)
   * [💸 Wallet](library/technology/wallet.md)
   * [🔼 WEB 3.0](library/technology/web-3.0.md)

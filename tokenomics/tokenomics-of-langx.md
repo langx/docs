@@ -64,11 +64,11 @@ The badges work as multiplicand for the before calculated amount. This percentag
 
 To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
 
-**Formula:**
+**Formula:**\
+\
+`[(images*200+audios*100+messages*10)*(onlinetime/120)]/3000 = Baseamount`&#x20;
 
-\[ \text{Base Amount} = \frac{(\text{images} \times 200 + \text{audios} \times 100 + \text{messages} \times 10) \times (\text{online time} / 120)}{3000} ]
-
-\[ \text{Distribution} = \text{Base Amount} \times \left(\frac{\text{streak\}}{10}\right) \times \text{badges bonus} ]
+`Baseamount*(streak/10)*badgesbonus = Distribution`
 
 **Example:**
 
@@ -81,7 +81,7 @@ To understand the distribution of one-time bonuses for referred friends based on
   * Badges bonus (Early Adopter): 1.5
 *   **Calculation Steps:**
 
-    1. \[ (1 \times 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
+    1. \[ (1 \* 200 + 3 \times 100 + 80 \times 10) \times (60 / 120) = (200 + 300 + 800) \times 0.5 = 650 \times 0.5 = 325 ]
     2. \[ 325 / 3000 = 0.1083 ] (Rounded to the nearest thousandth)
 
     This result signifies you are eligible for 10.83% of the daily maximum bonus, which is 0.0000001% of the daily supply.

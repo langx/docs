@@ -4,7 +4,9 @@
 
 To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
 
-### [**Formula**](../../langx-token/token/distibution/#formula)
+### **Formula**
+
+The [formula](../../langx-token/token/distibution/#formula) for the daily bonus distribution factors in user engagement metrics like message counts, online duration, activity streaks, and badge bonuses to compute a Baseamount. This determines a user's share of daily tokens, ensuring fair and proportional rewards. It incentivizes meaningful participation, fostering a vibrant and engaged community by basing rewards on the value contributed to the platform.&#x20;
 
 `Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
 

@@ -13,14 +13,14 @@
 * [🪙 LangX Token](tokenomics/tokenomics-of-langx.md)
 * [💎 DeFi Protocols](tokenomics/defi-protocols/README.md)
   * [🔐 Staking](tokenomics/defi-protocols/staking.md)
-  * [💱 Trading](tokenomics/defi-protocols/staking-1.md)
+  * [💱 Trading](tokenomics/defi-protocols/trading.md)
 * [🖼️ LangX NFT](tokenomics/langx-nft.md)
 
 ## 💰 Learn 2 Earn
 
-* [1️⃣ 1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
-* [2️⃣ 2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
-* [3️⃣ 3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
+* [1️⃣ Daily Tokens](learn-2-earn/daily-tokens.md)
+* [2️⃣ Connect Wallet](learn-2-earn/connect-wallet.md)
+* [3️⃣ Claim Your Tokens](learn-2-earn/claim-your-tokens.md)
 
 ## 📚 Library
 

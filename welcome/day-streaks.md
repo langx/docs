@@ -1,4 +1,4 @@
-# ⛓️ Day Streaks
+# 🏆 Day Streaks
 
 Maintaining day-streaks is a cornerstone in the process of learning new languages. It utilizes the power of habit to ensure continuous progress and solidifies daily engagement with the language being learned.
 

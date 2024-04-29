@@ -4,7 +4,7 @@
 
 The **Fundamental Badge** is awarded to users who make significant code contributions to the project. It symbolizes the foundational impact these contributors have on the development and improvement of the software. With a multiplier effect of x3.0, this badge not only acknowledges their critical role but also provides a substantial bonus of 200% on top of the base amount, reflecting the high value placed on their contributions.
 
-\[image]
+![Fundamental Badge](.gitbook/assets/badges/contributor.png)
 
 ## Sponsor Badge
 

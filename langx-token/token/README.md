@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/site-preview.png
 coverY: 0
 ---
 
-# 🪙 Token
+# 🪙 LangX Token
 
 ## LangX: The Economy-Token of the Language-Exchange Platform
 

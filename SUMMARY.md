@@ -10,13 +10,13 @@
 
 ## 🪙 Token
 
-* [🪙 LangX Token](token/token.md)
-* [📈 Distibution](token/distibution/README.md)
-  * [💡 Example Scenario](token/distibution/example-scenario.md)
-* [🔐 Staking](token/staking.md)
-* [💱 Trading](token/trading.md)
-* [💎 Utility](token/utility.md)
-* [🖼️ LangX NFT](token/langx-nft.md)
+* [🪙 LangX Token](langx-token/token/README.md)
+* [📈 Distibution](langx-token/token/distibution/README.md)
+  * [💡 Example](token/distibution/example.md)
+* [🔐 Staking](tokenomics/defi-protocols/staking.md)
+* [💱 Trading](tokenomics/defi-protocols/trading.md)
+* [💎 Utility](langx-token/token/utility.md)
+* [🖼️ LangX NFT](tokenomics/langx-nft.md)
 
 ## 💰 Learn 2 Earn
 

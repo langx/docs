@@ -1,10 +1,10 @@
-# 💡 Example Scenario
+# 💡 Example
 
 ## Example for Daily Distribution
 
 To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
 
-### [**Formula**](./#formula)
+### [**Formula**](../../langx-token/token/distibution/#formula)
 
 `Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
 

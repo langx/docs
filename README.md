@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/featured_screenshots.jpeg
+cover: .gitbook/assets/featured-screenshots.jpeg
 coverY: 0
 layout:
   cover:
@@ -27,13 +27,13 @@ layout:
 
 |                                       iOS                                      |                                                  Android                                                 |                   Web App                   |
 | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
-| [![](assets/ios.png)](https://apps.apple.com/app/languagexchange/id6474187141) | [![](assets/android.png)](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [![](assets/pwa.png)](https://app.langx.io) |
+| [![](.gitbook/assets/ios.png)](https://apps.apple.com/app/languagexchange/id6474187141) | [![](.gitbook/assets/android.png)](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [![](.gitbook/assets/pwa.png)](https://app.langx.io) |
 
-![Start Today Practice, Learn, Succeed with Langx](assets/featured-image.png)
+![Start Today Practice, Learn, Succeed with Langx](.gitbook/assets/featured-image.png)
 
 > Words are the keys that unlock, a world of connections.
 
-![LangX App](assets/homepage-app.gif)
+![LangX App](.gitbook/assets/homepage-app.gif)
 
 > Language learning with LangX can be a fun and **rewarding process!**
 

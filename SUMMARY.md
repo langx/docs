@@ -6,7 +6,7 @@
   * [📱 the "App"](https://get.langx.io)
   * [🧑‍🤝‍🧑 Discord](https://discord.langx.io)
   * [🐦 X (Twitter)](https://x.com/langx\_app)
-* [🗂️ Table of Contents](welcome/index.md)
+* [🗂️ Table of Contents](welcome/table-of-contents.md)
 
 ## 🪙 Token
 

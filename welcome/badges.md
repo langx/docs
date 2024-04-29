@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of the different badges available in our community, their
+  significance, and the benefits they offer.
+---
+
 # 🥇 Badges
 
 ## Fundamental Badge

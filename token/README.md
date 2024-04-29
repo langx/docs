@@ -1,4 +1,8 @@
 ---
+description: >-
+  A comprehensive guide to understanding the LangX Token, its purpose, how it
+  works, and the benefits it offers to the users of the language-exchange
+  platform.
 cover: ../.gitbook/assets/site-preview.png
 coverY: 0
 ---

@@ -1,4 +1,7 @@
 ---
+description: >-
+  An explanation of the importance of maintaining day streaks in language
+  learning, how they work, and the benefits they offer.
 cover: ../.gitbook/assets/chain.png
 coverY: 0
 ---

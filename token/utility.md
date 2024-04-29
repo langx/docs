@@ -1,3 +1,10 @@
+---
+description: >-
+  An exploration of the various uses of LangX Tokens within the platform, from
+  enhancing the learning experience to serving as a reward system and
+  marketplace currency.
+---
+
 # 💎 Utility
 
 ## Utility of Tokens

@@ -1,3 +1,9 @@
+---
+description: >-
+  An introduction to LangX NFTs, how they work, how to earn them, and the
+  benefits they offer to the community members.
+---
+
 # 🎨 LangX NFT
 
 ## Earning Badges as NFTs

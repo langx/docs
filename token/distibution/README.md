@@ -1,3 +1,9 @@
+---
+description: >-
+  Detailed explanation of how the LangX Token distribution system works,
+  including eligibility criteria, calculation formula, and anti-abuse measures.
+---
+
 # 📊 Distribution
 
 ## Token Distribution

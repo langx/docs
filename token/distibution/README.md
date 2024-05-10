@@ -53,7 +53,7 @@ This means that the user is eligible for 10.83% of the total daily token distrib
 
 ### Bonus Percentages
 
-The badges and day streaks work as multiplicands for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **500%** of the base amount is possible for now.
+The badges and day streaks work as multiplicands for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **x10.0** of the base amount is possible for now.
 
 | Badge                                                              | Multiplier | Bonus |
 | ------------------------------------------------------------------ | ---------- | ----- |

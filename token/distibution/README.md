@@ -55,15 +55,15 @@ This means that the user is eligible for 10.83% of the total daily token distrib
 
 The badges and day streaks work as multiplicands for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **x10.0** of the base amount is possible for now.
 
-| Badge                                                                                      | Multiplier | Bonus |
-| ------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [Day Streak Bonus](../../welcome/day-streaks.md) [(formula)](../token/distibution#formula) | x3.0       | 200%  |
-| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)                             | x3.0       | 200%  |
-| [Sponsor Badge](../../welcome/badges.md#sponsor-badge)                                     | x2.0       | 100%  |
-| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge)                         | x1.5       | 50%   |
-| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)                                     | x1.2       | 20%   |
-| [Teacher Badge](../../welcome/badges.md#teacher-badge)                                     | x1.1       | 10%   |
-| [Creator Badge](../../welcome/badges.md#creator-badge)                                     | x1.1       | 10%   |
+| Badge                                                                                         | Multiplier | Bonus |
+| --------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [Day Streak Bonus](../../welcome/day-streaks.md) [(formula)](../../token/distibution#formula) | x3.0       | 200%  |
+| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)                                | x3.0       | 200%  |
+| [Sponsor Badge](../../welcome/badges.md#sponsor-badge)                                        | x2.0       | 100%  |
+| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge)                            | x1.5       | 50%   |
+| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)                                        | x1.2       | 20%   |
+| [Teacher Badge](../../welcome/badges.md#teacher-badge)                                        | x1.1       | 10%   |
+| [Creator Badge](../../welcome/badges.md#creator-badge)                                        | x1.1       | 10%   |
 
 The Day Streak Bonus is calculated using the formula `* (Streak / 10)`, where `Streak` is the number of consecutive days a user has been active. This bonus can reach a maximum of x3.0.
 

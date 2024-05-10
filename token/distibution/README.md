@@ -76,6 +76,7 @@ This balanced approach ensures that our token distribution remains equitable and
 | Voice-Messages | 10 messages/day  |
 | Image-Messages | 5 messages/day   |
 | Online-Time    | 120 minutes/day  |
+| Day-Streaks    | 30 days          |
 
 In this section, you can find an example related to this distribution.
 

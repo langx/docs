@@ -59,7 +59,7 @@ The badges and day streaks work as multiplicands for the before calculated amoun
 | ------------------------------------------------------------------------ | ---------- | ----- |
 | [Day Streak Bonus](../../welcome/day-streaks.md) [(formula)](./#formula) | x3.0       | 200%  |
 | [Fundamental Badge](../../welcome/badges.md#fundamental-badge)           | x3.0       | 200%  |
-| Backer[ Badge](../../welcome/badges.md#sponsor-badge)                    | x2.0       | 100%  |
+| [Backer Badge](../../welcome/badges.md#backer-badge)                     | x2.0       | 100%  |
 | [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge)       | x1.5       | 50%   |
 | [Pioneer Badge](../../welcome/badges.md#pioneer-badge)                   | x1.2       | 20%   |
 | [Teacher Badge](../../welcome/badges.md#teacher-badge)                   | x1.1       | 10%   |

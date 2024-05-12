@@ -21,8 +21,8 @@ This dual functionality not only enhances the immediate learning experience but 
 
 ### Summary
 
-* **Learning Enhancement:** LangX tokens primarily serve to enhance the learning experience through AI support, allowing for real-time interaction.
-* **Reward System:** Tokens can be used as a reward, enabling users to show appreciation for assistance received during practice sessions.
-* **Marketplace Currency:** Future plans include the launch of a marketplace for exclusive emoticons and expressions, with LangX tokens as the sole currency.
-* **Savings:** LangX Tokens can also function similarly to traditional savings in the cryptocurrency realm.
-* **Withdrawals & Transactions:** Users have the option to withdraw their tokens to personal wallets, facilitating the buying or selling of tokens on the market.
+- **Learning Enhancement:** LangX tokens primarily serve to enhance the learning experience through AI support, allowing for real-time interaction.
+- **Reward System:** Tokens can be used as a reward, enabling users to show appreciation for assistance received during practice sessions.
+- **Marketplace Currency:** Future plans include the launch of a marketplace for exclusive emoticons and expressions, with LangX tokens as the sole currency.
+- **Savings:** LangX Tokens can also function similarly to traditional savings in the cryptocurrency realm.
+- **Withdrawals & Transactions:** Users have the option to withdraw their tokens to personal wallets, facilitating the buying or selling of tokens on the market.

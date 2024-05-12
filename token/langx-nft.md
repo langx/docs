@@ -20,23 +20,23 @@ Non-Fungible Tokens (NFTs) are unique digital assets that represent ownership or
 
 Members can earn badges by participating in various activities, including:
 
-* Contributing to community discussions
-* Achieving milestones within the platform
-* Participation in special events and competitions
+- Contributing to community discussions
+- Achieving milestones within the platform
+- Participation in special events and competitions
 
 ### Badge as an NFT
 
 Once you earn a badge, you will receive it as an NFT. This means:
 
-* **Ownership**: You have full ownership of your badge as a digital asset.
-* **Verification**: The authenticity and your ownership of the badge are verifiable through blockchain technology.
-* **Tradeability**: You have the option to keep, trade, or sell your badge NFT on various marketplaces.
+- **Ownership**: You have full ownership of your badge as a digital asset.
+- **Verification**: The authenticity and your ownership of the badge are verifiable through blockchain technology.
+- **Tradeability**: You have the option to keep, trade, or sell your badge NFT on various marketplaces.
 
 ### Benefits
 
-* **Unique Recognition**: Your achievements are recognized in a modern and unique format.
-* **Digital Asset**: Own a piece of digital art that represents your contribution and achievements.
-* **Decentralized Authentication**: The use of blockchain ensures that your achievements are recognized and authenticated in a decentralized manner.
+- **Unique Recognition**: Your achievements are recognized in a modern and unique format.
+- **Digital Asset**: Own a piece of digital art that represents your contribution and achievements.
+- **Decentralized Authentication**: The use of blockchain ensures that your achievements are recognized and authenticated in a decentralized manner.
 
 ### Future Plans
 

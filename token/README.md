@@ -19,9 +19,9 @@ _**Introduction**_ [LangX](../) is the economy-token of the even-named, free, op
 
 We, as a community, have decided to develop an own token for multiple reasons.
 
-* Users can earn tokens and seamlessly transfer them to their wallets for trading, embracing a [learn-to-earn](broken-reference) model through [Web 3.0 ](../library/technology/web-3.0.md)and [blockchain](../library/technology/blockchain.md) technologies. Many platforms offer alternative or unique ecosystem tokens, but later restrict access through paywalls or limitations, eroding trust in the crypto market. Our mission is to restore faith in cryptocurrencies by providing a transparent and unrestricted token ecosystem.
-* To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
-* Currently, we are the only language exchange platform that utilizes an actual token system.
+- Users can earn tokens and seamlessly transfer them to their wallets for trading, embracing a [learn-to-earn](broken-reference) model through [Web 3.0 ](../library/technology/web-3.0.md)and [blockchain](../library/technology/blockchain.md) technologies. Many platforms offer alternative or unique ecosystem tokens, but later restrict access through paywalls or limitations, eroding trust in the crypto market. Our mission is to restore faith in cryptocurrencies by providing a transparent and unrestricted token ecosystem.
+- To enhance user engagement and broaden their knowledge base, the platform should both incentivize active participation and facilitate learning.
+- Currently, we are the only language exchange platform that utilizes an actual token system.
 
 ### _What is a Token ?_
 

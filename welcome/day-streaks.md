@@ -14,9 +14,9 @@ Maintaining day-streaks is a cornerstone in the process of learning new language
 
 Here’s the breakdown of maintaining day-streaks effectively:
 
-* **Stay Online Daily:** Users are encouraged to log into the app at least once a day, fostering a routine.
-* **Increment Restrictions:** Day-streaks grow by only one increment (+1) each day, underscoring the value of consistency over sporadic long sessions.
-* **Irreversible Losses:** Once a day-streak is broken, it cannot be recovered. This rule cements the importance of not missing a single day.
+- **Stay Online Daily:** Users are encouraged to log into the app at least once a day, fostering a routine.
+- **Increment Restrictions:** Day-streaks grow by only one increment (+1) each day, underscoring the value of consistency over sporadic long sessions.
+- **Irreversible Losses:** Once a day-streak is broken, it cannot be recovered. This rule cements the importance of not missing a single day.
 
 This approach transforms the overwhelming task of learning a new language into manageable, daily investments of time and effort.
 

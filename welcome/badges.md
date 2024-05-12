@@ -10,16 +10,16 @@ description: >-
 
 The **Fundamental Badge** is awarded to users who not only make significant contributions through coding but also excel in various key areas critical to our project's growth and outreach. This badge celebrates individuals who go beyond coding to:
 
-* 🛡️ Ensure a safe and inclusive environment
-* 🚀 Promote the project within the open-source community
-* 🎬 Tell our story through compelling videos
-* 🎨 Engage in branding and rebranding efforts
-* 🌐 Enhance accessibility for all users
-* 🤝 Forge stronger connections with our user base
-* 🚀 Optimize Search Engine Optimization (SEO) and App Store Optimization (ASO)
-* 🏠 Design and improve our digital presence
-* 📣 Boost our visibility on social media platforms
-* 🔍 Participate in the enhancement of features through feedback and testing
+- 🛡️ Ensure a safe and inclusive environment
+- 🚀 Promote the project within the open-source community
+- 🎬 Tell our story through compelling videos
+- 🎨 Engage in branding and rebranding efforts
+- 🌐 Enhance accessibility for all users
+- 🤝 Forge stronger connections with our user base
+- 🚀 Optimize Search Engine Optimization (SEO) and App Store Optimization (ASO)
+- 🏠 Design and improve our digital presence
+- 📣 Boost our visibility on social media platforms
+- 🔍 Participate in the enhancement of features through feedback and testing
 
 This badge symbolizes the foundational impact these contributors have, signifying their critical role in the project's development and improvement. With a x3.0 multiplier effect, the badge not only acknowledges their versatility and commitment but also grants a 200% bonus on top of the base amount, reflecting the high value of their diverse contributions.
 

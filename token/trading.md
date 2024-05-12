@@ -37,9 +37,9 @@ Once LangX Token is available on DEX, follow these general steps to start tradin
 
 ## Tips for Successful Trading
 
-* **Stay Updated:** Keep abreast of the latest developments regarding LangX Token and its listing on DEX platforms.
-* **Risk Management:** Only trade with what you can afford to lose and consider strategies to mitigate losses.
-* **Portfolio Diversification:** Don't put all your resources in one asset. Diversifying can help manage risk effectively.
+- **Stay Updated:** Keep abreast of the latest developments regarding LangX Token and its listing on DEX platforms.
+- **Risk Management:** Only trade with what you can afford to lose and consider strategies to mitigate losses.
+- **Portfolio Diversification:** Don't put all your resources in one asset. Diversifying can help manage risk effectively.
 
 ## Concluding Remarks
 

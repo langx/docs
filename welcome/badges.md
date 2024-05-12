@@ -55,7 +55,15 @@ Earning this badge signifies that an educator has been identified for their rele
 
 ## Creator Badge
 
-The **Creator Badge** is awarded to those who enrich our community with their creativity and original content. Whether you're crafting informative **blog posts, sharing insightful social media posts about us, creating engaging memes, or producing any form of creative contribution,** this badge is for you. Like the Teacher Badge, it comes with a **10% bonus** on base earnings, represented by a x1.1 multiplier to your standard remuneration, acknowledging and promoting your creative endeavors. To earn this badge, showcase your creations by contributing to our [Discord](https://discord.langx.io). This initiative is aimed at recognizing and rewarding the unique talents within our community, encouraging a vibrant tapestry of content that drives connection and growth among members.
+The **Creator Badge** is awarded to those who enrich our community with their creativity and original content. This badge is for you if you are involved in any of the following activities:
+
+- Crafting informative blog posts
+- Sharing insightful social media posts about us
+- Creating engaging memes
+- Reporting bugs
+- Producing any form of creative contribution
+
+Like the Teacher Badge, the Creator Badge comes with a **10% bonus** on base earnings, represented by a x1.1 multiplier to your standard remuneration, acknowledging and promoting your creative endeavors. To earn this badge, showcase your creations or report bugs by contributing to our [Discord](https://discord.langx.io). This initiative is aimed at recognizing and rewarding the unique talents within our community, encouraging a vibrant tapestry of content that drives connection and growth among members.
 
 ![Creator Badge](../.gitbook/assets/badges/creator.png)
 

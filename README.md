@@ -87,4 +87,4 @@ Additionally, we're looking for language exchange partners to help test the app.
 
 ## For More
 
-We're excited to launch LangX and look forward to helping language learners connect with native speakers. To stay updated on the latest LangX news and updates, be sure to follow us on [X](https://x.com/langx_app) and [Bluesky](https://bsky.app/profile/langx.io).
+We're excited to launch LangX and look forward to helping language learners connect with native speakers. To stay updated on the latest LangX news and updates, be sure to follow us on [X](https://x.com/langx_io) and [Bluesky](https://bsky.app/profile/langx.io).

@@ -6,7 +6,7 @@
   - [📲 the "App"](https://get.langx.io)
   - [🎮 Discord](https://discord.langx.io)
   - [🐸 Reddit](https://reddit.com/r/langx)
-  - [🐦 X (Twitter)](https://x.com/langx_app)
+  - [🐦 X (Twitter)](https://x.com/langx_io)
 - [🥇 Badges](welcome/badges.md)
 - [🏆 Day Streaks](welcome/day-streaks.md)
 

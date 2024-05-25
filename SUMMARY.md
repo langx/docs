@@ -14,7 +14,6 @@
 
 - [🪙 LangX Token](token/README.md)
 - [📊 Distribution](token/distibution/README.md)
-  - [💡 Example](token/distibution/example.md)
 - [🔒 Staking](token/staking.md)
 - [🔁 Trading](token/trading.md)
 - [💎 Utility](token/utility.md)

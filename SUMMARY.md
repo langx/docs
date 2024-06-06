@@ -7,8 +7,6 @@
   - [🎮 Discord](https://discord.langx.io)
   - [🐸 Reddit](https://reddit.com/r/langx)
   - [🐦 X (Twitter)](https://x.com/langx_io)
-- [🥇 Badges](welcome/badges.md)
-- [🏆 Day Streaks](welcome/day-streaks.md)
 
 ## 💰 Token
 
@@ -27,7 +25,9 @@
 
 ## 📚 Library
 
-- [🤖 Language Copilot](library/language-copilot.md)
+- [🥇 Badges](library/badges.md)
+- [🏆 Day Streaks](library/day-streaks.md)
+- [🤖 LangX Copilot](library/language-copilot.md)
 - [🖥️ Technology](library/technology/README.md)
   - [🔐 Wallet](library/technology/wallet.md)
   - [🌐 WEB 3.0](library/technology/web-3.0.md)

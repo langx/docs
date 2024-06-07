@@ -16,8 +16,8 @@ To be eligible for daily token distribution, members' activities are assessed us
 
 - Number of text, voice, and image messages sent
 - Daily active time on the platform
-- Login streak
-- Badges earned during membership
+- [Day Streaks](/library/day-streaks.md), consecutive days of activity
+- [Badges](/library/badges.md), that have been earned
 
 ### Distribution Calculation
 

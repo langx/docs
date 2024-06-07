@@ -29,27 +29,52 @@ The number of tokens you receive daily is calculated as a percentage of the dail
 
 ## Formula
 
-`Baseamount = (Image-Messages * 200 + Voice-Messages * 100 + Text-Messages * 10) * (Online-Time / 120) * (Streak / 10) * Badges-Bonus`
+### Base Amount Calculation
 
-`Distribution Percentage = Baseamount / Total-Baseamounts`
+The `Baseamount` is calculated using the following formula:
 
-In this formula:
+$$
+\begin{align*}
+\text{Baseamount} = & (Text \times 10 + Voice \times 100 + Image \times 200) \\
+          & \times \left(\frac{\text{Online-Time}}{120}\right) \\
+          & \times \left(\frac{\text{Streak}}{10}\right) \\
+          & \times \text{Badges-Bonus}
+\end{align*}
+$$
 
-- `Image-Messages`, `Voice-Messages`, and `Text-Messages` are the number of each type of message the user has sent. These are weighted differently, with image messages contributing the most to the base amount and text messages the least.
-- `Online-Time` is the amount of time the user has spent online. This is divided by 120 to normalize it, meaning it reduces the value to a more manageable number. The more time a user spends online, the higher their base amount.
-- `Streak` is the number of consecutive days the user has been active. This is divided by 10 to convert it into a multiplier. The longer the user's streak of activity, the higher their base amount.
-- `Badges-Bonus` is a multiplier based on the badges the user has earned. The more badges or achievements a user has, the higher their base amount.
-- `Baseamount` is the total score calculated based on the user's activity. It's used to determine the user's share of the total token distribution.
-- `Total-Baseamounts` is the sum of the base amounts of all users. It represents the total activity of all users in the system.
-- `Distribution Percentage` is the percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive.
+> Note that if no messages are sent within the day, the value will be 0.
 
-**Distribution Percentage:**
+### Distribution Percentage
 
-The distribution percentage is the proportion of the total daily token distribution that a user is eligible for. It's calculated by dividing the user's base amount by the total base amounts of all users.
+The `Distribution Percentage` is the proportion of the total daily token distribution that a user is eligible for. It's calculated by dividing the user's base amount by the total base amounts of all users.
 
-For example, if the total base amounts for all users is 9000 and a user's base amount is 975, the distribution percentage for that user would be `975 / 9000 = 0.1083` or 10.83%.
+For example, if the total base amounts for all users is 9000 and a user's base amount is 975, the `Distribution Percentage` for that user would be `975 / 9000 = 0.1083` or 10.83%.
 
 This means that the user is eligible for 10.83% of the total daily token distribution.
+
+The distribution percentage is calculated as follows:
+
+$$
+\text{Distribution Percentage} = \frac{\text{Baseamount}}{\text{Total-Baseamounts}}
+$$
+
+### Parameters Description
+
+The table below provides a description of each parameter used in the calculation of the `Baseamount` and `Distribution Percentage`.
+
+| Parameter                 | Description                                                                                                                                                                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Text`                    | The number of text messages the user has sent. These contribute the least to the base amount.                                                                                                                                                                                       |
+| `Voice`                   | The number of voice messages the user has sent. These contribute moderately to the base amount.                                                                                                                                                                                     |
+| `Image`                   | The number of image messages the user has sent. These contribute the most to the base amount.                                                                                                                                                                                       |
+| `Online-Time`             | The amount of time the user has spent online. This is divided by 120 to normalize it. The more time a user spends online, the higher their base amount.                                                                                                                             |
+| `Streak`                  | The number of consecutive days the user has been active. This is divided by 10 to convert it into a multiplier. The longer the user's streak of activity, the higher their base amount.                                                                                             |
+| `Badges-Bonus`            | A multiplier based on the badges the user has earned. The more badges or achievements a user has, the higher their base amount.                                                                                                                                                     |
+| `Baseamount`              | The total score calculated based on the user's activity. It's used to determine the user's share of the total token distribution.                                                                                                                                                   |
+| `Total-Baseamounts`       | The sum of the base amounts of all users. It represents the total activity of all users in the system.                                                                                                                                                                              |
+| `Distribution Percentage` | The percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive. |
+
+**Distribution Percentage:**
 
 ### Bonus Percentages
 

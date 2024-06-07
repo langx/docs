@@ -74,8 +74,6 @@ The table below provides a description of each parameter used in the calculation
 | `Total-Baseamounts`       | The sum of the base amounts of all users. It represents the total activity of all users in the system.                                                                                                                                                                              |
 | `Distribution Percentage` | The percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive. |
 
-**Distribution Percentage:**
-
 ### Bonus Percentages
 
 The badges and day streaks work as multiplicands for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **x10.0** of the base amount is possible for now.

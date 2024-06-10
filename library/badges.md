@@ -10,16 +10,16 @@ description: >-
 
 The **Fundamental Badge** is awarded to users who not only make significant contributions through coding but also excel in various key areas critical to our project's growth and outreach. This badge celebrates individuals who go beyond coding to:
 
-* 🛡️ Ensure a safe and inclusive environment
-* 🚀 Promote the project within the open-source community
-* 🎬 Tell our story through compelling videos
-* 🎨 Engage in branding and rebranding efforts
-* 🌐 Enhance accessibility for all users
-* 🤝 Forge stronger connections with our user base
-* 🚀 Optimize Search Engine Optimization (SEO) and App Store Optimization (ASO)
-* 🏠 Design and improve our digital presence
-* 📣 Boost our visibility on social media platforms
-* 🔍 Participate in the enhancement of features through feedback and testing
+- 🛡️ Ensure a safe and inclusive environment
+- 🚀 Promote the project within the open-source community
+- 🎬 Tell our story through compelling videos
+- 🎨 Engage in branding and rebranding efforts
+- 🌐 Enhance accessibility for all users
+- 🤝 Forge stronger connections with our user base
+- 🚀 Optimize Search Engine Optimization (SEO) and App Store Optimization (ASO)
+- 🏠 Design and improve our digital presence
+- 📣 Boost our visibility on social media platforms
+- 🔍 Participate in the enhancement of features through feedback and testing
 
 This badge symbolizes the foundational impact these contributors have, signifying their critical role in the project's development and improvement. With a x3.0 multiplier effect, the badge not only acknowledges their versatility and commitment but also grants a 200% bonus on top of the base amount, reflecting the high value of their diverse contributions.
 
@@ -57,11 +57,11 @@ Earning this badge signifies that an educator has been identified for their rele
 
 The **Creator Badge** is awarded to those who enrich our community with their creativity and original content. This badge is for you if you are involved in any of the following activities:
 
-* Crafting informative blog posts
-* Sharing insightful social media posts about us
-* Creating engaging memes
-* Reporting bugs
-* Producing any form of creative contribution
+- Crafting informative blog posts
+- Sharing insightful social media posts about us
+- Creating engaging memes
+- Reporting bugs
+- Producing any form of creative contribution
 
 Like the Teacher Badge, the Creator Badge comes with a **10% bonus** on base earnings, represented by a x1.1 multiplier to your standard remuneration, acknowledging and promoting your creative endeavors. To earn this badge, showcase your creations or report bugs by contributing to our [Discord](https://discord.langx.io). This initiative is aimed at recognizing and rewarding the unique talents within our community, encouraging a vibrant tapestry of content that drives connection and growth among members.
 
@@ -69,4 +69,4 @@ Like the Teacher Badge, the Creator Badge comes with a **10% bonus** on base ear
 
 ## Bonus Percentages
 
-The badges serve as multipliers for the previously calculated amount, adding a percentage bonus on top of the initial amount. This bonus increases cumulatively with the number of badges acquired, allowing for a maximum bonus of **350%** of the original amount. For additional details, please refer to the [Distribution page](../token/distibution/#bonus-percentages).
+The badges serve as multipliers for the previously calculated amount, adding a percentage bonus on top of the initial amount. This bonus increases cumulatively with the number of badges acquired. For additional details, please refer to the [Distribution page](../token/distibution/#bonus-percentages).

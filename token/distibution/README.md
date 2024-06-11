@@ -166,7 +166,7 @@ $$
 
 This example leads to a total distribution of **221 tokens** due to your activity level and your all Badges and Day Streak bonuses.
 
-### Anti-Abuse Measures
+## Anti-Abuse Measures
 
 To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
 

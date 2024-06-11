@@ -78,16 +78,24 @@ The table below provides a description of each parameter used in the calculation
 
 #### Badges Bonus
 
-Badges work as multiplicands for the previously calculated amount. This percentage bonus is calculated on top of the base amount and accumulates, the more badges one has, therefore a maximum bonus of **x10.0** of the base amount is possible for now.
+Badges work as multiplicands for the previously calculated amount. This percentage bonus is calculated on top of the base amount and accumulates with each badge. Therefore, a maximum bonus of **x10.0** of the base amount is possible for now. For example, if you have the Early-Adopter and Pioneer badges, the bonus would be calculated as (1 + 0.5 + 0.2) = 1.7, meaning a 70% increase on the base amount.
 
-| Badge                                                              | Multiplier | Bonus |
-| ------------------------------------------------------------------ | ---------- | ----- |
-| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)     | x3.0       | 200%  |
-| [Backer Badge](../../welcome/badges.md#backer-badge)               | x2.0       | 100%  |
-| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge) | x1.5       | 50%   |
-| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)             | x1.2       | 20%   |
-| [Teacher Badge](../../welcome/badges.md#teacher-badge)             | x1.1       | 10%   |
-| [Creator Badge](../../welcome/badges.md#creator-badge)             | x1.1       | 10%   |
+| Badge                                                              | Bonus Multiplier | Bonus Percentage |
+| ------------------------------------------------------------------ | ---------------- | ---------------- |
+| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)     | x3.0             | 200%             |
+| [Backer Badge](../../welcome/badges.md#backer-badge)               | x2.0             | 100%             |
+| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge) | x1.5             | 50%              |
+| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)             | x1.2             | 20%              |
+| [Teacher Badge](../../welcome/badges.md#teacher-badge)             | x1.1             | 10%              |
+| [Creator Badge](../../welcome/badges.md#creator-badge)             | x1.1             | 10%              |
+
+##### Calculation Method:
+
+To calculate the total bonus, sum up the bonus percentages of all the badges you possess and add 1 (representing the base amount). The result is your total multiplier. For example, if you have the **Fundamental Badge** and the **Teacher Badge**, the calculation would be:
+
+\[ \text{Badges-Bonus} = 1 + 2.0 + 0.1 = 3.1 \]
+
+This means you get a 210% increase on the base amount.
 
 #### Day Streak Bonus
 
@@ -121,23 +129,53 @@ The [formula](#formula) for the daily bonus distribution factors in user engagem
 
 ### Inputs
 
-- Images sent: 1
-- Audio messages sent: 3
-- Text messages sent: 80
-- Online time: 1 hour (60 minutes)
-- Streak: 10 days
-- Badges bonus (Early Adopter): 1.5
-- Daily tokens to be allocated by the smart contract: 10,000 tokens
+| Parameter                                    | Value         |
+| -------------------------------------------- | ------------- |
+| Text messages sent                           | 80            |
+| Audio messages sent                          | 3             |
+| Image messages sent                          | 1             |
+| Online time                                  | 60 minutes    |
+| Streak                                       | 10 days       |
+| Badges bonus (Early Adopter and Pioneer)     | 1 + 0.5 + 0.2 |
+| Daily tokens to be allocated by the contract | 10,000 tokens |
 
 ### Calculation Steps
 
-1. `Baseamount = [(1*200+3*100+80*10)*(60/120)*(10/10)*1.5] = (200+300+800)*0.5*1*1.5 = 750`
-2. Assume `Total-Baseamounts` (the sum of base amounts of all users) is 7000. Then, `Distribution Percentage = Baseamount / Total-Baseamounts = 750 / 7000 = 0.1071` or 10.71%
+$$
+\begin{align*}
+\text{Baseamount} = & (80 \times 10 + 3 \times 100 + 1 \times 200) \\
+                    & \times \left(\frac{\text{60}}{120}\right) \\
+                    & \times \left(\frac{\text{10}}{10}\right) \\
+                    & \times \text{1 + 0.5 + 0.2} \\
+                  = & 1300 \times 0.5 \times 1 \times 1.7 \\
+                  = & 1105
+\end{align*}
+$$
 
-This result signifies you are eligible for 10.71% of the daily token distribution.
+$$
+\begin{align*}
+\text{Distribution Percentage} = & \frac{\text{Baseamount}}{\text{Total-Baseamounts}} \\
+                               = & \frac{\text{1105}}{\text{50000}} \\
+                               = & 0.0221
+                               \end{align*}
+$$
+
+> Assume `Total-Baseamounts` (the sum of Base Amounts of All Users) is **50000**.
+
+Then, Distribution Percentage is equal **0.0221** or **2.21%**
+
+This result signifies you are eligible for 2.21% of the daily token distribution.
 
 ### Final Calculation
 
-`Distribution = Distribution Percentage * Daily tokens = 0.1071 * 10,000 = 1071 tokens`
+`Distribution = Distribution Percentage * Daily tokens = 0.0432 * 10,000 = 432 tokens`
 
-This example leads to a total distribution of **1071 tokens** due to your activity level and your "Early Adopter" badge bonus.
+$$
+\begin{align*}
+\text{Distribution} = & \text{Distribution Percentage} \times  \text{Daily tokens} \\
+                               = & \text{0.0221} \times \text{10000} \\
+                               = & 221
+                               \end{align*}
+$$
+
+This example leads to a total distribution of **221 tokens** due to your activity level and your all Badges and Day Streak bonuses.

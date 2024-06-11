@@ -74,21 +74,28 @@ The table below provides a description of each parameter used in the calculation
 | `Total-Baseamounts`       | The sum of the base amounts of all users. It represents the total activity of all users in the system.                                                                                                                                                                              |
 | `Distribution Percentage` | The percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive. |
 
-### Bonus Percentages
+### Bonus Multipliers
 
-The badges and day streaks work as multiplicands for the before calculated amount. This percentage bonus will be calculated ON TOP of the base-amount and accumulate, the more one have, therefore a maximum bonus of **x10.0** of the base amount is possible for now.
+#### Badges Bonus
 
-| Badge                                                                    | Multiplier | Bonus |
+Badges work as multiplicands for the previously calculated amount. This percentage bonus is calculated on top of the base amount and accumulates, the more badges one has, therefore a maximum bonus of **x10.0** of the base amount is possible for now.
+
+| Badge                                                              | Multiplier | Bonus |
+| ------------------------------------------------------------------ | ---------- | ----- |
+| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)     | x3.0       | 200%  |
+| [Backer Badge](../../welcome/badges.md#backer-badge)               | x2.0       | 100%  |
+| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge) | x1.5       | 50%   |
+| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)             | x1.2       | 20%   |
+| [Teacher Badge](../../welcome/badges.md#teacher-badge)             | x1.1       | 10%   |
+| [Creator Badge](../../welcome/badges.md#creator-badge)             | x1.1       | 10%   |
+
+#### Day Streak Bonus
+
+Day streaks also work as multiplicands for the previously calculated amount. This bonus is calculated using the formula `(Streak / 10)`, where `Streak` is the number of consecutive days a user has been active. This bonus can reach a maximum of **x3.0**.
+
+| Streak                                                                   | Multiplier | Bonus |
 | ------------------------------------------------------------------------ | ---------- | ----- |
-| [Day Streak Bonus](../../welcome/day-streaks.md) [(formula)](./#formula) | x3.0       | 200%  |
-| [Fundamental Badge](../../welcome/badges.md#fundamental-badge)           | x3.0       | 200%  |
-| [Backer Badge](../../welcome/badges.md#backer-badge)                     | x2.0       | 100%  |
-| [Early-Adopter Badge](../../welcome/badges.md#early-adopter-badge)       | x1.5       | 50%   |
-| [Pioneer Badge](../../welcome/badges.md#pioneer-badge)                   | x1.2       | 20%   |
-| [Teacher Badge](../../welcome/badges.md#teacher-badge)                   | x1.1       | 10%   |
-| [Creator Badge](../../welcome/badges.md#creator-badge)                   | x1.1       | 10%   |
-
-The Day Streak Bonus is calculated using the formula `* (Streak / 10)`, where `Streak` is the number of consecutive days a user has been active. This bonus can reach a maximum of x3.0.
+| [Day Streak Bonus](../../library/day-streaks.md) [(formula)](./#formula) | x3.0       | 200%  |
 
 ### Anti-Abuse Measures
 

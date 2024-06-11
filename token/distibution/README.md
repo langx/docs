@@ -89,7 +89,7 @@ Badges work as multiplicands for the previously calculated amount. This percenta
 | [Teacher Badge](../../welcome/badges.md#teacher-badge)             | x1.1             | 10%              |
 | [Creator Badge](../../welcome/badges.md#creator-badge)             | x1.1             | 10%              |
 
-##### Calculation Method:
+**Calculation Method**
 
 To calculate the total bonus, sum up the bonus percentages of all the badges you possess and add 1 (representing the base amount). The result is your total multiplier. For example, if you have the **Fundamental Badge** and the **Teacher Badge**, the calculation would be:
 
@@ -104,20 +104,6 @@ Day streaks also work as multiplicands for the previously calculated amount. Thi
 | Streak                                                                   | Multiplier | Bonus |
 | ------------------------------------------------------------------------ | ---------- | ----- |
 | [Day Streak Bonus](../../library/day-streaks.md) [(formula)](./#formula) | x3.0       | 200%  |
-
-### Anti-Abuse Measures
-
-To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
-
-This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
-
-| Feature        | Limit            |
-| -------------- | ---------------- |
-| Text-Messages  | 100 messages/day |
-| Voice-Messages | 10 messages/day  |
-| Image-Messages | 5 messages/day   |
-| Online-Time    | 120 minutes/day  |
-| Day-Streaks    | 30 days          |
 
 ## Example
 
@@ -179,3 +165,17 @@ $$
 $$
 
 This example leads to a total distribution of **221 tokens** due to your activity level and your all Badges and Day Streak bonuses.
+
+### Anti-Abuse Measures
+
+To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
+
+This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
+
+| Feature        | Limit            |
+| -------------- | ---------------- |
+| Text-Messages  | 100 messages/day |
+| Voice-Messages | 10 messages/day  |
+| Image-Messages | 5 messages/day   |
+| Online-Time    | 120 minutes/day  |
+| Day-Streaks    | 30 days          |

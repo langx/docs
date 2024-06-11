@@ -69,4 +69,4 @@ Like the Teacher Badge, the Creator Badge comes with a **10% bonus** on base ear
 
 ## Bonus Percentages
 
-The badges serve as multipliers for the previously calculated amount, adding a percentage bonus on top of the initial amount. This bonus increases cumulatively with the number of badges acquired. For additional details, please refer to the [Distribution page](../token/distibution.md#bonus-percentages).
+The badges serve as multipliers for the previously calculated amount, adding a percentage bonus on top of the initial amount. This bonus increases cumulatively with the number of badges acquired. For additional details, please refer to the [Distribution page](../token/distibution.md/#bonus-multipliers).

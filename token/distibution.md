@@ -93,7 +93,9 @@ Badges work as multiplicands for the previously calculated amount. This percenta
 
 To calculate the total bonus, sum up the bonus percentages of all the badges you possess and add 1 (representing the base amount). The result is your total multiplier. For example, if you have the **Fundamental Badge** and the **Teacher Badge**, the calculation would be:
 
+$$
 \[ \text{Badges-Bonus} = 1 + 2.0 + 0.1 = 3.1 \]
+$$
 
 This means you get a 210% increase on the base amount.
 

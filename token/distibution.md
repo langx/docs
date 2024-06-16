@@ -14,18 +14,18 @@ Our platform operates a straightforward token distribution system that features 
 
 To be eligible for daily token distribution, members' activities are assessed using the following criteria:
 
-* Number of text, voice, and image messages sent
-* Daily active time on the platform
-* [Day Streaks](../library/day-streaks.md), consecutive days of activity
-* [Badges](../library/badges.md), that have been earned
+- Number of text, voice, and image messages sent
+- Daily active time on the platform
+- [Day Streaks](../library/day-streaks.md), consecutive days of activity
+- [Badges](../library/badges.md), that have been earned
 
 ### Distribution Calculation
 
 The number of tokens you receive daily is calculated as a percentage of the daily supply remaining. This calculation:
 
-* Incorporates the above activities.
-* Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
-* Each person can receive a very small percentage of the available daily supply.
+- Incorporates the above activities.
+- Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
+- Each person can receive a very small percentage of the available daily supply.
 
 ## Formula
 
@@ -62,7 +62,7 @@ The table below provides a description of each parameter used in the calculation
 | `Text`                    | The number of text messages the user has sent. These contribute the least to the base amount.                                                                                                                                                                                       |
 | `Voice`                   | The number of voice messages the user has sent. These contribute moderately to the base amount.                                                                                                                                                                                     |
 | `Image`                   | The number of image messages the user has sent. These contribute the most to the base amount.                                                                                                                                                                                       |
-| `Online-Time`             | The amount of time the user has spent online. This is divided by 120 to normalize it. The more time a user spends online, the higher their base amount.                                                                                                                             |
+| `Online-Time`             | The amount of time in minutes the user has spent online. This is divided by 120 to normalize it. The more time a user spends online, the higher their base amount.                                                                                                                  |
 | `Streak`                  | The number of consecutive days the user has been active. This is divided by 10 to convert it into a multiplier. The longer the user's streak of activity, the higher their base amount.                                                                                             |
 | `Badges-Bonus`            | A multiplier based on the badges the user has earned. The more badges or achievements a user has, the higher their base amount.                                                                                                                                                     |
 | `Baseamount`              | The total score calculated based on the user's activity. It's used to determine the user's share of the total token distribution.                                                                                                                                                   |

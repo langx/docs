@@ -4,7 +4,7 @@
 
 * [🌎 Practice, Learn, Succeed!](README.md)
   * [📲 the "App"](https://get.langx.io)
-  * [🪙 LangX Token](token/token.md)
+  * [🪙 LangX Token](https://token.langx.io)
   * [🎮 Discord](https://discord.langx.io)
   * [🐸 Reddit](https://reddit.com/r/langx)
   * [🐦 X (Twitter)](https://x.com/langx\_io)

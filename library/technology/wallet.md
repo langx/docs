@@ -6,6 +6,18 @@ description: >-
 
 # 🔐 Wallet
 
+{% hint style="warning" %}
+**This design is not being built.** LangX Token is an in-app point: it is
+earned by practising and teaching in the app and spent inside the app, on a
+streak freeze and on cosmetics. It cannot be bought, sold, traded, staked or
+withdrawn, it is not on a blockchain, and there is no wallet to connect.
+
+This page describes an on-chain design from an earlier plan that was never
+implemented. It is kept so that older links still resolve, not because it is a
+roadmap. If an on-chain layer is ever revisited, it will be a new document
+written after legal review — not a continuation of this one.
+{% endhint %}
+
 A wallet keeps your wealth safe and secure. The same as you have your wallet in your bag, pocket or purse, the same you have it secured online as well. Probably the digital version is even more secure IF you handle it right. For our [token](broken-reference) we recommend the [METAMASK-Wallet](https://metamask.io/).
 
 1. **What Is a Crypto Wallet?**

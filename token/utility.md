@@ -1,28 +1,54 @@
 ---
 description: >-
-  An exploration of the various uses of LangX Tokens within the platform, from
-  enhancing the learning experience to serving as a reward system and
-  marketplace currency.
+  The complete list of what LangX Tokens can be spent on — a streak freeze, and
+  cosmetic frames and titles.
 ---
 
-# 💎 Utility
+# 💎 Spending Tokens
 
-## Utility of Tokens
+There are exactly two things to spend tokens on. The list is short on purpose,
+and it is worth explaining why before going through it.
 
-This dual functionality not only enhances the immediate learning experience but also builds a supportive and appreciative community of learners. As LangX tokens become more integrated into different aspects of the platform, from exclusive market transactions to potential savings mechanisms, their value extends beyond mere currency. They represent a commitment to ongoing education, mutual respect among users, and an open-minded approach to the evolving digital economy. The future implementation of a marketplace further solidifies their position as a vital component of the LangX ecosystem, offering users unique ways to personalize their learning experience and engage with the community. Through these diverse applications, LangX tokens are not just facilitating transactions; they are enriching the educational journey, fostering a vibrant community, and bridging the gap between learning and real-world application.
+## Streak freeze — 200 tokens
 
-### Overview
+A streak freeze rescues a day you missed, so one bad day does not undo months
+of practice. Buy one in advance; if you miss a day, it is spent automatically
+and your streak survives.
 
-1. The primary use of LangX tokens is to enhance one's learning experience and knowledge progression with our AI support tool, [**Copilot**](../library/language-copilot.md). Users can interact not only with real people but also with an AI that responds in real-time, providing a continuous learning opportunity, regardless of the availability of other users.
-2. LangX tokens can also be used as a reward system, allowing users to send tokens to each other as a form of appreciation for help or services provided during practice sessions.
-3. In the future, we plan to implement a marketplace for platform-exclusive emoticons and expressions, where LangX tokens will be the only accepted currency.
-4. Similar to traditional saving accounts, LangX Tokens can be [staked](staking.md) in the world of cryptocurrency.
-5. Lastly, users can withdraw their LangX tokens to their personal [wallet](../library/technology/wallet.md) and either purchase more tokens or sell them on the market while [trading](trading.md).
+You can bank **two at a time**. That is enough to cover real life — a flight, a
+hospital visit, a week that got away from you — and not enough to make the
+streak meaningless. A stockpile of freezes would turn a streak into a number
+you bought rather than a habit you kept.
 
-### Summary
+## Frames and titles
 
-- **Learning Enhancement:** LangX tokens primarily serve to enhance the learning experience through AI support, allowing for real-time interaction.
-- **Reward System:** Tokens can be used as a reward, enabling users to show appreciation for assistance received during practice sessions.
-- **Marketplace Currency:** Future plans include the launch of a marketplace for exclusive emoticons and expressions, with LangX tokens as the sole currency.
-- **Savings:** LangX Tokens can also function similarly to traditional savings in the cryptocurrency realm.
-- **Withdrawals & Transactions:** Users have the option to withdraw their tokens to personal wallets, facilitating the buying or selling of tokens on the market.
+Cosmetic frames around your avatar, and titles shown next to your name. They
+change how your profile looks and nothing else.
+
+| Item           | Tokens |
+| -------------- | ------ |
+| Bronze frame   | 500    |
+| Silver frame   | 1,500  |
+| Gold frame     | 5,000  |
+| Learner title  | 1,000  |
+| Tutor title    | 3,000  |
+| Polyglot title | 10,000 |
+
+## Why the list ends there
+
+Tokens **cannot** buy a LangX Pro feature — not filters, not unlimited
+translation, not the ability to start more conversations. That is deliberate.
+The moment tokens could buy a Pro feature, farming tokens would become a
+substitute for subscribing, and the subscription is what pays for running the
+app. Keeping the sinks cosmetic is what lets the token economy be generous
+without undermining the thing that funds it.
+
+For the same reason there is no way to buy tokens, send them to another member,
+or take them out of the app. See [LangX Token](token.md).
+
+## Spending does not cost you your rank
+
+The leaderboards rank tokens **earned**, not tokens held. Buying a gold frame
+does not drop you down the table — your balance falls, your all-time total does
+not. Spending and ranking are two different numbers, so you never have to
+choose between them.

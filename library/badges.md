@@ -6,6 +6,14 @@ description: >-
 
 # 🥇 Badges
 
+{% hint style="warning" %}
+**Badges are not in the current release.** They were part of an earlier version
+of LangX and are planned to return in a later one. Until they do, nothing on
+this page affects how many tokens you earn — the badge multipliers described
+below are not applied. How earning works today is in
+[How Tokens Are Earned](../token/distibution.md).
+{% endhint %}
+
 ## Fundamental Badge
 
 The **Fundamental Badge** is awarded to users who not only make significant contributions through coding but also excel in various key areas critical to our project's growth and outreach. This badge celebrates individuals who go beyond coding to:

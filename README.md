@@ -43,7 +43,7 @@ layout:
 
 ## A New and Simple Language Exchange App
 
-We're excited to announce the launch of [LangX](https://get.langx.io), a 100% free and open sourced language exchange app, best alternative of Tandem. The app is designed to help language learners connect with native speakers of the language they're learning.
+We're excited to announce the launch of [LangX](https://get.langx.io), a free-to-use, open source language exchange app, best alternative of Tandem. The app is designed to help language learners connect with native speakers of the language they're learning.
 
 ## How It Works
 
@@ -69,8 +69,8 @@ We offer a range of features to help you get the most out of your language learn
 * **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.
 * **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
-* **🏅 Badge** : Earn badges for your achievements and display them on your profile.
-* **💰 Zero Cost** : Experience our comprehensive language learning features at zero cost. Absolutely no hidden charges or in-app purchases.
+* **🏅 Badge** : Earn badges for your achievements and display them on your profile. _coming-soon_
+* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. LangX Pro is an optional subscription that adds filters, unlimited translation, and the ability to start as many new conversations as you want.
 * **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
 
 And, The Most Exciting one is that

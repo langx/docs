@@ -1,6 +1,6 @@
 ---
 description: >-
-  An overview of LangX, a free and open-source language exchange app designed to
+  An overview of LangX, a free-to-use, open-source language exchange app designed to
   connect language learners with native speakers. This document covers the app's
   features, how it works, how to contribute.
 cover: .gitbook/assets/featured_screenshots.jpeg
@@ -63,7 +63,7 @@ We're excited to announce the launch of [LangX](https://get.langx.io), a free-to
 
 We offer a range of features to help you get the most out of your language learning experience:
 
-* **⚙️ Fine Tune Your Connections** : Customize your connection preferences to find the perfect language exchange partners by filtering options.
+* **⚙️ Fine Tune Your Connections** : Browse the community freely, and narrow it down by gender, country, age and level with LangX Pro's filters.
 * **🔍 Profile Insights** : Get insights into your language learning progress and habits directly from your profile.
 * **💬 Just Chat** : Experience our user-friendly chat interface. Learning a language has never been this fun and easy.
 * **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.

@@ -1,163 +1,116 @@
 ---
 description: >-
-  Detailed explanation of how the LangX Token distribution system works,
-  including eligibility criteria, calculation formula, and anti-abuse measures.
+  How LangX Tokens are earned — the direct awards, the daily caps that keep them
+  honest, and the shared daily pool.
 ---
 
-# 📊 Distribution
+# 📊 How Tokens Are Earned
 
-## Token Distribution
+Tokens come from two places: **direct awards**, paid the moment you do
+something, and a **daily pool** that is shared out at the end of the day among
+everyone who was active.
 
-Our platform operates a straightforward token distribution system that features both a general limit and a daily limit on the number of tokens allocated. These tokens are distributed based on a member's contribution to the community, measured through various activities.
+## Direct awards
 
-### Eligibility for Daily Tokens
+| What you did                                                      | Tokens |
+| ----------------------------------------------------------------- | ------ |
+| Send a message                                                    | 2      |
+| Write a correction on someone's sentence                          | 10     |
+| Get a conversation going — the first time you and a partner have both spoken | 15     |
 
-To be eligible for daily token distribution, members' activities are assessed using the following criteria:
+A correction is worth five messages, and that ratio is not an accident.
+Teaching someone is the behaviour the platform exists for, so it is the
+behaviour worth paying for. Corrections have no daily cap on either the free or
+the Pro tier.
 
-- Number of text, voice, and image messages sent
-- Daily active time on the platform
-- [Day Streaks](../library/day-streaks.md), consecutive days of activity
-- [Badges](../library/badges.md), that have been earned
+### Caps on message tokens
 
-### Distribution Calculation
+| Cap                                  | Limit                  |
+| ------------------------------------ | ---------------------- |
+| Messages that pay, per day           | 100 (up to 200 tokens) |
+| Messages that pay, from one partner  | 30 (up to 60 tokens)   |
 
-The number of tokens you receive daily is calculated as a percentage of the daily supply remaining. This calculation:
+The per-partner cap is what stops two accounts from farming each other, and the
+daily cap is what stops volume from beating quality. Anything past the cap
+still helps the person you are talking to; it just does not pay again.
 
-- Incorporates the above activities.
-- Is subject to caps to prevent abuse. Activities exceeding these caps are appreciated but not included in the calculation.
-- Each person can receive a very small percentage of the available daily supply.
+Both caps reset at **00:00 UTC**, the same clock the pool and the leaderboards
+use. Your **streak** is the one thing measured in your own local day.
 
-## Formula
+## The daily pool
 
-### Base Amount Calculation
+Every day, **10,000 tokens** are shared out among the members who were active
+that day, in proportion to how active they were. Nobody's share is fixed —
+yours depends on everyone else's day as well as your own, which is what keeps
+it worth watching.
 
-The `Baseamount` is calculated using the following formula:
-
-$$
-\begin{align*} \text{Baseamount} = & (Text \times 10 + Voice \times 100 + Image \times 200) \\ & \times \left(\frac{\text{Online-Time}}{120}\right) \\ & \times \left(\frac{\text{Streak}}{10}\right) \\ & \times \text{Badges-Bonus} \end{align*}
-$$
-
-> Note that if no messages are sent within the day, the value will be 0.
-
-### Distribution Percentage
-
-The `Distribution Percentage` is the proportion of the total daily token distribution that a user is eligible for. It's calculated by dividing the user's base amount by the total base amounts of all users.
-
-For example, if the total base amounts for all users is 9000 and a user's base amount is 975, the `Distribution Percentage` for that user would be `975 / 9000 = 0.1083` or 10.83%.
-
-This means that the user is eligible for 10.83% of the total daily token distribution.
-
-The distribution percentage is calculated as follows:
+Your activity score for the day:
 
 $$
-\text{Distribution Percentage} = \frac{\text{Baseamount}}{\text{Total-Baseamounts}}
+\text{Score} = 5 \times \text{Conversations} + 3 \times \text{Corrections} + 1 \times \min(\text{Messages}, 50) + 4 \times \text{Partners}
 $$
 
-### Parameters Description
+| Term            | What it counts                                                    |
+| --------------- | ----------------------------------------------------------------- |
+| `Conversations` | New conversations where both sides spoke for the first time today |
+| `Corrections`   | Corrections you wrote today                                       |
+| `Messages`      | Messages you sent today, counted up to 50                         |
+| `Partners`      | Distinct people you talked to today                               |
 
-The table below provides a description of each parameter used in the calculation of the `Baseamount` and `Distribution Percentage`.
+Talking to **four different people** is worth more than sending four times as
+many messages to one, which is the behaviour the pool is trying to buy.
 
-| Parameter                 | Description                                                                                                                                                                                                                                                                         |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Text`                    | The number of text messages the user has sent. These contribute the least to the base amount.                                                                                                                                                                                       |
-| `Voice`                   | The number of voice messages the user has sent. These contribute moderately to the base amount.                                                                                                                                                                                     |
-| `Image`                   | The number of image messages the user has sent. These contribute the most to the base amount.                                                                                                                                                                                       |
-| `Online-Time`             | The amount of time in minutes the user has spent online. This is divided by 120 to normalize it. The more time a user spends online, the higher their base amount.                                                                                                                  |
-| `Streak`                  | The number of consecutive days the user has been active. This is divided by 10 to convert it into a multiplier. The longer the user's streak of activity, the higher their base amount.                                                                                             |
-| `Badges-Bonus`            | A multiplier based on the badges the user has earned. The more badges or achievements a user has, the higher their base amount.                                                                                                                                                     |
-| `Baseamount`              | The total score calculated based on the user's activity. It's used to determine the user's share of the total token distribution.                                                                                                                                                   |
-| `Total-Baseamounts`       | The sum of the base amounts of all users. It represents the total activity of all users in the system.                                                                                                                                                                              |
-| `Distribution Percentage` | The percentage of the total token distribution that the user will receive. It's calculated by dividing the user's base amount by the total base amounts of all users. The higher a user's base amount compared to the total, the larger the percentage of tokens they will receive. |
-
-### Bonus Multipliers
-
-#### Badges Bonus
-
-Badges work as multiplicands for the previously calculated amount. This percentage bonus is calculated on top of the base amount and accumulates with each badge. Therefore, a maximum bonus of **x10.0** of the base amount is possible for now. For example, if you have the Early-Adopter and Pioneer badges, the bonus would be calculated as (1 + 0.5 + 0.2) = 1.7, meaning a 70% increase on the base amount.
-
-| Badge                                                           | Bonus Multiplier | Bonus Percentage |
-| --------------------------------------------------------------- | ---------------- | ---------------- |
-| [Fundamental Badge](../welcome/badges.md#fundamental-badge)     | x3.0             | 200%             |
-| [Backer Badge](../welcome/badges.md#backer-badge)               | x2.0             | 100%             |
-| [Early-Adopter Badge](../welcome/badges.md#early-adopter-badge) | x1.5             | 50%              |
-| [Pioneer Badge](../welcome/badges.md#pioneer-badge)             | x1.2             | 20%              |
-| [Teacher Badge](../welcome/badges.md#teacher-badge)             | x1.1             | 10%              |
-| [Creator Badge](../welcome/badges.md#creator-badge)             | x1.1             | 10%              |
-
-**Calculation Method**
-
-To calculate the total bonus, sum up the bonus percentages of all the badges you possess and add 1 (representing the base amount). The result is your total multiplier. For example, if you have the **Fundamental Badge** and the **Teacher Badge**, the calculation would be:
+Your share:
 
 $$
-\text{Badges-Bonus} = 1 + 2.0 + 0.1 = 3.1
+\text{Share} = \left\lfloor 10{,}000 \times \frac{\text{Your Score}}{\text{Everyone's Score}} \right\rfloor
 $$
 
-This means you get a 210% increase on the base amount.
+capped at **5% of the pool** (500 tokens), no matter how quiet the day was.
 
-#### Day Streak Bonus
+### Worked example
 
-Day streaks also work as multiplicands for the previously calculated amount. This bonus is calculated using the formula `(Streak / 10)`, where `Streak` is the number of consecutive days a user has been active. This bonus can reach a maximum of **x3.0**.
-
-| Streak                                                                | Multiplier | Bonus |
-| --------------------------------------------------------------------- | ---------- | ----- |
-| [Day Streak Bonus](../library/day-streaks.md) [(formula)](./#formula) | x3.0       | 200%  |
-
-## Example
-
-To understand the distribution of one-time bonuses for referred friends based on daily activities, let's break down the formula with an example.
-
-### Recall Formula
-
-The [formula](distibution.md#formula) for the daily bonus distribution factors in user engagement metrics like message counts, online duration, activity streaks, and badge bonuses to compute a Baseamount. This determines a user's share of daily tokens, ensuring fair and proportional rewards. It incentivizes meaningful participation, fostering a vibrant and engaged community by basing rewards on the value contributed to the platform.
-
-### Inputs
-
-| Parameter                                    | Value         |
-| -------------------------------------------- | ------------- |
-| Text messages sent                           | 80            |
-| Audio messages sent                          | 3             |
-| Image messages sent                          | 1             |
-| Online time                                  | 60 minutes    |
-| Streak                                       | 10 days       |
-| Badges bonus (Early Adopter and Pioneer)     | 1 + 0.5 + 0.2 |
-| Daily tokens to be allocated by the contract | 10,000 tokens |
-
-### Calculation Steps
+You send 30 messages to 4 different people, write 3 corrections, and one new
+conversation gets going both ways:
 
 $$
-\begin{align*} \text{Baseamount} = & (80 \times 10 + 3 \times 100 + 1 \times 200) \\ & \times \left(\frac{\text{60}}{120}\right) \\ & \times \left(\frac{\text{10}}{10}\right) \\ & \times \text{1 + 0.5 + 0.2} \\ = & 1300 \times 0.5 \times 1 \times 1.7 \\ = & 1105 \end{align*}
+\text{Score} = 5 \times 1 + 3 \times 3 + 1 \times 30 + 4 \times 4 = 60
 $$
 
-$$
-\begin{align*} \text{Distribution Percentage} = & \frac{\text{Baseamount}}{\text{Total-Baseamounts}} \\ = & \frac{\text{1105}}{\text{50000}} \\ = & 0.0221 \end{align*}
-$$
+If everyone's scores add up to 3,000 that day, your share is
+$$\lfloor 10{,}000 \times 60 / 3{,}000 \rfloor = 200$$ tokens — on top of the
+2 × 30 + 10 × 3 + 15 = 105 tokens you were already paid directly.
 
-> Assume `Total-Baseamounts` (the sum of Base Amounts of All Users) is **50000**.
+### Two conditions
 
-Then, Distribution Percentage is equal **0.0221** or **2.21%**
+- **Accounts younger than 24 hours earn no pool share.** A pool that paid out
+  to hour-old accounts would be a throwaway-account generator.
+- **A quiet day distributes nothing** rather than dividing a fixed pot among
+  three people.
 
-This result signifies you are eligible for 2.21% of the daily token distribution.
+## Streak bonuses
 
-### Final Calculation
+Keeping a daily streak pays a bonus when you reach a milestone:
 
-`Distribution = Distribution Percentage * Daily tokens = 0.0432 * 10,000 = 432 tokens`
+| Streak   | Bonus |
+| -------- | ----- |
+| 7 days   | 50    |
+| 30 days  | 250   |
+| 100 days | 1,000 |
+| 365 days | 5,000 |
 
-$$
-\begin{align*} \text{Distribution} = & \text{Distribution Percentage} \times \text{Daily tokens} \\ = & \text{0.0221} \times \text{10000} \\ = & 221 \end{align*}
-$$
+A day counts towards the streak when you do something meaningful — send a
+message or write a correction. Opening the app does not count. See
+[Day Streaks](../library/day-streaks.md).
 
-This example leads to a total distribution of **221 tokens** due to your activity level and your all Badges and Day Streak bonuses.
+## Why these numbers are public
 
-## Anti-Abuse Measures
+Every rate, cap and weight on this page is in the app's source, in the open, in
+`packages/shared`. That is fine: none of it is enforced by being secret. Awards
+are written server-side, once, against a unique ledger entry per event — so an
+award cannot be paid twice, whatever the client says.
 
-To ensure fairness and prevent exploitation, specific caps have been implemented across all parameters. Activities that exceed these caps contribute positively to the community but do not increase the token distribution amount.
-
-This balanced approach ensures that our token distribution remains equitable and rewards meaningful contributions to our community.
-
-| Feature        | Limit            |
-| -------------- | ---------------- |
-| Text-Messages  | 100 messages/day |
-| Voice-Messages | 10 messages/day  |
-| Image-Messages | 5 messages/day   |
-| Online-Time    | 120 minutes/day  |
-| Day-Streaks    | 30 days          |
+These are also **starting values**. The right pool size and weights can only
+really be found with real activity, so expect them to be tuned. The ledger they
+are written to is append-only, which means a change can always be applied
+without rewriting anyone's history.

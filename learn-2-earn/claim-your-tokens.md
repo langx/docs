@@ -4,6 +4,18 @@ description: Claiming daily amount of tokens to your wallet.
 
 # 🪙 Claim Your Tokens
 
+{% hint style="warning" %}
+**This design is not being built.** LangX Token is an in-app point: it is
+earned by practising and teaching in the app and spent inside the app, on a
+streak freeze and on cosmetics. It cannot be bought, sold, traded, staked or
+withdrawn, it is not on a blockchain, and there is no wallet to connect.
+
+This page describes an on-chain design from an earlier plan that was never
+implemented. It is kept so that older links still resolve, not because it is a
+roadmap. If an on-chain layer is ever revisited, it will be a new document
+written after legal review — not a continuation of this one.
+{% endhint %}
+
 To complete the process on our claim website, follow these steps: First, **Connect Your Wallet** by connecting your wallet to the website. Second, verify your eligibility by clicking the **Check Eligibility** button. If eligible, you can then proceed to click the **Claim** button. Lastly, **Sign the Transaction** using your wallet to finalize the process.
 
 To complete the process on our claim website

@@ -44,4 +44,6 @@ The LangX team is tirelessly working on introducing more features to support you
 
 Join the LangX community today to experience a new era of language learning powered by AI and shaped by a commitment to privacy and community involvement. Your journey towards mastering a new language starts here.
 
-**While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7. This feature is also one of the main purposes of the** [**LangX Token.**](broken-reference)
+**While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7.**
+
+Copilot is included with your account rather than paid for with tokens: everyone gets a number of uses a day, and [LangX Pro](../token/token.md) lifts the limit. [Tokens](../token/utility.md) are spent on a streak freeze and on cosmetics — they never unlock a feature.

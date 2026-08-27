@@ -7,6 +7,18 @@ description: >-
 
 # 🔁 Trading
 
+{% hint style="warning" %}
+**This design is not being built.** LangX Token is an in-app point: it is
+earned by practising and teaching in the app and spent inside the app, on a
+streak freeze and on cosmetics. It cannot be bought, sold, traded, staked or
+withdrawn, it is not on a blockchain, and there is no wallet to connect.
+
+This page describes an on-chain design from an earlier plan that was never
+implemented. It is kept so that older links still resolve, not because it is a
+roadmap. If an on-chain layer is ever revisited, it will be a new document
+written after legal review — not a continuation of this one.
+{% endhint %}
+
 ## Trading the LangX Token
 
 Welcome to the essential guide on trading the LangX Token, a novel asset in the ever-evolving cryptocurrency space. Trading in digital currencies like the LangX Token entails distinct risks and demands an understanding of the blockchain technology it's built on. Below, we provide key insights to help you navigate the trading landscape of this unique token. Remember, thorough research and a comprehensive grasp of the market are pivotal to trading success.

@@ -1,26 +1,47 @@
 ---
 description: >-
-  Detailed guide on how daily tokens are distributed based on user activities
-  and how to check your token allocation.
+  When the daily pool is worked out, how it reaches your balance, and where to
+  see it.
 ---
 
 # 📅 Daily Tokens
 
-## Token Distribution
+Most tokens land the moment you earn them: send a message, write a correction,
+get a conversation going, and the tokens are yours immediately. The **daily
+pool** is the exception — it can only be worked out once the day is over and
+everyone's activity is known.
 
-In our system, users are allocated tokens based on their participation and in app activities. These tokens represent your contribution and can be used for various purposes within our ecosystem. For more information please take a look [Distrubition](../token/distibution.md) and an [example](../token/distibution.md#example).
+## When it lands
 
-[Token distribution ](../token/distibution.md)is calculated at the end of each day. This means all activities and contributions you've made will be accounted for, and tokens will be allocated accordingly after the day has concluded.
+The pool closes at the end of the **UTC day** and is shared out among everyone
+who was active during it. A standard clock for everyone, wherever you are,
+means the same day cannot be counted twice by moving between time zones.
 
-### How to Check Your Token Allocation
+So the pool share for today reaches your balance tomorrow. Direct awards do not
+wait.
 
-To see the number of tokens you have been allocated, simply navigate to your profile. Here's how:
+Your **streak** is the one thing that runs on your own local day, not UTC —
+a streak should follow the day you actually lived.
 
-1. Log in to your account.
-2. Click on the **Profile** menu at the top right corner of the page.
-3. Within your profile page, you'll see a section labeled **"Tokens"**.
-4. Here, you can view the total amount of tokens that have been allocated to you.
+## How much
 
-Your token allocation is calculated at the end of each day, adhering to the **UTC +0 timezone**. This ensures a standardized time for all users, regardless of where you are in the world. Any activities and contributions made throughout the day will be accounted for and tokens will be allocated accordingly after the day has concluded. Please check your token balance the following day to see your updated token allocation.
+Your share depends on how active you were relative to everyone else that day.
+The weights, the caps and a worked example are in
+[How Tokens Are Earned](../token/distibution.md).
 
-Please note, the update to your token balance reflecting the day's activities will be visible the following day. Check regularly to stay informed on your token allocation.
+## Where to see it
+
+Open your profile. It shows your balance, your all-time earned total, your
+current streak, and today's counters as they build up — messages sent,
+corrections written, new conversations, and how many different people you have
+talked to.
+
+Today's counters are live, but the pool share against them is provisional: the
+real number is only known once the day closes and everyone else's activity is
+in.
+
+## Where you stand
+
+The leaderboards come in four tabs — **weekly, monthly, yearly and all-time** —
+and rank tokens **earned**, so spending never costs you your place. If you are
+outside the top of the table, your own rank is still shown.

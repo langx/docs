@@ -4,6 +4,18 @@ description: An in-depth guide to understanding KYC (Know Your Customer), its im
 
 # 🔎 KYC
 
+{% hint style="warning" %}
+**This design is not being built.** LangX Token is an in-app point: it is
+earned by practising and teaching in the app and spent inside the app, on a
+streak freeze and on cosmetics. It cannot be bought, sold, traded, staked or
+withdrawn, it is not on a blockchain, and there is no wallet to connect.
+
+This page describes an on-chain design from an earlier plan that was never
+implemented. It is kept so that older links still resolve, not because it is a
+roadmap. If an on-chain layer is ever revisited, it will be a new document
+written after legal review — not a continuation of this one.
+{% endhint %}
+
 ## Understanding KYC (Know Your Customer) in Depth
 
 KYC stands for Know Your Customer, and it's a critical regulatory and compliance process adopted by banks, financial institutions, and a range of companies worldwide. This procedure is fundamental in the fight against financial crimes such as money laundering, terrorist financing, and identity theft. The essence of KYC lies in its name: it's about knowing who the customers are, ensuring they are who they claim to be, and understanding their financial dealings to prevent illicit activities.

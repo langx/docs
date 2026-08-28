@@ -28,10 +28,10 @@ This matters more than the wording, so it is worth stating without hedging:
 - **Not tradable, not staked, not listed.** There is no exchange, no market and
   no marketplace, and none is planned.
 - **Not on a blockchain.** There is no chain, no contract and no wallet address.
-- **It cannot unlock LangX Pro.** Pro is a subscription; tokens buy none of it.
+- **It cannot unlock a paid plan.** Those are subscriptions; tokens buy none of them.
 
 That last one is deliberate rather than incidental. The moment tokens could buy
-a Pro feature, farming tokens would become a substitute for subscribing — and
+a paid feature, farming tokens would become a substitute for subscribing — and
 the subscription is what pays for the app.
 
 ## Earning and spending

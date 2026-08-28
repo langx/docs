@@ -46,4 +46,4 @@ Join the LangX community today to experience a new era of language learning powe
 
 **While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7.**
 
-Copilot is included with your account rather than paid for with tokens: everyone gets a number of uses a day, and [LangX Pro](../token/token.md) lifts the limit. [Tokens](../token/utility.md) are spent on a streak freeze and on cosmetics — they never unlock a feature.
+Copilot is part of **LangX Pro+**, and it is not in the first release yet. It is never paid for with tokens: [tokens](../token/utility.md) are spent on a streak freeze and on cosmetics, and they never unlock a feature.

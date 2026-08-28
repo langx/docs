@@ -36,9 +36,9 @@ change how your profile looks and nothing else.
 
 ## Why the list ends there
 
-Tokens **cannot** buy a LangX Pro feature — not filters, not unlimited
-translation, not the ability to start more conversations. That is deliberate.
-The moment tokens could buy a Pro feature, farming tokens would become a
+Tokens **cannot** buy a paid feature — not filters, not unlimited translation,
+not the ability to start more conversations, not Nearby. That is deliberate.
+The moment tokens could buy a paid feature, farming tokens would become a
 substitute for subscribing, and the subscription is what pays for running the
 app. Keeping the sinks cosmetic is what lets the token economy be generous
 without undermining the thing that funds it.

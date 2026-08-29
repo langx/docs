@@ -1,13 +1,13 @@
 ---
 description: >-
-  The complete list of what LangX Tokens can be spent on — a streak freeze, and
-  cosmetic frames and titles.
+  The complete list of what LangX Tokens can be spent on — a streak freeze,
+  filling in a missed day, and cosmetic frames and titles.
 ---
 
 # 💎 Spending Tokens
 
-There are exactly two things to spend tokens on. The list is short on purpose,
-and it is worth explaining why before going through it.
+There are exactly three things to spend tokens on. The list is short on
+purpose, and it is worth explaining why before going through it.
 
 ## Streak freeze — 200 tokens
 
@@ -19,6 +19,30 @@ You can bank **two at a time**. That is enough to cover real life — a flight, 
 hospital visit, a week that got away from you — and not enough to make the
 streak meaningless. A stockpile of freezes would turn a streak into a number
 you bought rather than a habit you kept.
+
+## Fill in a missed day — 300 tokens
+
+A freeze is bought before the day you miss. This is for the one you already
+missed: it fills a single empty square on your activity map, and if that square
+sat between two runs, your streak becomes the whole length.
+
+Three limits, and each is doing a job:
+
+- **The last 14 days only.** Beyond that you are not repairing a lapse, you are
+  rewriting a season.
+- **Two a month.** This is the one that matters. It is the cap rather than the
+  price that stops a large balance manufacturing a streak nobody lived — at two
+  a month, no amount of tokens buys a run you did not keep.
+- **Never today.** Today is earned by using the app, which takes one message.
+
+It costs more than a freeze on purpose. A freeze asks you to think ahead and
+costs you that foresight; a repair asks nothing of you but tokens, so it should
+not be the cheaper habit.
+
+Before you buy, the app tells you exactly what the purchase will do — including
+when the honest answer is *nothing much*. A square in the middle of a fortnight
+you were away for fills in and joins no streak at all, and you will be told that
+before you spend rather than after.
 
 ## Frames and titles
 
@@ -40,7 +64,8 @@ Tokens **cannot** buy a paid feature — not filters, not unlimited translation,
 not the ability to start more conversations, not Nearby. That is deliberate.
 The moment tokens could buy a paid feature, farming tokens would become a
 substitute for subscribing, and the subscription is what pays for running the
-app. Keeping the sinks cosmetic is what lets the token economy be generous
+app. Keeping the sinks cosmetic — or, in the case of a filled-in day, keeping them
+inside the streak's own rules — is what lets the token economy be generous
 without undermining the thing that funds it.
 
 For the same reason there is no way to buy tokens, send them to another member,

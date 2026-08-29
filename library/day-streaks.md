@@ -32,6 +32,11 @@ day, one is spent automatically and the streak survives.
 You can bank two at a time. Enough for real life, not enough to make the streak
 meaningless.
 
+If you missed a day and had no freeze banked, you can still
+[**fill the square in**](../token/utility.md) afterwards for 300 tokens —
+within the last 14 days, twice a month, and never today. If the day you fill sat
+between two runs, they join and your streak becomes the whole length.
+
 ## Milestones
 
 Reaching a milestone pays a bonus:

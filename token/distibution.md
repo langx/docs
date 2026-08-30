@@ -87,6 +87,9 @@ $$\lfloor 10{,}000 \times 60 / 3{,}000 \rfloor = 200$$ tokens — on top of the
   to hour-old accounts would be a throwaway-account generator.
 - **A quiet day distributes nothing** rather than dividing a fixed pot among
   three people.
+- **The share is paid at 04:00 UTC** the morning after the day it rewards, and
+  is not shown to you before then — see
+  [Daily tokens](../learn-2-earn/daily-tokens.md).
 
 ## Streak bonuses
 

@@ -17,8 +17,12 @@ The pool closes at the end of the **UTC day** and is shared out among everyone
 who was active during it. A standard clock for everyone, wherever you are,
 means the same day cannot be counted twice by moving between time zones.
 
-So the pool share for today reaches your balance tomorrow. Direct awards do not
-wait.
+The share itself is paid at **04:00 UTC** the following morning. The few hours
+after the day closes are deliberate: your share depends on everyone else's day,
+so it cannot be worked out until the day is genuinely finished for all of us.
+
+So the pool share for today reaches your balance tomorrow morning. Direct
+awards do not wait.
 
 Your **streak** is the one thing that runs on your own local day, not UTC —
 a streak should follow the day you actually lived.
@@ -36,9 +40,16 @@ current streak, and today's counters as they build up — messages sent,
 corrections written, new conversations, and how many different people you have
 talked to.
 
-Today's counters are live, but the pool share against them is provisional: the
-real number is only known once the day closes and everyone else's activity is
-in.
+Today's counters are live. Your **pool share is not shown before it is paid**,
+and that is on purpose: any figure we could put there during the day would move
+every time somebody else sent a message, and it could not account for the rules
+applied at day close — a brand-new account, for instance, earns no share for
+its first day. We would rather show you nothing than a number that changes into
+a different one overnight.
+
+The token screen shows what the pool **actually paid** you last time, alongside
+how many people are sharing today's pool. The full day-by-day history is there
+too: open a day to see where its tokens came from, pool share included.
 
 ## Where you stand
 

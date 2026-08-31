@@ -51,19 +51,31 @@ before you spend rather than after.
 Cosmetic frames around your avatar, and titles shown next to your name. They
 change how your profile looks and nothing else.
 
-| Item           | Tokens |
-| -------------- | ------ |
-| Bronze frame   | 500    |
-| Silver frame   | 1,500  |
-| Gold frame     | 5,000  |
-| Learner title  | 1,000  |
-| Tutor title    | 3,000  |
-| Polyglot title | 10,000 |
+There are ten frames and ten titles.
+
+| Frame    | Tokens | Title    | Tokens  |
+| -------- | ------ | -------- | ------- |
+| Slate    | 1,000  | Beginner | 1,500   |
+| Bronze   | 2,500  | Learner  | 3,000   |
+| Sky      | 4,000  | Helper   | 5,000   |
+| Silver   | 6,000  | Tutor    | 8,000   |
+| Mint     | 9,000  | Mentor   | 12,000  |
+| Ember    | 13,000 | Linguist | 15,000  |
+| Gold     | 18,000 | Polyglot | 17,000  |
+| Violet   | 25,000 | Scholar  | 20,000  |
+| Midnight | 35,000 | Master   | 50,000  |
+|          |        | Legend   | 100,000 |
+
+One more frame, **Aurora**, cannot be saved up for. It costs 50,000 and is only
+offered to someone who has held a 365-day streak *and* written 5,000
+corrections — the top rung of both ladders. Anyone who qualifies has already
+earned more than its price from the corrections alone, so the gate decides who
+and the price only decides when.
 
 ## Why the list ends there
 
-Tokens **cannot** buy a paid feature — not filters, not unlimited translation,
-not the ability to start more conversations, not Nearby. That is deliberate.
+Tokens **cannot** buy a paid feature — not filters, not a wider translation
+allowance, not the ability to start more conversations, not Nearby. That is deliberate.
 The moment tokens could buy a paid feature, farming tokens would become a
 substitute for subscribing, and the subscription is what pays for running the
 app. Keeping the sinks cosmetic — or, in the case of a filled-in day, keeping them

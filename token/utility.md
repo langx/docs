@@ -20,7 +20,7 @@ hospital visit, a week that got away from you — and not enough to make the
 streak meaningless. A stockpile of freezes would turn a streak into a number
 you bought rather than a habit you kept.
 
-## Fill in a missed day — 300 tokens
+## Fill in a missed day — 600 tokens
 
 A freeze is bought before the day you miss. This is for the one you already
 missed: it fills a single empty square on your activity map, and if that square
@@ -37,7 +37,9 @@ Three limits, and each is doing a job:
 
 It costs more than a freeze on purpose. A freeze asks you to think ahead and
 costs you that foresight; a repair asks nothing of you but tokens, so it should
-not be the cheaper habit.
+not be the cheaper habit. Measured against what a day is worth — a hundred
+messages, at two tokens each — a repair is about three days of committed use to
+buy one day back.
 
 Before you buy, the app tells you exactly what the purchase will do — including
 when the honest answer is *nothing much*. A square in the middle of a fortnight

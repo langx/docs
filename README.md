@@ -63,19 +63,19 @@ We're excited to announce the launch of [LangX](https://get.langx.io), a free-to
 
 We offer a range of features to help you get the most out of your language learning experience:
 
-* **⚙️ Fine Tune Your Connections** : Browse the community freely, and narrow it down by gender, country, age and level with LangX Pro's filters.
+* **⚙️ Fine Tune Your Connections** : Browse the community freely, and narrow it down by country, age and level for free — gender and city come with Fluent.
 * **🔍 Profile Insights** : Get insights into your language learning progress and habits directly from your profile.
 * **💬 Just Chat** : Experience our user-friendly chat interface. Learning a language has never been this fun and easy.
 * **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.
 * **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
 * **🏅 Badge** : Earn badges for your achievements and display them on your profile. _coming-soon_
-* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. LangX Pro is an optional subscription that adds filters, unlimited translation, unlimited new conversations, who viewed your profile and incognito browsing. LangX Pro+ is everything in Pro plus the Nearby sort, and LangX Copilot once it ships.
+* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. Fluent is an optional subscription that adds the gender and city filters, 300 translations a day, a second language to learn and unlimited new conversations. Polyglot is everything in Fluent plus who viewed your profile, incognito browsing, 1,000 translations a day, five languages to learn, the Nearby sort, and LangX Copilot once it ships.
 * **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
 
 And, The Most Exciting one is that
 
-* **🤖 Learn with AI** : Your private language copilot — it gives you feedback while you practise with a real person, and only you see it. Part of **LangX Pro+**, and not in the first release. For more info: [Language Copilot](library/language-copilot.md)
+* **🤖 Learn with AI** : Your private language copilot — it gives you feedback while you practise with a real person, and only you see it. Part of **Polyglot**, and not in the first release. For more info: [Language Copilot](library/language-copilot.md)
 
 ## Be a Contributor
 

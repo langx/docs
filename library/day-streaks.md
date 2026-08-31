@@ -33,7 +33,7 @@ You can bank two at a time. Enough for real life, not enough to make the streak
 meaningless.
 
 If you missed a day and had no freeze banked, you can still
-[**fill the square in**](../token/utility.md) afterwards for 300 tokens —
+[**fill the square in**](../token/utility.md) afterwards for 600 tokens —
 within the last 14 days, twice a month, and never today. If the day you fill sat
 between two runs, they join and your streak becomes the whole length.
 
@@ -41,12 +41,15 @@ between two runs, they join and your streak becomes the whole length.
 
 Reaching a milestone pays a bonus:
 
-| Streak   | Bonus |
-| -------- | ----- |
-| 7 days   | 50    |
-| 30 days  | 250   |
-| 100 days | 1,000 |
-| 365 days | 5,000 |
+| Streak     | Bonus  |
+| ---------- | ------ |
+| 7 days     | 50     |
+| 30 days    | 250    |
+| 100 days   | 1,000  |
+| 180 days   | 1,500  |
+| 365 days   | 5,000  |
+| 730 days   | 12,000 |
+| 1,095 days | 25,000 |
 
 Beyond the bonuses, showing up daily is also the surest way to a share of the
 [daily pool](../token/distibution.md), since the pool is worked out from what

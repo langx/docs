@@ -16,12 +16,17 @@ everyone who was active.
 | ----------------------------------------------------------------- | ------ |
 | Send a message                                                    | 2      |
 | Write a correction on someone's sentence                          | 10     |
+| Answer a pronunciation request with a recording                   | 10     |
 | Get a conversation going — the first time you and a partner have both spoken | 15     |
 
 A correction is worth five messages, and that ratio is not an accident.
 Teaching someone is the behaviour the platform exists for, so it is the
 behaviour worth paying for. Corrections have no daily cap on either the free or
 the Pro tier.
+
+Recording how a word is said pays the same, for the same reason: it is the same
+act in a different medium. You can answer each request once, and a second,
+slower take on the same answer is welcome but does not pay again.
 
 ### Caps on message tokens
 
@@ -103,7 +108,8 @@ Keeping a daily streak pays a bonus when you reach a milestone:
 | 365 days | 5,000 |
 
 A day counts towards the streak when you do something meaningful — send a
-message or write a correction. Opening the app does not count. See
+message, write a correction, or answer a pronunciation request. Opening the app
+does not count. See
 [Day Streaks](../library/day-streaks.md).
 
 ## Why these numbers are public

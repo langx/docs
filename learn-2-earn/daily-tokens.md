@@ -7,7 +7,8 @@ description: >-
 # 📅 Daily Tokens
 
 Most tokens land the moment you earn them: send a message, write a correction,
-get a conversation going, and the tokens are yours immediately. The **daily
+answer a pronunciation request, get a conversation going, and the tokens are
+yours immediately. The **daily
 pool** is the exception — it can only be worked out once the day is over and
 everyone's activity is known.
 

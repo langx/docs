@@ -14,9 +14,14 @@ of time and effort.
 
 ## How it works
 
-- **Do something that counts, every day.** A day is credited when you send a
-  message or write a correction. Opening the app is not enough — a streak
-  should mean you practised, not that you visited.
+- **Show up every day.** Simply opening LangX credits the day and keeps your
+  streak alive. A day with nothing to say should not cost you two hundred of
+  them.
+- **Do something that counts, to earn the bonus.** The milestone rewards at 7,
+  30, 100 days and beyond are paid for a day you actually practised — send a
+  message, write a correction, or answer a pronunciation request. Open the app
+  in the morning and write a correction that evening, and the bonus is paid
+  then. The streak is about showing up; the tokens are about practising.
 - **One increment a day.** A streak grows by +1 per day, no matter how long you
   stayed. Consistency is the thing being measured, not session length.
 - **Your day, not a server's day.** The streak runs on your own local day, which

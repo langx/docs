@@ -107,9 +107,10 @@ Keeping a daily streak pays a bonus when you reach a milestone:
 | 100 days | 1,000 |
 | 365 days | 5,000 |
 
-A day counts towards the streak when you do something meaningful — send a
-message, write a correction, or answer a pronunciation request. Opening the app
-does not count. See
+Opening the app is enough to keep a streak going. These **bonuses**, though, are
+paid for a day you did something meaningful — send a message, write a
+correction, or answer a pronunciation request. If a check-in carries you across
+a milestone in the morning, the first real thing you do that day pays it. See
 [Day Streaks](../library/day-streaks.md).
 
 ## Why these numbers are public

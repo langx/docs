@@ -67,10 +67,12 @@ There are ten frames and ten titles.
 |          |        | Legend   | 100,000 |
 
 One more frame, **Aurora**, cannot be saved up for. It costs 50,000 and is only
-offered to someone who has held a 365-day streak *and* written 5,000
-corrections — the top rung of both ladders. Anyone who qualifies has already
-earned more than its price from the corrections alone, so the gate decides who
-and the price only decides when.
+offered to someone who has held a 365-day streak *and* corrected 5,000 times —
+the top rung of both ladders. Corrections in a chat, corrections on a post and
+recordings left on a pronunciation request all count towards that number; they
+are the same act in different media, and each one is paid the same. Anyone who
+qualifies has already earned more than its price from those alone, so the gate
+decides who and the price only decides when.
 
 ## Why the list ends there
 

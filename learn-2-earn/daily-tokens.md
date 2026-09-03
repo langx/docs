@@ -54,6 +54,10 @@ too: open a day to see where its tokens came from, pool share included.
 
 ## Where you stand
 
-The leaderboards come in four tabs — **weekly, monthly, yearly and all-time** —
-and rank tokens **earned**, so spending never costs you your place. If you are
-outside the top of the table, your own rank is still shown.
+The token leaderboard lives in your wallet, directly under your balance. It
+comes in four tabs — **weekly, monthly, yearly and all-time** — and ranks
+tokens **earned**, so spending never costs you your place. If you are outside
+the top of the table, your own rank is still shown.
+
+There is a second table on the streak page, ranked by days rather than tokens:
+see [day streaks](../library/day-streaks.md).

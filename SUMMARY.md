@@ -22,6 +22,7 @@
 ## 📚 Library
 
 * [🥇 Badges](library/badges.md)
+* [🔔 Notifications](library/notifications.md)
 * [🏆 Day Streaks](library/day-streaks.md)
 * [🤖 LangX Copilot](library/language-copilot.md)
 

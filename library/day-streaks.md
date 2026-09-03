@@ -37,10 +37,12 @@ day, one is spent automatically and the streak survives.
 You can bank two at a time. Enough for real life, not enough to make the streak
 meaningless.
 
-If you missed a day and had no freeze banked, you can still
-[**fill the square in**](../token/utility.md) afterwards for 600 tokens —
-within the last 14 days, twice a month, and never today. If the day you fill sat
-between two runs, they join and your streak becomes the whole length.
+A freeze covers the **next** day you miss — it does not reach back. For a day
+you have already missed, you can still [**buy it back**](../token/utility.md)
+for 600 tokens: from the store in your wallet, which offers the most recent day
+you missed, or by tapping the empty square on your activity map. Within the
+last 14 days, twice a month, and never today. If the day you fill sat between
+two runs, they join and your streak becomes the whole length.
 
 ## Milestones
 
@@ -62,11 +64,18 @@ you actually did that day.
 
 ## Leaderboards 🏆
 
-The app has **weekly, monthly, yearly and all-time** leaderboards. They rank
-tokens **earned**, and every entry shows that member's streak alongside it —
-so a long streak is visible whether or not it is the number being sorted on.
+The streak page carries its own table, ranked by days. Two tabs: **Now**, the
+run each member is holding at the moment, and **Longest**, the best they have
+ever held. A streak has to be alive to appear under _Now_ — somebody who
+stopped weeks ago keeps their number in _Longest_ but drops off the current
+table, so it is a table of people who are showing up, not of people who once
+did.
 
-Your own rank is always shown, even when you are outside the top of the table.
+The token leaderboards — **weekly, monthly, yearly and all-time**, ranking
+tokens **earned** — live in your wallet under your balance.
+
+Your own rank is always shown on both, even when you are outside the top of the
+table.
 
 ## Coming back after a break
 

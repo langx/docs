@@ -100,18 +100,45 @@ $$\lfloor 10{,}000 \times 60 / 3{,}000 \rfloor = 200$$ tokens — on top of the
 
 Keeping a daily streak pays a bonus when you reach a milestone:
 
-| Streak   | Bonus |
-| -------- | ----- |
-| 7 days   | 50    |
-| 30 days  | 250   |
-| 100 days | 1,000 |
-| 365 days | 5,000 |
+| Streak     | Bonus  |
+| ---------- | ------ |
+| 7 days     | 50     |
+| 30 days    | 250    |
+| 100 days   | 1,000  |
+| 180 days   | 1,500  |
+| 365 days   | 5,000  |
+| 730 days   | 12,000 |
+| 1,095 days | 25,000 |
 
 Opening the app is enough to keep a streak going. These **bonuses**, though, are
 paid for a day you did something meaningful — send a message, write a
 correction, or answer a pronunciation request. If a check-in carries you across
 a milestone in the morning, the first real thing you do that day pays it. See
 [Day Streaks](../library/day-streaks.md).
+
+## The hourly gift
+
+The wallet's store holds one free gift an hour. Open it and it pays a random
+number of tokens, from nothing up to 250 — but the shape is deliberately
+lopsided: about a third of gifts are empty, nine in ten hold 30 or fewer, and
+the top of the range comes up about once in a thousand. On average a gift is
+worth about 11 tokens.
+
+| Gift holds | How often |
+| ---------- | --------- |
+| Nothing    | 35%       |
+| 1 – 10     | 35%       |
+| 11 – 30    | 23%       |
+| 31 – 60    | 5%        |
+| 61 – 120   | 1.5%      |
+| 121 – 200  | 0.4%      |
+| 201 – 250  | 0.1%      |
+
+The gift is decided on the server, not on your phone, and the hour is counted
+from the last one you opened. Gift tokens go to your all-time balance only:
+they never count toward the weekly, monthly or yearly tables, which rank what
+you did, not what you were given. Nothing is bought, staked or redeemable —
+it is a free gift, not a game of chance.
 
 ## Why these numbers are public
 

@@ -1,12 +1,12 @@
 ---
 description: >-
   The complete list of what LangX Tokens can be spent on — a streak freeze,
-  filling in a missed day, and cosmetic frames and titles.
+  filling in a missed day, cosmetic frames and titles, and sticker packs.
 ---
 
 # 💎 Spending Tokens
 
-There are exactly three things to spend tokens on. The list is short on
+There are exactly four things to spend tokens on. The list is short on
 purpose, and it is worth explaining why before going through it.
 
 ## Streak freeze — 200 tokens
@@ -73,6 +73,24 @@ recordings left on a pronunciation request all count towards that number; they
 are the same act in different media, and each one is paid the same. Anyone who
 qualifies has already earned more than its price from those alone, so the gate
 decides who and the price only decides when.
+
+## Sticker packs — 1,000 tokens each
+
+Two packs of twelve stickers to send in a chat. **Starter** is what you say in
+a conversation — a wave, an ear, a pencil, a mouth, a question mark; **Practice**
+is about the practice itself — slow down, again, let us switch languages, we
+got there.
+
+Both cost the same, and that is the point: packs are not a ladder the way
+frames and titles are. There is no rung below either of them, so neither has to
+be bought before the other. If a third pack arrives it will sit beside these
+two rather than above them.
+
+The stickers carry **no lettering**. LangX is read in eight languages, and a
+sticker that says *Nice!* would only work in one of them — so the drawings say
+it instead. Half of each pack is drawn for this app; the other half is
+Microsoft's Fluent Emoji under the MIT licence, used unmodified and credited in
+the app's *Our Kitchen* screen.
 
 ## Why the list ends there
 

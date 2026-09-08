@@ -14,12 +14,12 @@ everyone who was active.
 
 | What you did                                                      | Tokens |
 | ----------------------------------------------------------------- | ------ |
-| Send a message                                                    | 2      |
+| Send a message                                                    | 1      |
 | Write a correction on someone's sentence                          | 10     |
 | Answer a pronunciation request with a recording                   | 10     |
 | Get a conversation going — the first time you and a partner have both spoken | 15     |
 
-A correction is worth five messages, and that ratio is not an accident.
+A correction is worth ten messages, and that ratio is not an accident.
 Teaching someone is the behaviour the platform exists for, so it is the
 behaviour worth paying for. Corrections have no daily cap on either the free or
 the Pro tier.
@@ -32,8 +32,8 @@ slower take on the same answer is welcome but does not pay again.
 
 | Cap                                  | Limit                  |
 | ------------------------------------ | ---------------------- |
-| Messages that pay, per day           | 100 (up to 200 tokens) |
-| Messages that pay, from one partner  | 30 (up to 60 tokens)   |
+| Messages that pay, per day           | 200 (up to 200 tokens) |
+| Messages that pay, from one partner  | 60 (up to 60 tokens)   |
 
 The per-partner cap is what stops two accounts from farming each other, and the
 daily cap is what stops volume from beating quality. Anything past the cap
@@ -84,7 +84,7 @@ $$
 
 If everyone's scores add up to 3,000 that day, your share is
 $$\lfloor 10{,}000 \times 60 / 3{,}000 \rfloor = 200$$ tokens — on top of the
-2 × 30 + 10 × 3 + 15 = 105 tokens you were already paid directly.
+1 × 30 + 10 × 3 + 15 = 75 tokens you were already paid directly.
 
 ### Two conditions
 

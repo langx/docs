@@ -70,7 +70,7 @@ We offer a range of features to help you get the most out of your language learn
 * **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
 * **🏅 Badge** : Earn badges for your achievements and display them on your profile. _coming-soon_
-* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. Fluent is an optional subscription that adds the gender and city filters, 300 translations a day, a second language to learn and unlimited new conversations. Polyglot is everything in Fluent plus who viewed your profile, incognito browsing, 1,000 translations a day, five languages to learn, the Nearby sort, and LangX Copilot once it ships.
+* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. Fluent is an optional subscription that adds the gender and city filters, 300 translations a day, a second language to learn and unlimited new conversations. Polyglot is everything in Fluent plus who viewed your profile, incognito browsing, writing in your language and sending in theirs, 1,000 translations a day, five languages to learn, the Nearby sort, exporting a conversation's saved phrases, and LangX Copilot once it ships.
 * **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
 
 And, The Most Exciting one is that

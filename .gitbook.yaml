@@ -1,0 +1,33 @@
+# Explicit, and matching what GitBook already infers for this repo: content at
+# the root, README.md as the landing page, SUMMARY.md as the table of contents.
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+# The on-chain pages were removed rather than left up under a "Not Built"
+# heading, which did nothing for a search result or a bookmark. Their URLs
+# still exist in indexes and in v1 users' history, so they land on the page
+# that explains what happened instead of on nothing.
+#
+# Paths are relative to `root` and carry no leading slash. A redirect only
+# takes effect once the old page is gone, which it is.
+redirects:
+  # Mechanisms that were never built. token.md carries both the "not tradable,
+  # not staked, not listed / no chain, no contract, no wallet address" list and
+  # the note that the earlier on-chain plan is not being built.
+  token/staking: token/token.md
+  token/trading: token/token.md
+  token/langx-nft: token/token.md
+  learn-2-earn/connect-wallet: token/token.md
+  library/technology: token/token.md
+  library/technology/wallet: token/token.md
+  library/technology/web-3.0: token/token.md
+  library/technology/blockchain: token/token.md
+  library/technology/smart-contracts: token/token.md
+  library/technology/ethereum-virtual-machine: token/token.md
+  library/technology/kyc: token/token.md
+  # This one asked a real question — how do I get tokens — so it goes to the
+  # page that still answers it, not to the disclaimer.
+  learn-2-earn/claim-your-tokens: learn-2-earn/daily-tokens.md

@@ -25,7 +25,6 @@
 * [🔔 Notifications](library/notifications.md)
 * [🏆 Day Streaks](library/day-streaks.md)
 * [🤖 LangX Copilot](library/language-copilot.md)
-* [🔑 Coming Back From the Old App](library/coming-back.md)
 
 ## 🗄️ Not Built
 

@@ -38,8 +38,8 @@ Three limits, and each is doing a job:
 It costs more than a freeze on purpose. A freeze asks you to think ahead and
 costs you that foresight; a repair asks nothing of you but tokens, so it should
 not be the cheaper habit. Measured against what a day is worth — a hundred
-messages, at two tokens each — a repair is about three days of committed use to
-buy one day back.
+messages, at one token each — a repair is about six days of committed use to
+buy one day back, and a freeze about two.
 
 Before you buy, the app tells you exactly what the purchase will do — including
 when the honest answer is *nothing much*. A square in the middle of a fortnight

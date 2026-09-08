@@ -38,8 +38,8 @@ the subscription is what pays for the app.
 
 - [**How tokens are earned**](distibution.md) — the awards, the daily caps and
   the shared daily pool.
-- [**Spending tokens**](utility.md) — a streak freeze, and cosmetic frames and
-  titles. That is the complete list.
+- [**Spending tokens**](utility.md) — a streak freeze, a filled-in day, and
+  cosmetic frames, titles and sticker packs. That is the complete list.
 - [**Daily tokens**](../learn-2-earn/daily-tokens.md) — how the pool is worked
   out and when it lands.
 

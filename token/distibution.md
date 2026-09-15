@@ -44,7 +44,7 @@ use. Your **streak** is the one thing measured in your own local day.
 
 ## The daily pool
 
-Every day, **10,000 tokens** are shared out among the members who were active
+Every day, **5,000 tokens** are shared out among the members who were active
 that day, in proportion to how active they were. Nobody's share is fixed —
 yours depends on everyone else's day as well as your own, which is what keeps
 it worth watching.
@@ -68,10 +68,10 @@ many messages to one, which is the behaviour the pool is trying to buy.
 Your share:
 
 $$
-\text{Share} = \left\lfloor 10{,}000 \times \frac{\text{Your Score}}{\text{Everyone's Score}} \right\rfloor
+\text{Share} = \left\lfloor 5{,}000 \times \frac{\text{Your Score}}{\text{Everyone's Score}} \right\rfloor
 $$
 
-capped at **5% of the pool** (500 tokens), no matter how quiet the day was.
+capped at **5% of the pool** (250 tokens), no matter how quiet the day was.
 
 ### Worked example
 
@@ -83,7 +83,7 @@ $$
 $$
 
 If everyone's scores add up to 3,000 that day, your share is
-$$\lfloor 10{,}000 \times 60 / 3{,}000 \rfloor = 200$$ tokens — on top of the
+$$\lfloor 5{,}000 \times 60 / 3{,}000 \rfloor = 100$$ tokens — on top of the
 1 × 30 + 10 × 3 + 15 = 75 tokens you were already paid directly.
 
 ### Two conditions

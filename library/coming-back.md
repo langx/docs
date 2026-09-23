@@ -27,8 +27,10 @@ address; a fresh account under a different address would start from zero.
 ## What you will see
 
 The first time you sign in, a _Welcome back_ screen lists what came back:
-your @username, your streak, your converted token balance and a welcome-back
-bonus, plus any conversations that were restored. If you had a large token
+your @username, your streak, your token balance — **divided by 100**, the scale
+the new app runs on — and a **welcome-back bonus of 250 tokens**, plus any
+conversations that were restored. Why the balance is divided is explained in
+[LangX Token](../token/token.md#coming-back-from-an-older-version-of-langx). If you had a large token
 balance in the old app you may also find a lifetime plan waiting.
 
 ## Something missing?

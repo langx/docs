@@ -49,7 +49,8 @@ the subscription is what pays for the app.
 looked like a purchase log was the daily payout being calculated — so every
 token in your balance was earned, and there is no reason not to honour it.
 
-Balances are **divided by 100** on the way in. Better to say that plainly than
+Balances are **divided by 100** on the way in, and a **welcome-back bonus of
+250 tokens** is added on top. Better to say that plainly than
 let you find it out afterwards. The two economies were never on the same scale:
 old balances run as high as 2.28 million, while a very active day now is about
 700 tokens. Credited one-for-one, the largest balance would sit roughly nine
@@ -57,12 +58,18 @@ years ahead of anyone new and the all-time leaderboard would never move again.
 Divided, it starts about a month ahead — a real head start, and one someone
 else can still close.
 
-You also get a welcome-back bonus, and the streak you had is frozen rather than
-lost: you can spend tokens to bring it back.
+The streak you had is frozen rather than lost: you can spend tokens to bring it
+back. How to sign back in is in
+[Coming Back From the Old App](../library/coming-back.md).
 
 {% hint style="info" %}
 **On the earlier on-chain plan.** An older version of this litepaper described
-wallets, staking, trading and an on-chain distribution layer. None of it was
-built and none of it is planned. Those pages are still reachable so old links
-do not break, but each carries a notice; they are not a roadmap.
+wallets, staking, trading, NFTs and an on-chain distribution layer. None of it
+was built and none of it is planned. Those pages have been taken down; their
+old addresses lead here.
 {% endhint %}
+
+## In more detail
+
+[**token.langx.io**](https://token.langx.io) sets all of this out on one page,
+in the app's eight languages, with the current high scores.

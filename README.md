@@ -69,7 +69,8 @@ We offer a range of features to help you get the most out of your language learn
 * **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.
 * **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
-* **🏅 Badge** : Earn badges for your achievements and display them on your profile. _coming-soon_
+* **🏅 Badges** : Earn badges for your streaks, corrections and messages, and show them on your profile. For more info: [Badges](library/badges.md)
+* **🪙 Tokens** : Earn in-app points by practising and teaching, and spend them on a streak freeze and cosmetics. Not a cryptocurrency. For more info: [LangX Token](token/token.md) and [token.langx.io](https://token.langx.io)
 * **💰 Free to Use. Always.** : Reply to every message you get, with no limits, and correct as many as you like. Fluent is an optional subscription that adds the gender and city filters, 300 translations a day, 100 messages and 50 Echo cards read aloud a day, a second language to learn and unlimited new conversations. Polyglot is everything in Fluent plus who viewed your profile, incognito browsing, writing in your language and sending in theirs, 1,000 translations a day, 250 messages and 100 Echo cards read aloud a day, five languages to learn, the Nearby sort, exporting a conversation's saved phrases, and LangX Copilot once it ships.
 * **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
 

@@ -18,6 +18,7 @@ everyone who was active.
 | Write a correction on someone's sentence                          | 10     |
 | Answer a pronunciation request with a recording                   | 10     |
 | Get a conversation going — the first time you and a partner have both spoken | 15     |
+| Finish a review in Echo (ten cards)                               | 5      |
 
 A correction is worth ten messages, and that ratio is not an accident.
 Teaching someone is the behaviour the platform exists for, so it is the
@@ -28,12 +29,23 @@ Recording how a word is said pays the same, for the same reason: it is the same
 act in a different medium. You can answer each request once, and a second,
 slower take on the same answer is welcome but does not pay again.
 
+A review in **Echo** — ten of the cards made from sentences in your own chats —
+pays 5. Reviewing is worth paying for, and it is the one kind of practice that
+does not need somebody else to be awake, but it is done alone, so it sits below
+the two acts that need another person. Five reviews a day pay, counted on your
+own local day, so Echo is worth up to 25 tokens a day. It does not count toward
+the daily pool, which scores what you do with other people.
+
+Every new account also starts with **250 tokens** — the price of a streak
+freeze plus change, so the first thing worth owning is already within reach.
+
 ### Caps on message tokens
 
 | Cap                                  | Limit                  |
 | ------------------------------------ | ---------------------- |
 | Messages that pay, per day           | 200 (up to 200 tokens) |
 | Messages that pay, from one partner  | 60 (up to 60 tokens)   |
+| Echo reviews that pay, per day       | 5 (up to 25 tokens)    |
 
 The per-partner cap is what stops two accounts from farming each other, and the
 daily cap is what stops volume from beating quality. Anything past the cap
@@ -86,7 +98,7 @@ If everyone's scores add up to 3,000 that day, your share is
 $$\lfloor 5{,}000 \times 60 / 3{,}000 \rfloor = 100$$ tokens — on top of the
 1 × 30 + 10 × 3 + 15 = 75 tokens you were already paid directly.
 
-### Two conditions
+### Three rules
 
 - **Accounts younger than 24 hours earn no pool share.** A pool that paid out
   to hour-old accounts would be a throwaway-account generator.
@@ -115,6 +127,24 @@ paid for a day you did something meaningful — send a message, write a
 correction, or answer a pronunciation request. If a check-in carries you across
 a milestone in the morning, the first real thing you do that day pays it. See
 [Day Streaks](../library/day-streaks.md).
+
+## Inviting someone
+
+Your invite code is your username. When somebody signs up with it:
+
+| When                                                     | You get | They get |
+| -------------------------------------------------------- | ------- | -------- |
+| They write their first message or correction             | 1,000   | 750      |
+| They ever start a paid plan (once, never on a renewal)    | 4,000   | —        |
+
+That is at most **5,000 tokens per person** you invite, and an invited newcomer
+starts on 1,000 — the 750 plus the 250 every account starts with.
+
+**Nothing is paid for signing up.** The award waits until the person you
+invited has actually written to somebody, because a reward for creating an
+account is a reward for creating accounts. And the plan bonus does not make
+tokens buyable: the person who pays gets nothing for paying, and money never
+buys tokens for whoever spent it.
 
 ## The hourly gift
 

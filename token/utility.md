@@ -74,23 +74,27 @@ are the same act in different media, and each one is paid the same. Anyone who
 qualifies has already earned more than its price from those alone, so the gate
 decides who and the price only decides when.
 
-## Sticker packs — 1,000 tokens each
+## Sticker packs — from 1,000 tokens
 
-Two packs of twelve stickers to send in a chat. **Starter** is what you say in
-a conversation — a wave, an ear, a pencil, a mouth, a question mark; **Practice**
-is about the practice itself — slow down, again, let us switch languages, we
-got there.
+Three packs of twelve stickers to send in a chat.
 
-Both cost the same, and that is the point: packs are not a ladder the way
-frames and titles are. There is no rung below either of them, so neither has to
-be bought before the other. If a third pack arrives it will sit beside these
-two rather than above them.
+| Pack     | Tokens | What it is for                                                                 |
+| -------- | ------ | ------------------------------------------------------------------------------ |
+| Starter  | 1,000  | What you say in a conversation — a wave, an ear, a pencil, a mouth, a question |
+| Practice | 1,000  | The practice itself — slow down, again, let us switch languages, we got there   |
+| Pixel    | 1,500  | 16×16 pixel art in an 8-bit game's language — a coin, a checkpoint, a save, a level up |
+
+Packs are not a ladder the way frames and titles are. There is no rung below
+any of them, so any one can be bought first, alone, or never. Pixel costs more
+for a plainer reason: it cost more to make. Starter and Practice are each half
+drawn for this app and half Microsoft's Fluent Emoji; Fluent has no pixel
+variant, so all twelve Pixel stickers were drawn here. That is a price, not a
+gate.
 
 The stickers carry **no lettering**. LangX is read in eight languages, and a
 sticker that says *Nice!* would only work in one of them — so the drawings say
-it instead. Half of each pack is drawn for this app; the other half is
-Microsoft's Fluent Emoji under the MIT licence, used unmodified and credited in
-the app's *Our Kitchen* screen.
+it instead. The Fluent Emoji are used unmodified under the MIT licence and
+credited in the app's *Our Kitchen* screen.
 
 ## Why the list ends there
 

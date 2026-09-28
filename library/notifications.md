@@ -45,7 +45,7 @@ screen somebody else can see.
 ## Profile visits: the number and the names
 
 The **number** of people who looked at your profile is free, and that is what
-the notification tells you. **Who they were** is part of Polyglot, and you will
+the notification tells you. **Who they were** is part of Pro, and you will
 find them on the Visitors screen — the weekly email names them only if your
 plan includes them.
 

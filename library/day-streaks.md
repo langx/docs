@@ -58,6 +58,9 @@ Reaching a milestone pays a bonus:
 | 730 days   | 12,000 |
 | 1,095 days | 25,000 |
 
+The 100- and 365-day milestones also give Pro: 1 month and 3 months, once
+each. See [Getting Pro Free](free-pro.md).
+
 Beyond the bonuses, showing up daily is also the surest way to a share of the
 [daily pool](../token/distibution.md), since the pool is worked out from what
 you actually did that day.

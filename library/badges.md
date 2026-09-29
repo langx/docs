@@ -22,7 +22,7 @@ tokens are earned is in [How Tokens Are Earned](../token/distibution.md).
 | Badge         | Earned at                                                    |
 | ------------- | ------------------------------------------------------------ |
 | Streak        | A longest streak of 7, 30, 100, 180, 365, 730 and 1,095 days |
-| Corrections   | 1, 10, 100, 1,000, 5,000, 10,000 and 25,000 corrections       |
+| Feed          | 1, 10, 100, 1,000, 5,000, 10,000 and 25,000 in the feed      |
 | Messages      | 100, 1,000, 10,000 and 50,000 messages sent                  |
 | Tokens earned | 10,000, 50,000 and 250,000 tokens earned                     |
 | Member        | One, two and three years as a member                         |
@@ -31,10 +31,12 @@ tokens are earned is in [How Tokens Are Earned](../token/distibution.md).
   broken streak does not cost you a badge you already had. The days are the
   same ones that pay a [streak bonus](day-streaks.md#milestones), so the badge
   screen and the token ledger always tell the same story.
-- **Corrections** count every correction you have written, in a chat or on a
-  post, and every recording you have left on a pronunciation request — the
-  same act in a different medium. 5,000 of them, with a 365-day streak, is also
-  what the Aurora frame asks for (see [Spending Tokens](../token/utility.md)).
+- **Feed** badges count your posts and your corrections together: every post
+  you have up, every correction you have written in a chat or on a post, and
+  every recording you have left on a pronunciation request. It is the same
+  number as the Feed tile on your profile. 5,000 of them, with a 365-day
+  streak, is also what the Aurora frame asks for (see
+  [Spending Tokens](../token/utility.md)). A deleted post leaves the count.
 - **Tokens earned** counts what you have earned over all time, never your
   balance. Spending tokens on a frame cannot cost you a badge.
 - **Member** badges are for staying rather than for effort — three years of

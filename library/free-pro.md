@@ -33,6 +33,10 @@ streak was already past 100 or 365 days when this started, you still get it —
 the next time you practise. How streaks work is on
 [Day Streaks](day-streaks.md).
 
+A [streak freeze](../token/utility.md) bought with tokens keeps your streak
+going, and a kept streak counts toward these rewards. Tokens never buy Pro
+directly.
+
 ## Use a gift code
 
 Open the plans screen in the app and tap **Have a gift code?** under the

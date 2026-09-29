@@ -146,6 +146,10 @@ account is a reward for creating accounts. And the plan bonus does not make
 tokens buyable: the person who pays gets nothing for paying, and money never
 buys tokens for whoever spent it.
 
+Invites also earn Pro: every 3 people you invite who start talking give you a
+month of it, up to 3 months a year. See
+[Getting Pro Free](../library/free-pro.md).
+
 ## The hourly gift
 
 The wallet's store holds one free gift an hour. Open it and it pays a random

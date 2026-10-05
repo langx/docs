@@ -66,6 +66,7 @@ We offer a range of features to help you get the most out of your language learn
 * **⚙️ Fine Tune Your Connections** : Browse the community freely, and narrow it down by country, age and level for free — gender and city come with Pro.
 * **🔍 Profile Insights** : Get insights into your language learning progress and habits directly from your profile.
 * **💬 Just Chat** : Experience our user-friendly chat interface. Learning a language has never been this fun and easy.
+* **📞 Voice and Video Calls** : Call the people you chat with once they have sent you 5 messages. Free on every plan; in the web app now, coming to the iPhone and Android apps. For more info: [Calls](library/calls.md)
 * **🔒 Your Data, Your Privacy** : We respect your privacy. Control what data you share and manage your privacy settings easily.
 * **⭐ Rating Evaluation** : Rate your language exchange partners and receive ratings to help improve the quality of interactions in our community. _coming-soon_
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.

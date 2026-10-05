@@ -23,6 +23,7 @@
 
 * [🥇 Badges](library/badges.md)
 * [🔔 Notifications](library/notifications.md)
+* [📞 Calls](library/calls.md)
 * [🏆 Day Streaks](library/day-streaks.md)
 * [🤖 LangX Copilot](library/language-copilot.md)
 * [🎁 Getting Pro Free](library/free-pro.md)

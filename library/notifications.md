@@ -35,6 +35,14 @@ This is the same switch as **Messages → Push**. Turning that off silences the
 in-app banner too, though the chat list still shows everything with its unread
 count.
 
+## Calls
+
+A call ringing is not one of the five kinds above. The switch for being called
+at all is **Settings → Privacy → Allow calls**.
+
+A call you missed is treated like a message: it shows in the chat and, if
+**Messages → Push** is on, arrives as a notification. See [Calls](calls.md).
+
 ## What we never put in an email
 
 **Not a word of anybody's message.** An unread-message email tells you how many

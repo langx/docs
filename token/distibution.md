@@ -147,9 +147,7 @@ accounts. And the plan bonus does not make tokens buyable: the person who pays
 gets nothing for paying, and money never buys tokens for whoever spent it.
 
 You are paid for up to **10 invites a month**. Past that, the person you
-invited still gets their 750, and that invite pays you nothing. An invite also
-pays nothing, to either of you, when both accounts are used from the same
-network or the same device.
+invited still gets their 750, and that invite pays you nothing.
 
 Invites also earn Pro: every 3 people you invite who have a real conversation
 give you a month of it, up to 3 months a year. See

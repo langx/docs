@@ -12,14 +12,16 @@ Pro without paying.
 ## Invite friends
 
 Share your invite link from the app. Every **3 friends** who join with it and
-send their first message or correction give you **1 month of Pro**.
+have a real conversation with someone other than you give you **1 month of
+Pro**.
 
 You can earn up to **3 months a year** this way, counted per calendar year.
 Each invite also earns you tokens — see
 [Inviting someone](../token/distibution.md#inviting-someone).
 
-A friend counts once they have actually written to somebody, not when they sign
-up. A reward for creating an account would be a reward for creating accounts.
+A friend counts once they have had a real conversation — both sides writing —
+with somebody other than you, not when they sign up. A reward for creating an
+account would be a reward for creating accounts.
 
 ## Keep a streak
 

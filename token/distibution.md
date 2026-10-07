@@ -132,22 +132,27 @@ a milestone in the morning, the first real thing you do that day pays it. See
 
 Your invite code is your username. When somebody signs up with it:
 
-| When                                                     | You get | They get |
-| -------------------------------------------------------- | ------- | -------- |
-| They write their first message or correction             | 1,000   | 750      |
+| When                                                      | You get | They get |
+| --------------------------------------------------------- | ------- | -------- |
+| They have a real conversation with someone other than you | 1,000   | 750      |
 | They ever start a paid plan (once, never on a renewal)    | 4,000   | —        |
 
 That is at most **5,000 tokens per person** you invite, and an invited newcomer
 starts on 1,000 — the 750 plus the 250 every account starts with.
 
 **Nothing is paid for signing up.** The award waits until the person you
-invited has actually written to somebody, because a reward for creating an
-account is a reward for creating accounts. And the plan bonus does not make
-tokens buyable: the person who pays gets nothing for paying, and money never
-buys tokens for whoever spent it.
+invited has had a real conversation — both sides writing — with somebody other
+than you, because a reward for creating an account is a reward for creating
+accounts. And the plan bonus does not make tokens buyable: the person who pays
+gets nothing for paying, and money never buys tokens for whoever spent it.
 
-Invites also earn Pro: every 3 people you invite who start talking give you a
-month of it, up to 3 months a year. See
+You are paid for up to **10 invites a month**. Past that, the person you
+invited still gets their 750, and that invite pays you nothing. An invite also
+pays nothing, to either of you, when both accounts are used from the same
+network or the same device.
+
+Invites also earn Pro: every 3 people you invite who have a real conversation
+give you a month of it, up to 3 months a year. See
 [Getting Pro Free](../library/free-pro.md).
 
 ## The hourly gift

@@ -27,12 +27,13 @@ account would be a reward for creating accounts.
 
 | Streak   | Pro      |
 | -------- | -------- |
+| 7 days   | 1 week   |
 | 100 days | 1 month  |
 | 365 days | 3 months |
 
-Each one is given **once**, so a year-long streak adds up to 4 months. If your
-streak was already past 100 or 365 days when this started, you still get it —
-the next time you practise. How streaks work is on
+Each one is given **once**, so a year-long streak adds up to 4 months and a
+week. If your streak was already past 7, 100 or 365 days when this started,
+you still get it — the next time you practise. How streaks work is on
 [Day Streaks](day-streaks.md).
 
 A [streak freeze](../token/utility.md) bought with tokens keeps your streak

@@ -154,8 +154,8 @@ gets nothing for paying, and money never buys tokens for whoever spent it.
 You are paid for up to **10 invites a month**. Past that, the person you
 invited still gets their 750, and that invite pays you nothing.
 
-Invites also earn Pro: every 3 people you invite who have a real conversation
-give you a month of it, up to 3 months a year. See
+Invites also earn Pro: each person you invite who has a real conversation gets
+a week of it, and so do you, up to 12 weeks a year for you. See
 [Getting Pro Free](../library/free-pro.md).
 
 ## The hourly gift

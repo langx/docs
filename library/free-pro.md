@@ -66,6 +66,9 @@ Pro from an invite, a streak, a gift code or a gift from us:
 - is announced a week before it ends, and again the day before;
 - ends with a short thank-you from **@langx**, and you are back on Free.
 
+Languages you add while you have free Pro pause in Discover when it ends. They
+stop being used for matching, but they stay on your profile.
+
 If you get free Pro twice, the second period starts where the first one ends.
 If you want to keep Pro after that, subscribe from the plans screen.
 

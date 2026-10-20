@@ -51,28 +51,55 @@ before you spend rather than after.
 Cosmetic frames around your avatar, and titles shown next to your name. They
 change how your profile looks and nothing else.
 
-There are ten frames and ten titles.
+There are sixteen frames and ten titles. Each frame is a small piece of craft
+from somewhere in the world — cut paper, stitching, tile, lacquer, glass.
 
-| Frame    | Tokens | Title    | Tokens  |
-| -------- | ------ | -------- | ------- |
-| Slate    | 1,000  | Beginner | 1,500   |
-| Bronze   | 2,500  | Learner  | 3,000   |
-| Sky      | 4,000  | Helper   | 5,000   |
-| Silver   | 6,000  | Tutor    | 8,000   |
-| Mint     | 9,000  | Mentor   | 12,000  |
-| Ember    | 13,000 | Linguist | 15,000  |
-| Gold     | 18,000 | Polyglot | 17,000  |
-| Violet   | 25,000 | Scholar  | 20,000  |
-| Midnight | 35,000 | Master   | 50,000  |
-|          |        | Legend   | 100,000 |
+| Frame          | Tokens |
+| -------------- | ------ |
+| Papel Picado   | 1,000  |
+| Washi Tape     | 1,750  |
+| Running Stitch | 2,500  |
+| Linocut        | 3,250  |
+| Woven Reed     | 4,000  |
+| Origami Fold   | 6,000  |
+| Indigo Dye     | 7,500  |
+| Enamel Pin     | 9,000  |
+| Mosaic         | 11,000 |
+| Iznik Tile     | 13,000 |
+| Khokhloma      | 18,000 |
+| Seal and Fret  | 21,500 |
+| Qalam          | 25,000 |
+| Marquetry      | 30,000 |
+| Night Hoop     | 35,000 |
 
-One more frame, **Aurora**, cannot be saved up for. It costs 50,000 and is only
-offered to someone who has held a 365-day streak *and* corrected 5,000 times —
-the top rung of both ladders. Corrections in a chat, corrections on a post and
-recordings left on a pronunciation request all count towards that number; they
-are the same act in different media, and each one is paid the same. Anyone who
-qualifies has already earned more than its price from those alone, so the gate
-decides who and the price only decides when.
+| Title    | Tokens  |
+| -------- | ------- |
+| Beginner | 1,500   |
+| Learner  | 3,000   |
+| Helper   | 5,000   |
+| Tutor    | 8,000   |
+| Mentor   | 12,000  |
+| Linguist | 15,000  |
+| Polyglot | 17,000  |
+| Scholar  | 20,000  |
+| Master   | 50,000  |
+| Legend   | 100,000 |
+
+Frames and titles are two ladders, and you climb each one in order: a frame
+opens once you own the frame before it in the list, or any frame after it.
+Titles work the same way. So if you already wear a dearer frame — one you
+bought earlier, or one that came with a subscription — the cheaper ones below
+it are open to you too. The two ladders are separate; a frame never depends on
+a title.
+
+The sixteenth frame, **Aurora Glass**, cannot be saved up for. It costs 50,000
+and is only offered to someone who has held a 365-day streak *and* corrected
+5,000 times — the top streak badge and the top corrections badge. Corrections
+in a chat, corrections on a post and recordings left on a pronunciation request
+all count towards that number; they are the same act in different media, and
+each one is paid the same. Anyone who qualifies has already earned more than
+its price from those alone, so the gate decides who and the price only decides
+when.
 
 ## Sticker packs — from 1,000 tokens
 

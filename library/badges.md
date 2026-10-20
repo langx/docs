@@ -34,7 +34,7 @@ tokens are earned is in [How Tokens Are Earned](../token/distibution.md).
 - **Corrections** count every correction you have written, in a chat or on a
   post, and every recording you have left on a pronunciation request — the
   same act in a different medium. 5,000 of them, with a 365-day streak, is also
-  what the Aurora frame asks for (see [Spending Tokens](../token/utility.md)).
+  what the Aurora Glass frame asks for (see [Spending Tokens](../token/utility.md)).
 - **Tokens earned** counts what you have earned over all time, never your
   balance. Spending tokens on a frame cannot cost you a badge.
 - **Member** badges are for staying rather than for effort — three years of

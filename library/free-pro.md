@@ -75,6 +75,9 @@ If you want to keep Pro after that, subscribe from the plans screen.
 A few things to know:
 
 - Free Pro can't be added to an account that already has lifetime Pro.
+- If you already pay for Pro, a streak or invite reward is skipped when your
+  subscription runs past the reward's end date — there's nothing for it to
+  add. That milestone or those invites still count as rewarded.
 - Free Pro doesn't pause a paid subscription. If you pay as well, the
   subscription is billed as usual, and if you cancel it, free Pro carries on
   until its own end date.

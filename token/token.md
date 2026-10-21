@@ -22,7 +22,10 @@ the token is what that adds up to.
 
 This matters more than the wording, so it is worth stating without hedging:
 
-- **Not transferable.** It cannot be sent to another member.
+- **Not transferable.** It cannot be sent to another member. Where the app
+  offers it, you can spend your own tokens on a sticker pack for someone you
+  talk to; that buys them the pack and moves no tokens, so their balance does
+  not change.
 - **Not purchasable.** There is no way to buy tokens, with money or anything else.
 - **Not withdrawable.** It does not leave the app.
 - **Not tradable, not staked, not listed.** There is no exchange, no market and

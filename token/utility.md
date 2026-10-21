@@ -103,29 +103,31 @@ when.
 
 ## Sticker packs — from 1,000 tokens
 
-Four packs of twelve stickers to send in a chat.
+Ten packs of twelve stickers to send in a chat.
 
-| Pack       | Tokens | What it is for                                                                          |
-| ---------- | ------ | --------------------------------------------------------------------------------------- |
-| Starter    | 1,000  | What you say in a conversation — a wave, an ear, a pencil, a mouth, a question          |
-| Practice   | 1,000  | The practice itself — slow down, again, let us switch languages, we got there           |
-| Pixel      | 1,500  | 16×16 pixel art in an 8-bit game's language — a coin, a checkpoint, a save, a level up  |
-| Paper Talk | 1,500  | Hellos and quick replies paired with everyday things — ¡Hola!, Çay?, Merci, Fixed it    |
+| Pack              | Tokens | What it is for                                                                           |
+| ----------------- | ------ | ---------------------------------------------------------------------------------------- |
+| Starter           | 1,000  | Pip, a little speech bubble, saying the everyday ones — hello, I am listening, thank you |
+| Paper Talk        | 1,500  | Hellos and quick replies cut from coloured paper — ¡Hola!, Çay?, Merci, Fixed it         |
+| Margin Notes      | 1,500  | A teacher's red pen on lined paper — insert, strike, swap, and a gold star               |
+| Polyglot stickers | 1,500  | Hello, thank you and good luck on postage stamps, in twelve languages                    |
+| Practice          | 1,000  | The practice itself, as felt badges — slow down, again, we got there                     |
+| Pixel             | 1,500  | Fuse-bead sprites in an 8-bit game's language — an extra life, a checkpoint, a save      |
+| Study Desk        | 1,500  | Stationery for homework together — flashcards, a highlighter, a tomato timer             |
+| Night Owl         | 1,500  | Chatting across time zones, when it is morning for one of you and midnight for the other |
+| Qalam stickers    | 1,500  | Ink and the tools of writing — a reed pen, marbled paper, a quill, a wax seal            |
+| Shared Table      | 1,500  | Twelve dishes you would describe to a partner from somewhere else                        |
 
 Packs are not a ladder the way frames and titles are. There is no rung below
-any of them, so any one can be bought first, alone, or never. Pixel and Paper
-Talk cost more for a plainer reason: they cost more to make. Starter and
-Practice are each half drawn for this app and half Microsoft's Fluent Emoji;
-Fluent has no pixel variant, so all twelve Pixel stickers were drawn here, and
-so were all twelve of Paper Talk's. That is a price, not a gate.
+any of them, so any one can be bought first, alone, or never. Starter and
+Practice cost 1,000 because they are the two entry packs — the price somebody
+new can reach first, in either flavour — and every other pack costs 1,500.
+That is a price, not a gate. Every sticker in every pack was drawn for this
+app.
 
-Only one pack carries **lettering**: Paper Talk, whose point is the words.
-LangX is read in eight languages, and a sticker that says *Nice!* only works in
-one of them — so the other three packs carry no words and let the drawings say
-it instead. Paper Talk takes that cost on purpose, for a pack you choose to buy:
-a few of its words are Spanish, French and Turkish, and most are English. The
-Fluent Emoji are used unmodified under the MIT licence and credited in the
-app's *Our Kitchen* screen.
+Some packs carry **lettering**: Paper Talk's hellos, Margin Notes' red-pen
+remarks, Night Owl's *gm* and *gn*, and Polyglot's greetings in twelve
+languages and eight scripts.
 
 ## Why the list ends there
 

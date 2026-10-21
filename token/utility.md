@@ -103,25 +103,29 @@ when.
 
 ## Sticker packs — from 1,000 tokens
 
-Three packs of twelve stickers to send in a chat.
+Four packs of twelve stickers to send in a chat.
 
-| Pack     | Tokens | What it is for                                                                 |
-| -------- | ------ | ------------------------------------------------------------------------------ |
-| Starter  | 1,000  | What you say in a conversation — a wave, an ear, a pencil, a mouth, a question |
-| Practice | 1,000  | The practice itself — slow down, again, let us switch languages, we got there   |
-| Pixel    | 1,500  | 16×16 pixel art in an 8-bit game's language — a coin, a checkpoint, a save, a level up |
+| Pack       | Tokens | What it is for                                                                          |
+| ---------- | ------ | --------------------------------------------------------------------------------------- |
+| Starter    | 1,000  | What you say in a conversation — a wave, an ear, a pencil, a mouth, a question          |
+| Practice   | 1,000  | The practice itself — slow down, again, let us switch languages, we got there           |
+| Pixel      | 1,500  | 16×16 pixel art in an 8-bit game's language — a coin, a checkpoint, a save, a level up  |
+| Paper Talk | 1,500  | Hellos and quick replies paired with everyday things — ¡Hola!, Çay?, Merci, Fixed it    |
 
 Packs are not a ladder the way frames and titles are. There is no rung below
-any of them, so any one can be bought first, alone, or never. Pixel costs more
-for a plainer reason: it cost more to make. Starter and Practice are each half
-drawn for this app and half Microsoft's Fluent Emoji; Fluent has no pixel
-variant, so all twelve Pixel stickers were drawn here. That is a price, not a
-gate.
+any of them, so any one can be bought first, alone, or never. Pixel and Paper
+Talk cost more for a plainer reason: they cost more to make. Starter and
+Practice are each half drawn for this app and half Microsoft's Fluent Emoji;
+Fluent has no pixel variant, so all twelve Pixel stickers were drawn here, and
+so were all twelve of Paper Talk's. That is a price, not a gate.
 
-The stickers carry **no lettering**. LangX is read in eight languages, and a
-sticker that says *Nice!* would only work in one of them — so the drawings say
-it instead. The Fluent Emoji are used unmodified under the MIT licence and
-credited in the app's *Our Kitchen* screen.
+Only one pack carries **lettering**: Paper Talk, whose point is the words.
+LangX is read in eight languages, and a sticker that says *Nice!* only works in
+one of them — so the other three packs carry no words and let the drawings say
+it instead. Paper Talk takes that cost on purpose, for a pack you choose to buy:
+a few of its words are Spanish, French and Turkish, and most are English. The
+Fluent Emoji are used unmodified under the MIT licence and credited in the
+app's *Our Kitchen* screen.
 
 ## Why the list ends there
 

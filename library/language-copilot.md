@@ -23,20 +23,21 @@ streak freeze and on cosmetics, and they never unlock a feature.
 
 - **Check my sentence.** Before you send, it looks over what you wrote and
   suggests a better version, or tells you it looks good.
-- **Say it in your language.** Write what you mean and it suggests how to say
-  it in the language you are learning.
-- **Explain.** Hold a message or a correction and choose Explain to see what
-  it means and why.
+- **Say it in the language you are learning.** Write what you mean and it
+  suggests how to say it.
+- **Explain.** Hold the other person's message, or a correction, and choose
+  Explain to see what it means and why.
 
-Every answer is drawn in blue and marked **Copilot · Beta**, so it is never
-mistaken for a correction from a person, which is green. Tapping a suggestion
+Every answer carries a blue **Copilot · Beta** label, so it is never mistaken
+for a correction from a person, which is green. Tapping a suggestion
 puts it in your message box; it does not send it.
 
 ## Before you use it
 
 The first time, the app asks before anything is sent. When you ask Copilot
 something, the text you asked about goes to Anthropic, the company that runs
-the AI model, with your languages and levels. Your name, email, photos and
+the AI model, with your languages and levels. To explain a message, that is
+the one message you picked, which the other person wrote. Your name, email, photos and
 voice notes are never sent. AI can be wrong, so read an answer before you
 use it.
 

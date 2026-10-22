@@ -23,7 +23,10 @@ everyone who was active.
 A correction is worth ten messages, and that ratio is not an accident.
 Teaching someone is the behaviour the platform exists for, so it is the
 behaviour worth paying for. Corrections have no daily cap on either the free or
-the Pro tier.
+the Pro tier. The one limit is per person: up to 10 corrections of any one
+partner's sentences pay in a day, in chat and on posts together. Past that you
+can keep correcting them, and they still see every correction; it just does not
+pay again until the next day.
 
 Recording how a word is said pays the same, for the same reason: it is the same
 act in a different medium. You can answer each request once, and a second,
@@ -41,18 +44,20 @@ freeze plus change, so the first thing worth owning is already within reach.
 
 ### Caps on message tokens
 
-| Cap                                  | Limit                  |
-| ------------------------------------ | ---------------------- |
-| Messages that pay, per day           | 200 (up to 200 tokens) |
-| Messages that pay, from one partner  | 60 (up to 60 tokens)   |
-| Echo reviews that pay, per day       | 5 (up to 25 tokens)    |
+| Cap                                          | Limit                  |
+| -------------------------------------------- | ---------------------- |
+| Messages that pay, per day                   | 200 (up to 200 tokens) |
+| Messages that pay, from one partner          | 60 (up to 60 tokens)   |
+| Corrections that pay, of one partner's words | 10 (up to 100 tokens)  |
+| Echo reviews that pay, per day               | 5 (up to 25 tokens)    |
 
-The per-partner cap is what stops two accounts from farming each other, and the
+The per-partner caps are what stop two accounts from farming each other, and the
 daily cap is what stops volume from beating quality. Anything past the cap
 still helps the person you are talking to; it just does not pay again.
 
-Both caps reset at **00:00 UTC**, the same clock the pool and the leaderboards
-use. Your **streak** is the one thing measured in your own local day.
+The message and correction caps reset at **00:00 UTC**, the same clock the pool
+and the leaderboards use. Your **streak** is the one thing measured in your own
+local day.
 
 ## The daily pool
 

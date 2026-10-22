@@ -56,8 +56,8 @@ daily cap is what stops volume from beating quality. Anything past the cap
 still helps the person you are talking to; it just does not pay again.
 
 The message and correction caps reset at **00:00 UTC**, the same clock the pool
-and the leaderboards use. Your **streak** is the one thing measured in your own
-local day.
+and the leaderboards use. Your **streak** and the Echo review cap run on your
+own local day.
 
 ## The daily pool
 

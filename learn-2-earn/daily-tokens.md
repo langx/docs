@@ -25,8 +25,8 @@ so it cannot be worked out until the day is genuinely finished for all of us.
 So the pool share for today reaches your balance tomorrow morning. Direct
 awards do not wait.
 
-Your **streak** is the one thing that runs on your own local day, not UTC —
-a streak should follow the day you actually lived.
+Your **streak** and the Echo review cap run on your own local day, not UTC —
+they should follow the day you actually lived.
 
 ## How much
 

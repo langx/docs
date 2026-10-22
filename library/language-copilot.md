@@ -1,49 +1,43 @@
 ---
 description: >-
-  An introduction to LangX Copilot, an AI-powered tool designed to enhance your
-  language learning experience with personalized feedback and privacy-focused
-  features.
+  LangX Copilot, the AI helper in a chat: what it does, what it sends, and why
+  it is a beta that may not be on for your account yet.
 ---
 
 # 🤖 LangX Copilot
 
-Introducing LangX Copilot, an innovative AI-powered tool designed to revolutionize your language learning journey. This feature-rich platform offers personalized feedback to enhance your skills as you practice in real-time with others. With LangX, your privacy is paramount, providing feedback directly to you in a distinct and confidential manner. as you converse with language partners. Built on the ethos of community-driven development and user privacy, LangX stands out as an open-source alternative that promises a unique and efficient language learning experience, powered by the advanced capabilities of AI. Join us as we delve into the exciting features of LangX Copilot, your 24/7 AI language learning companion.
+LangX Copilot is an AI helper inside a chat with a real person. It helps you
+write and understand messages; it never talks for you, and nothing it writes
+reaches the other person unless you send it yourself.
 
-## Personalized Feedback Feature
+## Beta, rolling out
 
-One of the standout features of LangX Copilot is the personalized feedback mechanism designed to elevate your language learning process. Here's how it works:
+Copilot is part of **Pro** and is in **beta, rolling out**: it is being turned
+on for accounts gradually, so it may not be on for yours yet, even on Pro. When
+it is not, the app simply shows no Copilot button.
 
-- **Privacy by Design:** Situated in the top right corner of any chat room interface, you will find a discrete toggle button. This powerful feature activates the Copilot’s personalized feedback system.
-- **In-the-Moment Corrections:** While engaging in conversation with others, activating this toggle allows you to receive real-time, AI-driven feedback. This ensures that you can immediately learn from any mistakes or refine your language use without breaking the flow of your conversation.
-- **See Your Feedback, Privately:** The feedback provided through this system is meant only for your eyes. These color-coded messages pop up within the chat room, giving you a clear, visual cue of areas for improvement, all while keeping your learning journey confidential.
+It is never paid for with tokens: [tokens](../token/utility.md) are spent on a
+streak freeze and on cosmetics, and they never unlock a feature.
 
-This innovative approach ensures a supportive, non-intrusive, and highly personalized language learning experience with LangX Copilot.
+## What it does
 
-## Revolutionize Your Language Learning
+- **Check my sentence.** Before you send, it looks over what you wrote and
+  suggests a better version, or tells you it looks good.
+- **Say it in your language.** Write what you mean and it suggests how to say
+  it in the language you are learning.
+- **Explain.** Hold a message or a correction and choose Explain to see what
+  it means and why.
 
-LangX Copilot is an avant-garde AI-powered tool that transforms how you learn languages. This innovative platform is your ultimate 24/7 companion in mastering a new language with efficiency and ease.
+Every answer is drawn in blue and marked **Copilot · Beta**, so it is never
+mistaken for a correction from a person, which is green. Tapping a suggestion
+puts it in your message box; it does not send it.
 
-### Privacy-Focused Feedback
+## Before you use it
 
-At the core of LangX is the commitment to your privacy. The Copilot feature provides personalized feedback directly to you in a confidential manner as you practice. This is facilitated through a discreet toggle feature accessible in the top right corner of any chat room. Only you can view these distinct, color-coded feedback messages, ensuring your learning journey remains private.
+The first time, the app asks before anything is sent. When you ask Copilot
+something, the text you asked about goes to Anthropic, the company that runs
+the AI model, with your languages and levels. Your name, email, photos and
+voice notes are never sent. AI can be wrong, so read an answer before you
+use it.
 
-### Community-Driven and Open Source
-
-LangX differentiates itself not just through its AI capabilities but also by embodying a community-driven, open-source ethos. Unlike other language exchange apps, LangX places a premium on user privacy and community input, offering an unparalleled language learning experience that's both comprehensive and user-centric.
-
-### Features
-
-- **Personalized AI Feedback:** Get instant, personalized feedback as you engage in real-time language practice with others.
-- **Privacy at the Forefront:** Feedback is delivered privately within chat rooms with a unique color code, ensuring only you can see it.
-- **Community-Driven Development:** As a 100% open-source project, LangX thrives on community contributions and feedback.
-- **Comprehensive Learning Experience:** Beyond AI feedback, LangX aims to offer a wide range of features designed to support your language learning journey in a holistic manner.
-
-## Coming Soon
-
-The LangX team is tirelessly working on introducing more features to support your language learning endeavors. Stay tuned for upcoming updates, including more AI-driven support tools designed to make your language learning process as smooth as possible.
-
-Join the LangX community today to experience a new era of language learning powered by AI and shaped by a commitment to privacy and community involvement. Your journey towards mastering a new language starts here.
-
-**While we are an application of exchange, culturally the same as linguistically, we still offer the opportunity to use a well trained AI-companion, whom is available 24/7.**
-
-Copilot is part of **Pro**, and it is not in the first release yet. It is never paid for with tokens: [tokens](../token/utility.md) are spent on a streak freeze and on cosmetics, and they never unlock a feature.
+There is a daily number of answers, and the app shows how many are left today.

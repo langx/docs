@@ -72,12 +72,12 @@ We offer a range of features to help you get the most out of your language learn
 * **🌙 Night Mode Engage** : Switch to night mode for a more comfortable reading experience in low light environments.
 * **🏅 Badges** : Earn badges for your streaks, corrections and messages, and show them on your profile. For more info: [Badges](library/badges.md)
 * **🪙 Tokens** : Earn in-app points by practising and teaching, and spend them on a streak freeze and cosmetics. Not a cryptocurrency. For more info: [LangX Token](token/token.md) and [token.langx.io](https://token.langx.io)
-* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, correct as many as you like, and call the people you chat with by voice or video. Pro is one optional subscription with everything in it: the gender and city filters, who viewed your profile, incognito browsing, writing in your language and sending in theirs, unlimited translations, 1,000 messages and 500 Echo cards read aloud a day, 400 voice notes written out as text a day, five languages to learn, unlimited new conversations, the Nearby sort, exporting a conversation's saved phrases, and LangX Copilot once it ships. Monthly and yearly both start with a free week. You can also get Pro without paying — invite friends, keep a streak, or use a gift code: [Getting Pro Free](library/free-pro.md)
+* **💰 Free to Use. Always.** : Reply to every message you get, with no limits, correct as many as you like, and call the people you chat with by voice or video. Pro is one optional subscription with everything in it: the gender and city filters, who viewed your profile, incognito browsing, writing in your language and sending in theirs, unlimited translations, 1,000 messages and 500 Echo cards read aloud a day, 400 voice notes written out as text a day, five languages to learn, unlimited new conversations, the Nearby sort, exporting a conversation's saved phrases, and LangX Copilot (beta, rolling out). Monthly and yearly both start with a free week. You can also get Pro without paying — invite friends, keep a streak, or use a gift code: [Getting Pro Free](library/free-pro.md)
 * **📖 100% Open-Sourced** : Our app is completely open-sourced. Join our developer community and contribute to our codebase.
 
 And, The Most Exciting one is that
 
-* **🤖 Learn with AI** : Your private language copilot — it gives you feedback while you practise with a real person, and only you see it. Part of **Pro**, and not in the first release. For more info: [Language Copilot](library/language-copilot.md)
+* **🤖 Learn with AI** : Your private language copilot — it checks a sentence before you send it, helps you say it in the language you are learning, and explains a message, while you practise with a real person. Only you see it. Part of **Pro** as a beta, rolling out gradually, so it may not be on for your account yet. For more info: [Language Copilot](library/language-copilot.md)
 
 ## Be a Contributor
 

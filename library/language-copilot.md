@@ -1,7 +1,7 @@
 ---
 description: >-
-  LangX Copilot, the AI helper in a chat: what it does, what it sends, and why
-  it is a beta that may not be on for your account yet.
+  LangX Copilot, the AI helper in a chat: what it does, what it sends, and who
+  can use it. A beta on Free and Pro.
 ---
 
 # 🤖 LangX Copilot
@@ -10,30 +10,37 @@ LangX Copilot is an AI helper inside a chat with a real person. It helps you
 write and understand messages; it never talks for you, and nothing it writes
 reaches the other person unless you send it yourself.
 
-## Beta, rolling out
+## A beta, on Free and Pro
 
-Copilot is part of **Pro** and is in **beta, rolling out**: it is being turned
-on for accounts gradually, so it may not be on for yours yet, even on Pro. When
-it is not, the app simply shows no Copilot button.
+Copilot is in the app as a **beta**, for every account with a verified email,
+on **Free** and on **Pro**. Every plan comes with a daily allowance of answers,
+and Pro's is larger. The app shows how many answers you have left, and when
+they run out, when more come back.
 
 It is never paid for with tokens: [tokens](../token/utility.md) are spent on a
 streak freeze and on cosmetics, and they never unlock a feature.
 
 ## What it does
 
-- **Check my sentence.** Before you send, it looks over what you wrote and
-  suggests a better version, or tells you it looks good.
-- **Say it in the language you are learning.** Write what you mean and it
-  suggests how to say it.
+Copilot has four helps, and each one waits for your tap.
+
+- **Check my sentence.** Type your message, tap the Copilot button beside Send
+  and choose Check my sentence. It suggests the smallest fix with a short
+  reason, or tells you it looks good.
+- **Say it in…** Write what you mean in your own language, tap the Copilot
+  button and choose the row that names the language you are learning, as in
+  _Say it in Spanish_. It suggests up to three ways to say it, at your level.
 - **Explain.** Hold the other person's message, or a correction, and choose
-  Explain to see what it means and why.
+  Explain to see what it means and why. It explains a person's correction as
+  they wrote it and never offers a different one.
 - **Reply ideas.** When the other person's newest message is waiting for an
   answer, a chip above your message box offers a few short replies at your
   level, for you to edit.
 
 Every answer carries a blue **Copilot · Beta** label, so it is never mistaken
-for a correction from a person, which is green. Tapping a suggestion
-puts it in your message box; it does not send it.
+for a correction from a person, which is green. The person you are talking to
+sees none of Copilot's answers. Tapping a suggestion puts it in your message
+box; it does not send it.
 
 ## Before you use it
 
@@ -50,4 +57,4 @@ sent, and Copilot asks before it is used the next time. Every answer also has
 [privacy policy](https://langx.io/privacy-policy) (section 2.6) says exactly
 what each help sends and what is kept.
 
-There is a daily number of answers, and the app shows how many are left today.
+Each help, step by step, is on [copilot.langx.io](https://copilot.langx.io).

@@ -1,7 +1,7 @@
 ---
 description: >-
-  LangX Copilot, the AI helper in a chat, part of Pro as a beta: what it does
-  and what it sends.
+  LangX Copilot, the AI helper in a chat: what it does, what it sends, and who
+  can use it. A beta on Free and Pro.
 ---
 
 # 🤖 LangX Copilot
@@ -10,10 +10,12 @@ LangX Copilot is an AI helper inside a chat with a real person. It helps you
 write and understand messages; it never talks for you, and nothing it writes
 reaches the other person unless you send it yourself.
 
-## Part of Pro, in beta
+## A beta, on Free and Pro
 
-Copilot is part of **Pro**, as a **beta**. It comes with a daily allowance of
-answers, and the app shows how many are left.
+Copilot is in the app as a **beta**, for every account with a verified email,
+on **Free** and on **Pro**. Every plan comes with a daily allowance of answers,
+and Pro's is larger. The app shows how many answers you have left, and when
+they run out, when more come back.
 
 It is never paid for with tokens: [tokens](../token/utility.md) are spent on a
 streak freeze and on cosmetics, and they never unlock a feature.

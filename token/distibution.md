@@ -177,9 +177,9 @@ worth about 11 tokens.
 | 201 – 250  | 0.1%      |
 
 The gift is decided on the server, not on your phone, and the hour is counted
-from the last one you opened. Gift tokens go to your all-time balance only:
-they never count toward the weekly, monthly or yearly tables, which rank what
-you did, not what you were given. Nothing is bought, staked or redeemable —
+from the last one you opened. Gift tokens count like any others: they go to
+your balance and to every board — weekly, monthly, yearly and all-time.
+Nothing is bought, staked or redeemable —
 it is a free gift, not a game of chance.
 
 ## Why these numbers are public
